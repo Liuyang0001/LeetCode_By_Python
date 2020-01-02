@@ -1,8 +1,9 @@
 ------
 
-## < center> LeetCode刷题笔记 < /center>
+##LeetCode刷题笔记
 
 <hr>
+
 
 ![](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1028190633,3879017652&fm=15&gp=0.jpg)
 
