@@ -1,11 +1,10 @@
-------
+
 
 ## LeetCode刷题笔记
 
-<hr>
 
 
-![](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/others/leetcodeico.jpg)
+![](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcodeico.jpg)
 
 
 
