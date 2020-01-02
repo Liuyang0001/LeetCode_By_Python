@@ -1,7 +1,6 @@
 
 
-## LeetCode刷题笔记
-
+<center>** LeetCode刷题笔记**</center>
 
 
 ![](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcodeico.jpg)
