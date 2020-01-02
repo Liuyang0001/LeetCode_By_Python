@@ -1,10 +1,8 @@
-
-
-<center>** LeetCode刷题笔记**</center>
-
+<hr>
 
 ![](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcodeico.jpg)
 
+<hr>
 
 
 | 编号 | 题目     | 难度 | 标签         | 版本号      | 博客地址                                                     |
