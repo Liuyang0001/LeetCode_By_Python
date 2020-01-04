@@ -59,7 +59,4 @@ class Solution:
             curr = curr.next
         if carry > 0: # 需要进位，使得链表加长
             curr.next = ListNode(1)
-        return dummyHead.next; #返回除头结点之后链表
-
-
-。
+        return dummyHead.next; # 返回除头结点之后链表
