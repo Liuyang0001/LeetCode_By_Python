@@ -28,10 +28,10 @@ class Solution:
             c2 = m + n - c1  # 因为数组从0开始，所以c1+c2=(m+n+1)-1
             # 切割nums1
             LMax1 = nums1[(c1 - 1) // 2] if c1 > 0 else (-1 * sys.maxsize)
-            RMin1 = nums1[c1 // 2] if c1 < 2 * n else sys.maxsize
+            RMin1 = nums1[c1 // 2] if c1 < 2 * m else sys.maxsize
             # 切割nums2
             LMax2 = nums2[(c2 - 1) // 2] if c2 > 0 else (-1 * sys.maxsize)
-            RMin2 = nums2[c2 // 2] if c2 < 2 * m else sys.maxsize
+            RMin2 = nums2[c2 // 2] if c2 < 2 * n else sys.maxsize
             # 不满足LMax<RMin 则进行调整切割位置
             if LMax1 > RMin2:
                 end_pos = c1 - 1
