@@ -47,7 +47,7 @@ class Solution:
             left = i - 1
             right = i + 1
             step = 0
-            print(test[i])
+
             while left >= 0 and right < len(test) and test[left] == test[right]:
                 left -= 1
                 right += 1
@@ -57,4 +57,3 @@ class Solution:
                 max_len = step
                 start = (i - max_len) // 2
         return s[start: start + max_len]
-
