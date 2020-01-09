@@ -15,4 +15,4 @@
 | 006 | Z字形变换 | 中等 | 字符串 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/6_convert.py) | [:memo:](https://liuyang0001.github.io/2020/01/06/6-Z字形变换/) |
 | 007 | 整数反转 | 简单 | 数学 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/7_reverse.py) | [:memo:](https://liuyang0001.github.io/2020/01/07/7-整数反转/) |
 | 008 | 字符串转换整数 | 中等 | 数学；字符串 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/8_myAtoi.py) | [:memo:](https://liuyang0001.github.io/2020/01/08/8-字符串转换整数/) |
-| 009 | 回文数 | 简单 | 数学 |  |  |
+| 009 | 回文数 | 简单 | 数学 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/9_回文数.py) | [:memo:](https://liuyang0001.github.io/2020/01/09/9-回文数/) |
