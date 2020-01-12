@@ -49,6 +49,7 @@ C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
 
 class Solution:
     def intToRoman(self, num: int) -> str:
+        # 数组字典
         num_dict = {1: 'I',
                     4: 'IV',
                     5: 'V',
