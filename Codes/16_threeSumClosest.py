@@ -32,6 +32,6 @@ class Solution:
                     low += 1
                 elif x < 0:
                     high -= 1
-                elif x = 0:
+                elif x == 0:
                     return target
         return target - d_value
