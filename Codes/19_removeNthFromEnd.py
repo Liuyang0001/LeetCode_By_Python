@@ -26,7 +26,7 @@ class Solution:
         if head.next==None:
             return None
         # p先向后移动n个位置
-        for i in range(n):
+        for _ in range(n):
             p=p.next
         # 此时p为空，说明要删除的为头结点
         if not p:
