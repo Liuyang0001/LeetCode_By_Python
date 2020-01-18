@@ -30,6 +30,7 @@ class Solution:
                     res.append('({}){}'.format(left, right))
         return res
 
+
 # 回溯法-深度优先
 class Solution:
     def generateParenthesis(self, N: int) -> List[str]:
