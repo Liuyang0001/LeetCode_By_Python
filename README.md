@@ -15,7 +15,7 @@
 | 006 | Z字形变换 | 中等 | 字符串 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/6_convert.py) | [:memo:](https://liuyang0001.github.io/2020/01/06/6-Z字形变换/) |
 | 007 | 整数反转 | 简单 | 数学 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/7_reverse.py) | [:memo:](https://liuyang0001.github.io/2020/01/07/7-整数反转/) |
 | 008 | 字符串转换整数 | 中等 | 数学；字符串 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/8_myAtoi.py) | [:memo:](https://liuyang0001.github.io/2020/01/08/8-字符串转换整数/) |
-| 009 | 回文数 | 简单 | 数学 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/9_回文数.py) | [:memo:](https://liuyang0001.github.io/2020/01/09/9-回文数/) |
+| 009 | 回文数 | 简单 | 数学 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/9_isPalindrome.py) | [:memo:](https://liuyang0001.github.io/2020/01/09/9-回文数/) |
 | 010 | 正则表达式匹配 | 困难 | 字符串；动态规划；回溯算法 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/10_isMatch.py) | [:memo:](https://liuyang0001.github.io/2020/01/10/10-正则表达式匹配) |
 | 011 | 盛最多水的容器 | 中等 | 数组；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/11_maxArea.py) | [:memo:](https://liuyang0001.github.io/2020/01/11/11-盛最多水的容器/) |
 | 012 | 整数转罗马数字 | 中等 | 数学；字符串；贪心算法 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/12_intToRoman.py) | [:memo:](https://liuyang0001.github.io/2020/01/12/12-整数转罗马数字/) |
@@ -29,7 +29,7 @@
 | 020 | 有效的括号 | 简单 | 栈；字符串 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/Codes/20_isValid.py) | [:memo:](https://liuyang0001.github.io/2020/01/18/20-有效的括号/) |
 | 021 | 合并两个有序链表 | 简单 | 链表 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/21_mergeTwoLists.py) | [:memo:](https://liuyang0001.github.io/2020/01/18/21-合并两个有序链表/) |
 | 022 | 括号生成 | 中等 | 字符串；回溯算法 |  [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/22_generateParenthesis.py) | [:memo:](https://liuyang0001.github.io/2020/01/18/22-括号生成/) |
-| 023 | 合并K个排序链表 | 困难 | 堆；链表；分治算法 |  |  |
+| 023 | 合并K个排序链表 | 困难 | 队列；链表 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/23_mergeKLists.py) |  [:memo:](https://liuyang0001.github.io/2020/01/19/23-合并K个排序链表/) |
 | 024 | 两两交换链表中的结点 | 中等 | 链表 | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
