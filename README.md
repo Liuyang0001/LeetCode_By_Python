@@ -30,13 +30,13 @@
 | 021 | 合并两个有序链表 | 简单 | 链表 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/21_mergeTwoLists.py) | [:memo:](https://liuyang0001.github.io/2020/01/18/21-合并两个有序链表/) |
 | 022 | 括号生成 | 中等 | 字符串；回溯算法 |  [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/22_generateParenthesis.py) | [:memo:](https://liuyang0001.github.io/2020/01/18/22-括号生成/) |
 | 023 | 合并K个排序链表 | 困难 | 队列；链表 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/23_mergeKLists.py) |  [:memo:](https://liuyang0001.github.io/2020/01/19/23-合并K个排序链表/) |
-| 024 | 两两交换链表中的结点 | 中等 | 链表 | | |
-|  |  |  |  | | |
-|  |  |  |  | | |
-|  |  |  |  | | |
-|  |  |  |  | | |
-|  |  |  |  | | |
-|  |  |  |  | | |
+| 024 | 两两交换链表中的结点 | 中等 | 链表 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/24_swapPairs.py) | [:memo:](https://liuyang0001.github.io/2020/01/20/24-两两交换链表中的结点/) |
+| 025 | K个一组翻转链表 | 困难 | 链表 | | |
+| 026 | 删除排序数组中的重复项 | 简单 | 数组；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/26_removeDuplicates.py) |[:memo:](https://liuyang0001.github.io/2020/01/20/26-删除排序数组中的重复项/) |
+| 027 | 移除元素 | 简单 | 数组；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/27_removeElement.py) | [:memo:](https://liuyang0001.github.io/2020/01/20/27-移除元素/)|
+| 028 | 实现strStr | 简单 | 字符串；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/28_strStr.py) | [:memo:](https://liuyang0001.github.io/2020/01/20/28-实现strStr/) |
+| 029 | 两数相除 | 中等 | 数学；二分查找 | | |
+| 030 | 串联所有单词的子串 | 困难 | 字符串；哈希表；双指针 | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
