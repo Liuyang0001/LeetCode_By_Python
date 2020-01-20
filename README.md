@@ -21,7 +21,7 @@
 | 012 | 整数转罗马数字 | 中等 | 数学；字符串；贪心算法 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/12_intToRoman.py) | [:memo:](https://liuyang0001.github.io/2020/01/12/12-整数转罗马数字/) |
 | 013 | 罗马数字转整数 | 简单 | 数学；字符串 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/13_romanToInt.py) | [:memo:](https://liuyang0001.github.io/2020/01/13/13-罗马数字转整数/) |
 | 014 | 最长公共前缀 | 简单 | 字符串 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/14_longestCommonPrefix.py) | [:memo:](https://liuyang0001.github.io/2020/01/14/14-最长公共前缀/) |
-| 015 | 三数之和 | 困难 | 数组；双指针 |  |  |
+| 015 | 三数之和 | 中等 | 数组；双指针 |[Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/15_threeSum.py)  | [:memo:](https://liuyang0001.github.io/2020/01/20/15-三数之和/) |
 | 016 | 最接近的三数之和 | 中等 | 数组；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/16_threeSumClosest.py) | [:memo:](https://liuyang0001.github.io/2020/01/15/16-最接近的三数之和/) |
 | 017 | 电话号码的字母组合 | 中等 | 字符串；回溯算法 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/17_letterCombinations.py) | [:memo:](https://liuyang0001.github.io/2020/01/16/17-电话号码的组合/) |
 | 018 | 四数之和 | 中等 | 数组；哈希表；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/18_fourSum.py) | [:memo:](https://liuyang0001.github.io/2020/01/17/18-四数之和) |
