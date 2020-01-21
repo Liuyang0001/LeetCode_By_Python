@@ -35,9 +35,9 @@
 | 026 | 删除排序数组中的重复项 | 简单 | 数组；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/26_removeDuplicates.py) |[:memo:](https://liuyang0001.github.io/2020/01/20/26-删除排序数组中的重复项/) |
 | 027 | 移除元素 | 简单 | 数组；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/27_removeElement.py) | [:memo:](https://liuyang0001.github.io/2020/01/20/27-移除元素/)|
 | 028 | 实现strStr | 简单 | 字符串；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/28_strStr.py) | [:memo:](https://liuyang0001.github.io/2020/01/20/28-实现strStr/) |
-| 029 | 两数相除 | 中等 | 数学；二分查找 | | |
+| 029 | 两数相除 | 中等 | 数学；二分查找 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/29_divide.py) | [:memo:](https://liuyang0001.github.io/2020/01/21/29-两数相除/) |
 | 030 | 串联所有单词的子串 | 困难 | 字符串；哈希表；双指针 | | |
-|  |  |  |  | | |
+| 031 | 下一个排列 | 中等 | 数组 | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
