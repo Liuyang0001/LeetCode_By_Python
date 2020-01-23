@@ -37,9 +37,9 @@
 | 028 | 实现strStr | 简单 | 字符串；双指针 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/28_strStr.py) | [:memo:](https://liuyang0001.github.io/2020/01/20/28-实现strStr/) |
 | 029 | 两数相除 | 中等 | 数学；二分查找 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/29_divide.py) | [:memo:](https://liuyang0001.github.io/2020/01/21/29-两数相除/) |
 | 030 | 串联所有单词的子串 | 困难 | 字符串；哈希表；双指针 | | |
-| 031 | 下一个排列 | 中等 | 数组 | | |
-|  |  |  |  | | |
-|  |  |  |  | | |
+| 031 | 下一个排列 | 中等 | 数组 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/31_nextPermutation.py) | [:memo:](https://liuyang0001.github.io/2020/01/21/31-下一个排列/) |
+| 032 | 最长有效括号 | 困难 | 字符串；栈；动态规划 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/32_longestValidParentheses.py) |  [:memo:](https://liuyang0001.github.io/2020/01/23/32-最长有效括号/)|
+| 033 | 搜索旋转排序数组 | 中等 | 数组；二分查找 | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
