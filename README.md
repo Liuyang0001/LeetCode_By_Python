@@ -39,9 +39,9 @@
 | 030 | 串联所有单词的子串 | 困难 | 字符串；哈希表；双指针 | | |
 | 031 | 下一个排列 | 中等 | 数组 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/31_nextPermutation.py) | [:memo:](https://liuyang0001.github.io/2020/01/21/31-下一个排列/) |
 | 032 | 最长有效括号 | 困难 | 字符串；栈；动态规划 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/32_longestValidParentheses.py) |  [:memo:](https://liuyang0001.github.io/2020/01/23/32-最长有效括号/)|
-| 033 | 搜索旋转排序数组 | 中等 | 数组；二分查找 | | |
-|  |  |  |  | | |
-|  |  |  |  | | |
+| 033 | 搜索旋转排序数组 | 中等 | 数组；二分查找 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/33_search.py) |  [:memo:](https://liuyang0001.github.io/2020/01/31/33-搜索旋转排列数组/)|
+| 034 | 在排序数组中查找元素的第一个和最后一个位置 | 中等 | 数组；二分查找 | | |
+| 035 | 搜索插入位置 | 简单 | 数组；二分查找 | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
