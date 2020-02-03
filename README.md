@@ -1,11 +1,18 @@
 <hr>
-
-![](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcodeico.jpg)
+<p align="center"><img width="300" src="https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcode-logo.png"></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/用户-刘先生-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-35/1345-blue.svg?" alt="">
+</p>
+<h1 align="center">LeetCode 刷题仓库</h1>
+<p align="center">
+    <br>
+    <b>最近一次更新:  2020-02-03 22:04:04 </b>
+    <br>
+</p>
 
 <hr>
-
-
-| #    | 题目     | 难度 | 标签         | 源码文件                                                     | 博客文章                                                       |
+| #    | 题目     | 难度 | 标签   | 源码文件   | 博客文章   |
 | :----: | :--------: | :----: | :------: | :------: | :----------: |
 | 001  | 两数之和 | 简单 | 数组；哈希表 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/1_TwoSum.py) | [:memo:](https://liuyang0001.github.io/2020/01/02/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/) |
 | 002  | 两数相加 | 中等 | 链表；数学   | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/2_AddTwoNumbers.py) | [:memo:](https://liuyang0001.github.io/2020/01/03/2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0/) |
@@ -45,8 +52,8 @@
 | 036 | 有效的数独 | 中等 | 哈希表 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/36_isValidSudoku.py) | [:memo:](https://liuyang0001.github.io/2020/02/02/36-有效的数独) |
 | 037 | 解数独 | 困难 | 哈希表；回溯算法 | | |
 | 038 | 外观数列 | 简单 | 字符串 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/38_countAndSay.py) | [:memo:](https://liuyang0001.github.io/2020/02/02/38-外观数列) |
-| 039 | 组合总和 | 中等 | 数组；回溯算法 | | |
-| 040 | 组合总和2 | 中等 | 数组；回溯算法 | | |
+| 039 | 组合总和 | 中等 | 数组；回溯算法 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/39_combinationSum.py) | [:memo:](https://liuyang0001.github.io/2020/02/03/39-组合总和/) |
+| 040 | 组合总和II | 中等 | 数组；回溯算法 | [Python3.5.2](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/40_combinationSum2.py) | [:memo:](https://liuyang0001.github.io/2020/02/03/40-组合总和II/) |
 |  |  |  |  | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
