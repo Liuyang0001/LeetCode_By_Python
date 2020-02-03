@@ -1,5 +1,6 @@
-<img src="https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcodeico.jpg" width = 70% height = 70% align=center/>
-
+<p align="center">
+    <img src="https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcodeico.jpg" width = 70% height = 70%/>
+</p>
 <h1 align="center">LeetCode 刷题仓库</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
