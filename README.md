@@ -1,4 +1,5 @@
-<p align="center"><img width="300" src="https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcode-logo.png"></p>
+<img width="300" src="https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcode-logo.png" align="center">
+
 <p align="center">
     <img src="https://img.shields.io/badge/用户-刘先生-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/已解决-35/1345-blue.svg?" alt="">
