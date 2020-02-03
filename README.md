@@ -1,4 +1,4 @@
-<img width="300" src="https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcode-logo.png" align="center">
+![](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/lc-logo.png)
 
 <p align="center">
     <img src="https://img.shields.io/badge/用户-刘先生-blue.svg?" alt="">
