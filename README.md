@@ -3,11 +3,11 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-37/1345-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-38/1345-blue.svg?" alt="">
 </p>
 <p align="center">
     <br>
-    <b>最近一次更新:  2020-02-03 22:04:04 </b>
+    <b>最近一次更新:  2020-02-04 19:31:30 </b>
     <br>
 </p>
 
@@ -56,7 +56,7 @@
 | 038 | 外观数列 | 简单 | 字符串 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/38_countAndSay.py) | [:memo:](https://liuyang0001.github.io/2020/02/02/38-外观数列) |
 | 039 | 组合总和 | 中等 | 数组；回溯算法 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/39_combinationSum.py) | [:memo:](https://liuyang0001.github.io/2020/02/03/39-组合总和/) |
 | 040 | 组合总和II | 中等 | 数组；回溯算法 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/40_combinationSum2.py) | [:memo:](https://liuyang0001.github.io/2020/02/03/40-组合总和II/) |
-|  |  |  |  | | |
+| 041 | 缺失的第一个正数 | 困难 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/41_firstMissingPositive.py) | [:memo:](https://liuyang0001.github.io/2020/02/04/41-缺失的第一个正数/) |
 |  |  |  |  | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
