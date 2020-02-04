@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/已解决-37/1345-blue.svg?" alt="">
 </p>
-<h1 align="center">LeetCode 刷题仓库</h1>
 <p align="center">
     <br>
     <b>最近一次更新:  2020-02-03 22:04:04 </b>
