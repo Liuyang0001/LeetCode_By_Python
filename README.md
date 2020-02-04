@@ -1,11 +1,11 @@
 <p align="center">
     <img src="https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcodeico.jpg" width = 45% height = 45%/>
 </p>
-<h1 align="center">LeetCode 刷题仓库</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/已解决-37/1345-blue.svg?" alt="">
 </p>
+<h1 align="center">LeetCode 刷题仓库</h1>
 <p align="center">
     <br>
     <b>最近一次更新:  2020-02-03 22:04:04 </b>
@@ -15,7 +15,7 @@
 
 
 
-| #    |     题目     |   难度  |   标签   |   源码   |   博客   |
+| #    |     题目     |   难度  |   标签   |   源码   |   博客文章   |
 | :----: | :--------: | :----: | :------: | :------: | :----------: |
 | 001  | 两数之和 | 简单 | 数组；哈希表 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/1_TwoSum.py) | [:memo:](https://liuyang0001.github.io/2020/01/02/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/) |
 | 002  | 两数相加 | 中等 | 链表；数学   | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/2_AddTwoNumbers.py) | [:memo:](https://liuyang0001.github.io/2020/01/03/2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0/) |
@@ -50,7 +50,7 @@
 | 031 | 下一个排列 | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/31_nextPermutation.py) | [:memo:](https://liuyang0001.github.io/2020/01/21/31-下一个排列/) |
 | 032 | 最长有效括号 | 困难 | 字符串；栈；动态规划 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/32_longestValidParentheses.py) |  [:memo:](https://liuyang0001.github.io/2020/01/23/32-最长有效括号/)|
 | 033 | 搜索旋转排序数组 | 中等 | 数组；二分查找 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/33_search.py) |  [:memo:](https://liuyang0001.github.io/2020/01/31/33-搜索旋转排列数组/)|
-| 034 | 排序数组中查找元素的第一和最后一个位置 | 中等 | 数组；二分查找 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/34_searchRange.py) | [:memo:](https://liuyang0001.github.io/2020/02/02/34-排序数组中查找元素的第一和最后一个位置/) |
+| 034 | 在排序数组中查找元素的第一个和最后一个位置 | 中等 | 数组；二分查找 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/34_searchRange.py) | [:memo:](https://liuyang0001.github.io/2020/02/02/34-排序数组中查找元素的第一和最后一个位置/) |
 | 035 | 搜索插入位置 | 简单 | 数组；二分查找 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/35_searchInsert.py) | [:memo:](https://liuyang0001.github.io/2020/02/02/35-搜索插入位置) |
 | 036 | 有效的数独 | 中等 | 哈希表 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/36_isValidSudoku.py) | [:memo:](https://liuyang0001.github.io/2020/02/02/36-有效的数独) |
 | 037 | 解数独 | 困难 | 哈希表；回溯算法 | | |
