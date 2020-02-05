@@ -25,9 +25,16 @@ class Solution:
             path.pop()
 
 
+
+
+
+
+
 if __name__ == "__main__":
-    S = Solution()
-    nums = [1, 5, 6, 7]
-    target = 7
-    res = S.combinationSum(nums,target)
-    print(res)
+    # S = Solution()
+    # nums = [1, 5, 6, 7]
+    # target = 7
+    # res = S.combinationSum(nums,target)
+    # print(res)
+    for i in range(7, 1, -1):
+        print(i)
