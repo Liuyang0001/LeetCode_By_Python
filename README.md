@@ -3,11 +3,11 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-43/1345-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-44/1345-blue.svg?" alt="">
 </p>
 <p align="center">
     <br>
-    <b>最近一次更新:  2020-02-12 22:48:49  </b>
+    <b>最近一次更新:  2020-02-14 16:34:37  </b>
     <br>
 </p>
 
@@ -64,5 +64,5 @@
 | 046 | 全排列 | 中等 | 回溯算法 |[Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/46_permute.py) | [:memo:](https://liuyang0001.github.io/2020/02/07/46-贪心算法/) |
 | 047 | 全排列II | 中等 | 回溯算法 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/47_permuteUnique.py) | [:memo:](https://liuyang0001.github.io/2020/02/07/47-回溯算法II/) |
 | 048 | 旋转图像 | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/48_rotate.py) | [:memo:](https://liuyang0001.github.io/2020/02/12/48-旋转图像/) |
-| 049 |  |  |  | | |
+| 049 |  | 中等 | 字符串；哈希表 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/49_groupAnagrams.py) | [:memo:](https://liuyang0001.github.io/2020/02/14/49-字母异位词分组/) |
 
