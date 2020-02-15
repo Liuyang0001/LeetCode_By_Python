@@ -31,3 +31,4 @@ class Solution:
             ans[tuple(sorted(s))].append(s)
             print(ans)
         return ans.values()
+
