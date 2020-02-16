@@ -3,11 +3,11 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-46/1345-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-50/1345-blue.svg?" alt="">
 </p>
 <p align="center">
     <br>
-    <b>最近一次更新:  2020-02-15 20:52:52  </b>
+    <b>最近一次更新:  2020-02-16 19:07:42  </b>
     <br>
 </p>
 
@@ -68,11 +68,11 @@
 | 050 | Pow(x,n) | 中等 | 数学；二分查找 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/50.pow-x-n.py) | [:memo:](https://liuyang0001.github.io/2020/02/15/50-pow-x-n/) |
 | 051 | N皇后 | 困难 |  |  |  |
 | 052 | N皇后II | 困难 |  |  |  |
-| 053 | 最大子序和 | 简单 | 数组；二分查找；动态规划 | 53.最大子序和.py) | 53-最大子序和/) |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
+| 053 | 最大子序和 | 简单 | 数组；二分查找；动态规划 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/53.最大子序和.py) | [:memo:](https://liuyang0001.github.io/2020/02/15/53-最大子序和/) |
+| 054 | 螺旋矩阵 | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/54.螺旋矩阵.py) | [:memo:](https://liuyang0001.github.io/2020/02/16/54-螺旋矩阵/) |
+| 055 | 跳跃游戏 | 中等 | 数组；贪心算法 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/55.跳跃游戏.py) | [:memo:](https://liuyang0001.github.io/2020/02/16/55-跳跃游戏/) |
+| 056 | 合并区间 | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/56.合并区间.py) | [:memo:](https://liuyang0001.github.io/2020/02/16/56-合并区间/) |
+| 057 | 插入区间 | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/57.插入区间.py) | [:memo:](https://liuyang0001.github.io/2020/02/16/57-插入区间/) |
 |  | |  |  |  |  |
 |  | |  |  |  |  |
 |  | |  |  |  |  |
