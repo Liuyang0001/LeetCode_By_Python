@@ -3,11 +3,11 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-50/1345-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-53/1345-blue.svg?" alt="">
 </p>
 <p align="center">
     <br>
-    <b>最近一次更新:  2020-02-16 19:07:42  </b>
+    <b>最近一次更新:  2020-02-25 22:48:22  </b>
     <br>
 </p>
 
@@ -73,12 +73,12 @@
 | 055 | 跳跃游戏 | 中等 | 数组；贪心算法 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/55.跳跃游戏.py) | [:memo:](https://liuyang0001.github.io/2020/02/16/55-跳跃游戏/) |
 | 056 | 合并区间 | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/56.合并区间.py) | [:memo:](https://liuyang0001.github.io/2020/02/16/56-合并区间/) |
 | 057 | 插入区间 | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/57.插入区间.py) | [:memo:](https://liuyang0001.github.io/2020/02/16/57-插入区间/) |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
+| 058 | 最后一个单词的长度 | 简单 | 字符串 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/58.最后一个单词的长度.py) | [:memo:](https://liuyang0001.github.io/2020/02/25/58-最后一个单词的长度/) |
+| 059 | 螺旋矩阵II | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/59.螺旋矩阵-ii.py) | [:memo:](https://liuyang0001.github.io/2020/02/25/59-螺旋矩阵II/) |
+| 060 | 第k个排列 | 中等 | 数学；回溯算法 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/60.第k个排列.py) | [:memo:](https://liuyang0001.github.io/2020/02/25/60-第k个排列/) |
+| 061 | 旋转链表 |  |  |  |  |
+| 062 | 不同路径 |  |  |  |  |
+| 063 | 不同路径II |  |  |  |  |
 |  | |  |  |  |  |
 |  | |  |  |  |  |
 |  | |  |  |  |  |
