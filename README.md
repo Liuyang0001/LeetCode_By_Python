@@ -3,11 +3,11 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-53/1345-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-54/1345-blue.svg?" alt="">
 </p>
 <p align="center">
     <br>
-    <b>最近一次更新:  2020-02-25 22:48:22  </b>
+    <b>最近一次更新:  2020年3月14日13:55:14  </b>
     <br>
 </p>
 
@@ -76,9 +76,9 @@
 | 058 | 最后一个单词的长度 | 简单 | 字符串 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/58.最后一个单词的长度.py) | [:memo:](https://liuyang0001.github.io/2020/02/25/58-最后一个单词的长度/) |
 | 059 | 螺旋矩阵II | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/59.螺旋矩阵-ii.py) | [:memo:](https://liuyang0001.github.io/2020/02/25/59-螺旋矩阵II/) |
 | 060 | 第k个排列 | 中等 | 数学；回溯算法 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/60.第k个排列.py) | [:memo:](https://liuyang0001.github.io/2020/02/25/60-第k个排列/) |
-| 061 | 旋转链表 |  |  |  |  |
-| 062 | 不同路径 |  |  |  |  |
-| 063 | 不同路径II |  |  |  |  |
+| 061 | 旋转链表 | 中等 | 链表；双指针 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/61.旋转链表.py) | [:memo:](https://liuyang0001.github.io/2020/03/14/61-旋转链表/) |
+| 062 | 不同路径 | 中等 | 数组；动态规划 |  |  |
+| 063 | 不同路径II | 中等 | 数组；动态规划 |  |  |
 |  | |  |  |  |  |
 |  | |  |  |  |  |
 |  | |  |  |  |  |
