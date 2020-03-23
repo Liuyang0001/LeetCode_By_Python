@@ -14,7 +14,7 @@
 
 
 
-| #    |     题目     |   难度  |   标签   |   源码   |   博客文章   |
+| #    |     题目     |   难度  |   标签   |   源码   |   博客   |
 | :----: | :--------: | :----: | :------: | :------: | :----------: |
 | 001  | 两数之和 | 简单 | 数组；哈希表 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/1_TwoSum.py) | [:memo:](https://liuyang0001.github.io/2020/01/02/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/) |
 | 002  | 两数相加 | 中等 | 链表；数学   | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/2_AddTwoNumbers.py) | [:memo:](https://liuyang0001.github.io/2020/01/03/2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0/) |
