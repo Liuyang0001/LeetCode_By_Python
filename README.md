@@ -3,11 +3,11 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-56/1345-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-65/1581-blue.svg?" alt="">
 </p>
 <p align="center">
     <br>
-    <b>最近一次更新:  2020年3月14日15:46:06  </b>
+    <b>最近一次更新:  2020年3月23日16:14:13  </b>
     <br>
 </p>
 
@@ -79,18 +79,18 @@
 | 061 | 旋转链表 | 中等 | 链表；双指针 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/61.旋转链表.py) | [:memo:](https://liuyang0001.github.io/2020/03/14/61-旋转链表/) |
 | 062 | 不同路径 | 中等 | 数组；动态规划 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/62.不同路径.py) | [:memo:](https://liuyang0001.github.io/2020/03/14/62-不同路径/) |
 | 063 | 不同路径II | 中等 | 数组；动态规划 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/63.不同路径-ii.py) | [:memo:](https://liuyang0001.github.io/2020/03/14/63-不同路径II/) |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
+| 064 | 最小路径和 | 中等 | 数组；动态规划 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/64.最小路径和.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/64-最小路径和/) |
+| 065 | 有效数字 | 困难 | 字符串；数学 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/65.有效数字.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/65-有效数字/) |
+| 066 | 加一 | 简单 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/66.加一.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/66-加一/) |
+| 067 | 二进制求和 | 简单 | 字符串；数学 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/67.二进制求和.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/67-二进制求和/) |
+| 068 | 文本左右对齐 | 困难 | 字符串 |  |                                                              |
+| 069 | x的平方根 | 简单 | 数学；二分查找 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/69.x-的平方根.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/69-x的平方根/) |
+| 070 | 爬楼梯 | 中等 | 动态规划 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/70.爬楼梯.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/70-爬楼梯/) |
+| 071 | 简化路径 | 中等 | 字符串；栈 |  |  |
+| 072 | 编辑距离 | 困难 | 字符串；动态规划 |  |  |
+| 073 | 矩阵置零 | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/73.矩阵置零.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/73-矩阵置零/) |
+| 074 | 搜索二维矩阵 | 中等 | 数组；二分查找 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/74.搜索二维矩阵.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/74-搜索二维矩阵/) |
+| 075 | 颜色分类 | 中等 | 数组；双指针 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/75.颜色分类.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/75-颜色分类/) |
 |  | |  |  |  |  |
 |  | |  |  |  |  |
 |  | |  |  |  |  |
