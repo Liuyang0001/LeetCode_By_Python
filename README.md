@@ -91,8 +91,25 @@
 | 073 | 矩阵置零 | 中等 | 数组 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/73.矩阵置零.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/73-矩阵置零/) |
 | 074 | 搜索二维矩阵 | 中等 | 数组；二分查找 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/74.搜索二维矩阵.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/74-搜索二维矩阵/) |
 | 075 | 颜色分类 | 中等 | 数组；双指针 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/75.颜色分类.py) | [:memo:](https://liuyang0001.github.io/2020/03/23/75-颜色分类/) |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
-|  | |  |  |  |  |
+| 076 | 最小覆盖子串 | 困难 | 字符串；双指针；滑动窗口 |  |  |
+| 077 | 组合 | 中等 | 回溯算法 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/77.组合.py) | [:memo:](https://liuyang0001.github.io/2020/03/27/77-组合/) |
+| 078 | 子集 | 中等 | 数组；回溯算法；位操作 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/78.子集.py) | [:memo:](https://liuyang0001.github.io/2020/03/27/78-子集/) |
+| 079 | 单词搜索 | 中等 | 数组；回溯算法 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/79.单词搜索.py) | [:memo:](https://liuyang0001.github.io/2020/03/27/79-单词搜索/) |
+| 080 | 删除排序数组中的重复项II | 中等 | 数组；双指针 | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/80.删除排序数组中的重复项-ii.py) | [:memo:](https://liuyang0001.github.io/2020/03/27/80-删除排序数组中的重复项II/) |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 

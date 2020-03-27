@@ -13,7 +13,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        # 调用Counter()进行统计每个数字的个数
+        # 调用Counter()进行统计每个数字的个数·
         c_nums = Counter(nums)
         index = 0
         # 重新对原数组进行覆盖
