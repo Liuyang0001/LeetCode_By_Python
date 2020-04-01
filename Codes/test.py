@@ -33,15 +33,10 @@ class Solution:
 # @lc code=end
 
 if __name__ == "__main__":
-    S = Solution()
-    ls = [1, 2, 3, 3, 4, 4, 5]
-    H = ListNode(-1)
-    p = H
-    for i in ls:
-        p.next = ListNode(i)
-        p = p.next
-    head = H.next
-    res = S.deleteDuplicates(head)
-    while res:
-        print(res.val)
-        res = res.next
+    num = "98"
+    title = "验证二叉"
+    cmd_line = "hexo new " + num + "-" + title
+    # print(cmd_line)
+    # 在git bash中执行生成文章的命令
+    # os.system(cmd_line.encode("gbk").decode())
+    print(cmd_line.encode("gbk"))
