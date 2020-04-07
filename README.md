@@ -116,4 +116,3 @@
 | 098 | 验证二叉搜索树 | 中等 | 树；DFS | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/98.验证二叉搜索树.py) | [:memo:](https://liuyang0001.github.io/2020/04/01/98-验证二叉搜索树/) |
 | 099 | 恢复二叉搜索树 | 困难 | 树；DFS | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/99.恢复二叉搜索树.py) | [:memo:](https://liuyang0001.github.io/2020/04/01/99-恢复二叉搜索树/) |
 | 100 | 相同的树 | 简单 | 树；DFS | [Python](https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/Codes/100.相同的树.py) | [:memo:](https://liuyang0001.github.io/2020/04/01/100-相同的树/) |
-
