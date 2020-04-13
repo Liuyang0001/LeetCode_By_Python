@@ -33,10 +33,15 @@ class Solution:
 # @lc code=end
 
 if __name__ == "__main__":
-    num = "98"
-    title = "验证二叉"
-    cmd_line = "hexo new " + num + "-" + title
-    # print(cmd_line)
-    # 在git bash中执行生成文章的命令
-    # os.system(cmd_line.encode("gbk").decode())
-    print(cmd_line.encode("gbk"))
+    s = "abc d"
+    s.replace(" ", "%20")
+    print(s)
+
+[1, 1, 1],
+[1, 1, 0],
+[1, 0, 1]
+
+[2, 2, 2],
+[2, 2, 0],
+[2, 0, 1]
+

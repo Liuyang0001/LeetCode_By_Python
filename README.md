@@ -2,12 +2,12 @@
     <img src="https://github.com/Liuyang0001/LeetCode_By_Python/blob/master/others/leetcodeico.jpg" width = 45% height = 45%/>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/用户-Mr.Liu-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-85/1581-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/用户-Mr_Liu_-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-170/1600-blue.svg?" alt="">
 </p>
 <p align="center">
     <br>
-    <b>最近一次更新:  2020年4月1日16:45:18  </b>
+    <b>最近一次更新:  2020年4月14日00:59:58  </b>
     <br>
 </p>
 
