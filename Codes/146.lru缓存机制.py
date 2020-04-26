@@ -29,7 +29,7 @@ class LRUCache:
         # 如果满了就删掉最久没用过的那个元素
         else:
             if(len(self.lru)==self.capacity):
-                self.lru.popitem(False)
+                self.lru.popitem(last=False)
         # 最后统一插入这个元素
         self.lru[key] = value
 

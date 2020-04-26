@@ -3,7 +3,7 @@
 #
 # [130] 被围绕的区域
 #
-
+from typing import List
 # @lc code=start
 class Solution:
     def solve(self, board: List[List[str]]) -> None:
