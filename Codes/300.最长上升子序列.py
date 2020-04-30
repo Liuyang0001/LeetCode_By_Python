@@ -3,7 +3,6 @@
 #
 # [300] 最长上升子序列
 #
-import bisect
 from typing import List
 # @lc code=start
 class Solution:
