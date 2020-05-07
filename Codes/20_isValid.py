@@ -37,14 +37,14 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         dic = {'{': '}',  '[': ']', '(': ')'}
-        stack_ = []
+        st = []
         for c in s:
             try:  # 异常处理
                 if c in dic:
-                    stack_.append(c)
-                elif dic[stack_.pop()] != c:
+                    st.append(c)
+                elif dic[st.pop()] != c:
                     return False
             # 空栈进行pop()会返回IndexError
             except IndexError:
                 return False
-        return len(stack_) == 0
+        return len(st) == 0
