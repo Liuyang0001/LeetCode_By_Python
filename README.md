@@ -1,10 +1,11 @@
 <p align="center">
-    <img src="https://gitee.com/liuyang0001/blogimage/raw/master/img/20200525212050.jpg" width = 45% height = 45%/>
+    <img src="https://gitee.com/liuyang0001/blogimage/raw/master/img/20200525212050.jpg" width = 45% height = 45%/> 
+</p>
+<p align="center">
     <br>
     <b>最近一次更新:  2020年6月6日20:52:58  </b>
-    <br>    
+    <br>
 </p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/User-Mr_Liu_-purple.svg?" alt="">
     <img src="https://img.shields.io/badge/Solved-434/1625-blue.svg?" alt="">
@@ -14,8 +15,6 @@
 </p>
 
 <hr>
-
-
 
 
 | #    |     题目     |   难度  |   标签   |   源码   |   博客   |
