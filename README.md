@@ -2,7 +2,6 @@
 	<img src="https://gitee.com/liuyang0001/blogimage/raw/master/img/20200525212050.jpg" width = 45% height = 45%/> 
 </p>
 <p align="center">
-    <br>
     <b>最近一次更新:  2020年6月6日20:52:58  </b>
     <br>
 </p>
