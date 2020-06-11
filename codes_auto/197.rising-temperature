@@ -1,0 +1,14 @@
+#
+# @lc app=leetcode.cn id=197 lang=mysql
+#
+# [197] rising-temperature
+#
+# Write your MySQL query statement below
+-- 题意：当前日期的温度>上一天
+SELECT w1.Id as Id
+From Weather as w1, Weather as w2
+where(
+    -- Mysql的是datediff(被减数, 减数)
+    w1.Temperature>w2.Temperature and dateDiff(w1.RecordDate,w2.RecordDate) = 1 
+);
+# @lc code=end

@@ -1,0 +1,10 @@
+#
+# @lc app=leetcode.cn id=182 lang=mysql
+#
+# [182] duplicate-emails
+#
+# Write your MySQL query statement below
+SELECT distinct tb1.Email as Email
+From Person as tb1,Person as tb2
+where tb1.Email=tb2.Email and  tb1.Id!=tb2.Id;
+# @lc code=end

@@ -1,0 +1,20 @@
+#
+# @lc app=leetcode.cn id=177 lang=mysql
+#
+# [177] nth-highest-salary
+#
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+BEGIN
+    set N=N-1;
+    RETURN (
+    # Write your MySQL query statement below.
+    select salary
+    from employee
+    # group by的意义在去除重复的编号选择
+    # 相当于DISTINCT salary的效果
+    group by salary
+    order by salary DESC
+    Limit N,1
+    );
+END
+# @lc code=end

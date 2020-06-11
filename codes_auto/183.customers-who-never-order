@@ -1,0 +1,11 @@
+#
+# @lc app=leetcode.cn id=183 lang=mysql
+#
+# [183] customers-who-never-order
+#
+# Write your MySQL query statement below
+SELECT tb1.Name as Customers
+from Customers as tb1
+-- while isNull((SELECT tb1.Name from tb2.CustomerId while tb1.Id=tb2.CustomerId),NULL)=NULL
+where tb1.Id not in (SELECT tb2.CustomerId from Orders as tb2)
+# @lc code=end

@@ -1,0 +1,15 @@
+#
+# @lc app=leetcode.cn id=184 lang=mysql
+#
+# [184] department-highest-salary
+#
+# Write your MySQL query statement below
+SELECT tb2.Name as Department,tb1.Name as Employee,tb1.Salary as Salary
+From Employee as tb1 inner join Department as tb2
+on tb1.DepartmentId=tb2.Id
+where (tb2.Id,tb1.Salary) in(
+    SELECT DepartmentId,max(Salary)
+    From Employee
+    group by DepartmentId
+);
+# @lc code=end

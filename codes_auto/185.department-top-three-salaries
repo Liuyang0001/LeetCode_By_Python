@@ -1,0 +1,17 @@
+#
+# @lc app=leetcode.cn id=185 lang=mysql
+#
+# [185] department-top-three-salaries
+#
+# Write your MySQL query statement below
+SELECT d1.Name AS Department,e1.Name AS Employee,e1.Salary AS Salary
+FROM Employee AS e1 INNER JOIN Department AS d1
+ON d1.Id = e1.DepartmentId 
+WHERE (
+    SELECT COUNT(DISTINCT Salary)
+    FROM Employee AS e2
+    WHERE e1.DepartmentId = e2.DepartmentId
+    AND e2.Salary >= e1.Salary
+) <= 3
+ORDER BY DepartmentId,Salary DESC
+# @lc code=end

@@ -1,0 +1,18 @@
+#
+# @lc app=leetcode.cn id=176 lang=mysql
+#
+# [176] second-highest-salary
+#
+# Write your MySQL query statement below
+# 不是最大数的最大数
+SELECT ifnull(
+    (SELECT DISTINCT salary 
+    from employee
+    -- group by salary
+    # 排序，不跳序号
+    order by salary DESC
+    LIMIT 1,1),
+    NULL
+)as SecondHighestSalary 
+
+# @lc code=end

@@ -1,0 +1,10 @@
+#
+# @lc app=leetcode.cn id=180 lang=mysql
+#
+# [180] consecutive-numbers
+#
+# Write your MySQL query statement below
+SELECT distinct a.num as ConsecutiveNums 
+FROM Logs as a,Logs as b,Logs as c
+where a.num=b.num and a.Id+1=b.Id and b.num=c.num and b.Id+1=c.Id;
+# @lc code=end

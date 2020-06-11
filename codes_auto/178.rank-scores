@@ -1,0 +1,14 @@
+#
+# @lc app=leetcode.cn id=178 lang=mysql
+#
+# [178] rank-scores
+#
+# Write your MySQL query statement below
+SELECT tb1.Score as Score , (
+SELECT count(distinct tb2.Score)
+    FROM Scores as tb2
+    where tb1.Score<tb2.Score
+)+1 as Rank
+FROM Scores as tb1
+order by tb1.Score DESC;
+# @lc code=end
