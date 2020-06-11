@@ -13,6 +13,14 @@
 <img src="https://img.shields.io/badge/Hard-35-red.svg?" alt="">
 </p >
 
+
+
+
+
+**<center>本表格与源码为自动生成，详情见项目[Leetcode-Helper](https://liuyang0001.github.io/)</center>**
+
+
+
 <hr>
 
 
