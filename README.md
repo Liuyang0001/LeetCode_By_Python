@@ -2,7 +2,7 @@
 <img src="https://gitee.com/liuyang0001/blogimage/raw/master/img/20200525212050.jpg" width = 45% height = 45%/> 
 </p>
 <p align="center"> 
-<b>最近一次更新:  2020-06-11 17:58:27  </b>
+<b>最近一次更新:  2020-06-11 18:41:56  </b>
 <br>
 </p>
 <p align="center"> 
@@ -15,11 +15,7 @@
 
 
 
-
-
-**<center>本表格与源码为自动生成，详情见项目[Leetcode-Helper](https://liuyang0001.github.io/)</center>**
-
-
+> 本表格与源码文件均为自动生成，数据来自leetcode-cn，详情见爬虫项目[Leetcode-Helper](https://liuyang0001.github.io/)。
 
 <hr>
 
@@ -181,21 +177,21 @@
 | 153  | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | 中等 |             数组;二分查找              | [Python](https://liuyang0001.github.io/153.find-minimum-in-rotated-sorted-array.py) |
 | 154  | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) | 困难 |             数组;二分查找              | [Python](https://liuyang0001.github.io/154.find-minimum-in-rotated-sorted-array-ii.py) |
 | 155  |     [最小栈](https://leetcode-cn.com/problems/min-stack)     | 简单 |                栈;设计                 |   [Python](https://liuyang0001.github.io/155.min-stack.py)   |
-| 156  |                     :lock:上下翻转二叉树                     | 中等 |                   树                   |                            To Do                             |
-| 157  |                 :lock:用 Read4 读取 N 个字符                 | 简单 |                 字符串                 |                            To Do                             |
-| 158  |               :lock:用 Read4 读取 N 个字符 II                | 困难 |                 字符串                 |                            To Do                             |
-| 159  |             :lock:至多包含两个不同字符的最长子串             | 中等 |          哈希表;双指针;字符串          |                            To Do                             |
+| 156  |                    上下翻转二叉树 :lock:                     | 中等 |                   树                   |                            To Do                             |
+| 157  |                用 Read4 读取 N 个字符 :lock:                 | 简单 |                 字符串                 |                            To Do                             |
+| 158  |               用 Read4 读取 N 个字符 II :lock:               | 困难 |                 字符串                 |                            To Do                             |
+| 159  |            至多包含两个不同字符的最长子串 :lock:             | 中等 |          哈希表;双指针;字符串          |                            To Do                             |
 | 160  | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | 简单 |                  链表                  | [Python](https://liuyang0001.github.io/160.intersection-of-two-linked-lists.py) |
-| 161  |                  :lock:相隔为 1 的编辑距离                   | 中等 |                 字符串                 |                            To Do                             |
+| 161  |                  相隔为 1 的编辑距离 :lock:                  | 中等 |                 字符串                 |                            To Do                             |
 | 162  | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | 中等 |             数组;二分查找              | [Python](https://liuyang0001.github.io/162.find-peak-element.py) |
-| 163  |                       :lock:缺失的区间                       | 中等 |                  数组                  |                            To Do                             |
+| 163  |                      缺失的区间 :lock:                       | 中等 |                  数组                  |                            To Do                             |
 | 164  |   [最大间距](https://leetcode-cn.com/problems/maximum-gap)   | 困难 |                  排序                  |  [Python](https://liuyang0001.github.io/164.maximum-gap.py)  |
 | 165  | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | 中等 |                 字符串                 | [Python](https://liuyang0001.github.io/165.compare-version-numbers.py) |
 | 166  | [分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | 中等 |              哈希表;数学               | [Python](https://liuyang0001.github.io/166.fraction-to-recurring-decimal.py) |
 | 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | 简单 |          数组;双指针;二分查找          | [Python](https://liuyang0001.github.io/167.two-sum-ii-input-array-is-sorted.py) |
 | 168  | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title) | 简单 |                  数学                  | [Python](https://liuyang0001.github.io/168.excel-sheet-column-title.py) |
 | 169  | [多数元素](https://leetcode-cn.com/problems/majority-element) | 简单 |          位运算;数组;分治算法          | [Python](https://liuyang0001.github.io/169.majority-element.py) |
-| 170  |              :lock:两数之和 III - 数据结构设计               | 简单 |              设计;哈希表               |                            To Do                             |
+| 170  |              两数之和 III - 数据结构设计 :lock:              | 简单 |              设计;哈希表               |                            To Do                             |
 | 171  | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number) | 简单 |                  数学                  | [Python](https://liuyang0001.github.io/171.excel-sheet-column-number.py) |
 | 172  | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes) | 简单 |                  数学                  | [Python](https://liuyang0001.github.io/172.factorial-trailing-zeroes.py) |
 | 173  | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator) | 中等 |               栈;树;设计               | [Python](https://liuyang0001.github.io/173.binary-search-tree-iterator.py) |
@@ -211,7 +207,7 @@
 | 183  | [从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order) | 简单 |                暂无标签                | [Python](https://liuyang0001.github.io/183.customers-who-never-order.py) |
 | 184  | [部门工资最高的员工](https://leetcode-cn.com/problems/department-highest-salary) | 中等 |                暂无标签                | [Python](https://liuyang0001.github.io/184.department-highest-salary.py) |
 | 185  | [部门工资前三高的所有员工](https://leetcode-cn.com/problems/department-top-three-salaries) | 困难 |                暂无标签                | [Python](https://liuyang0001.github.io/185.department-top-three-salaries.py) |
-| 186  |                 :lock:翻转字符串里的单词 II                  | 中等 |                 字符串                 |                            To Do                             |
+| 186  |                 翻转字符串里的单词 II :lock:                 | 中等 |                 字符串                 |                            To Do                             |
 | 187  | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences) | 中等 |             位运算;哈希表              | [Python](https://liuyang0001.github.io/187.repeated-dna-sequences.py) |
 | 188  | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | 困难 |                动态规划                |                            To Do                             |
 | 189  |  [旋转数组](https://leetcode-cn.com/problems/rotate-array)   | 简单 |                  数组                  | [Python](https://liuyang0001.github.io/189.rotate-array.py)  |
@@ -268,89 +264,89 @@
 | 240  | [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) | 中等 |           二分查找;分治算法            | [Python](https://liuyang0001.github.io/240.search-a-2d-matrix-ii.py) |
 | 241  | [为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses) | 中等 |                分治算法                | [Python](https://liuyang0001.github.io/241.different-ways-to-add-parentheses.py) |
 | 242  | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram) | 简单 |              排序;哈希表               | [Python](https://liuyang0001.github.io/242.valid-anagram.py) |
-| 243  |                      :lock:最短单词距离                      | 简单 |                  数组                  |                            To Do                             |
-| 244  |                    :lock:最短单词距离 II                     | 中等 |              设计;哈希表               |                            To Do                             |
-| 245  |                    :lock:最短单词距离 III                    | 中等 |                  数组                  |                            To Do                             |
-| 246  |                       :lock:中心对称数                       | 简单 |              哈希表;数学               |                            To Do                             |
-| 247  |                     :lock:中心对称数 II                      | 中等 |               递归;数学                |                            To Do                             |
-| 248  |                     :lock:中心对称数 III                     | 困难 |               递归;数学                |                            To Do                             |
-| 249  |                     :lock:移位字符串分组                     | 中等 |             哈希表;字符串              |                            To Do                             |
-| 250  |                      :lock:统计同值子树                      | 中等 |                   树                   |                            To Do                             |
-| 251  |                      :lock:展开二维向量                      | 中等 |                  设计                  |                            To Do                             |
-| 252  |                         :lock:会议室                         | 简单 |                  排序                  |                            To Do                             |
-| 253  |                       :lock:会议室 II                        | 中等 |            堆;贪心算法;排序            |                            To Do                             |
-| 254  |                       :lock:因子的组合                       | 中等 |                回溯算法                |                            To Do                             |
-| 255  |               :lock:验证前序遍历序列二叉搜索树               | 中等 |                 栈;树                  |                            To Do                             |
-| 256  |                        :lock:粉刷房子                        | 简单 |                动态规划                |                            To Do                             |
+| 243  |                     最短单词距离 :lock:                      | 简单 |                  数组                  |                            To Do                             |
+| 244  |                    最短单词距离 II :lock:                    | 中等 |              设计;哈希表               |                            To Do                             |
+| 245  |                   最短单词距离 III :lock:                    | 中等 |                  数组                  |                            To Do                             |
+| 246  |                      中心对称数 :lock:                       | 简单 |              哈希表;数学               |                            To Do                             |
+| 247  |                     中心对称数 II :lock:                     | 中等 |               递归;数学                |                            To Do                             |
+| 248  |                    中心对称数 III :lock:                     | 困难 |               递归;数学                |                            To Do                             |
+| 249  |                    移位字符串分组 :lock:                     | 中等 |             哈希表;字符串              |                            To Do                             |
+| 250  |                     统计同值子树 :lock:                      | 中等 |                   树                   |                            To Do                             |
+| 251  |                     展开二维向量 :lock:                      | 中等 |                  设计                  |                            To Do                             |
+| 252  |                        会议室 :lock:                         | 简单 |                  排序                  |                            To Do                             |
+| 253  |                       会议室 II :lock:                       | 中等 |            堆;贪心算法;排序            |                            To Do                             |
+| 254  |                      因子的组合 :lock:                       | 中等 |                回溯算法                |                            To Do                             |
+| 255  |              验证前序遍历序列二叉搜索树 :lock:               | 中等 |                 栈;树                  |                            To Do                             |
+| 256  |                       粉刷房子 :lock:                        | 简单 |                动态规划                |                            To Do                             |
 | 257  | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | 简单 |            树;深度优先搜索             | [Python](https://liuyang0001.github.io/257.binary-tree-paths.py) |
 | 258  |   [各位相加](https://leetcode-cn.com/problems/add-digits)    | 简单 |                  数学                  |  [Python](https://liuyang0001.github.io/258.add-digits.py)   |
-| 259  |                     :lock:较小的三数之和                     | 中等 |              数组;双指针               |                            To Do                             |
+| 259  |                    较小的三数之和 :lock:                     | 中等 |              数组;双指针               |                            To Do                             |
 | 260  | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii) | 中等 |                 位运算                 | [Python](https://liuyang0001.github.io/260.single-number-iii.py) |
-| 261  |                        :lock:以图判树                        | 中等 |  深度优先搜索;广度优先搜索;并查集;图   |                            To Do                             |
+| 261  |                       以图判树 :lock:                        | 中等 |  深度优先搜索;广度优先搜索;并查集;图   |                            To Do                             |
 | 262  | [行程和用户](https://leetcode-cn.com/problems/trips-and-users) | 困难 |                暂无标签                |                            To Do                             |
 | 263  |     [丑数](https://leetcode-cn.com/problems/ugly-number)     | 简单 |                  数学                  |  [Python](https://liuyang0001.github.io/263.ugly-number.py)  |
 | 264  |  [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii)  | 中等 |            堆;数学;动态规划            | [Python](https://liuyang0001.github.io/264.ugly-number-ii.py) |
-| 265  |                      :lock:粉刷房子 II                       | 困难 |                动态规划                |                            To Do                             |
-| 266  |                        :lock:回文排列                        | 简单 |                 哈希表                 |                            To Do                             |
-| 267  |                      :lock:回文排列 II                       | 中等 |                回溯算法                |                            To Do                             |
+| 265  |                      粉刷房子 II :lock:                      | 困难 |                动态规划                |                            To Do                             |
+| 266  |                       回文排列 :lock:                        | 简单 |                 哈希表                 |                            To Do                             |
+| 267  |                      回文排列 II :lock:                      | 中等 |                回溯算法                |                            To Do                             |
 | 268  | [缺失数字](https://leetcode-cn.com/problems/missing-number)  | 简单 |            位运算;数组;数学            | [Python](https://liuyang0001.github.io/268.missing-number.py) |
-| 269  |                        :lock:火星词典                        | 困难 |              图;拓扑排序               |                            To Do                             |
-| 270  |                  :lock:最接近的二叉搜索树值                  | 简单 |              树;二分查找               |                            To Do                             |
-| 271  |                   :lock:字符串的编码与解码                   | 中等 |                 字符串                 |                            To Do                             |
-| 272  |                :lock:最接近的二叉搜索树值 II                 | 困难 |                 栈;树                  |                            To Do                             |
+| 269  |                       火星词典 :lock:                        | 困难 |              图;拓扑排序               |                            To Do                             |
+| 270  |                 最接近的二叉搜索树值 :lock:                  | 简单 |              树;二分查找               |                            To Do                             |
+| 271  |                  字符串的编码与解码 :lock:                   | 中等 |                 字符串                 |                            To Do                             |
+| 272  |                最接近的二叉搜索树值 II :lock:                | 困难 |                 栈;树                  |                            To Do                             |
 | 273  | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words) | 困难 |              数学;字符串               |                            To Do                             |
 | 274  |      [H 指数](https://leetcode-cn.com/problems/h-index)      | 中等 |              排序;哈希表               |    [Python](https://liuyang0001.github.io/274.h-index.py)    |
 | 275  |   [H指数 II](https://leetcode-cn.com/problems/h-index-ii)    | 中等 |                二分查找                |  [Python](https://liuyang0001.github.io/275.h-index-ii.py)   |
-| 276  |                        :lock:栅栏涂色                        | 简单 |                动态规划                |                            To Do                             |
-| 277  |                        :lock:搜寻名人                        | 中等 |                  数组                  |                            To Do                             |
+| 276  |                       栅栏涂色 :lock:                        | 简单 |                动态规划                |                            To Do                             |
+| 277  |                       搜寻名人 :lock:                        | 中等 |                  数组                  |                            To Do                             |
 | 278  | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | 简单 |                二分查找                | [Python](https://liuyang0001.github.io/278.first-bad-version.py) |
 | 279  | [完全平方数](https://leetcode-cn.com/problems/perfect-squares) | 中等 |       广度优先搜索;数学;动态规划       | [Python](https://liuyang0001.github.io/279.perfect-squares.py) |
-| 280  |                        :lock:摆动排序                        | 中等 |               排序;数组                |                            To Do                             |
-| 281  |                       :lock:锯齿迭代器                       | 中等 |                  设计                  |                            To Do                             |
+| 280  |                       摆动排序 :lock:                        | 中等 |               排序;数组                |                            To Do                             |
+| 281  |                      锯齿迭代器 :lock:                       | 中等 |                  设计                  |                            To Do                             |
 | 282  | [给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators) | 困难 |                分治算法                |                            To Do                             |
 | 283  |    [移动零](https://leetcode-cn.com/problems/move-zeroes)    | 简单 |              数组;双指针               |  [Python](https://liuyang0001.github.io/283.move-zeroes.py)  |
 | 284  | [顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator) | 中等 |                  设计                  | [Python](https://liuyang0001.github.io/284.peeking-iterator.py) |
-| 285  |                 :lock:二叉搜索树中的顺序后继                 | 中等 |                   树                   |                            To Do                             |
-| 286  |                         :lock:墙与门                         | 中等 |              广度优先搜索              |                            To Do                             |
+| 285  |                二叉搜索树中的顺序后继 :lock:                 | 中等 |                   树                   |                            To Do                             |
+| 286  |                        墙与门 :lock:                         | 中等 |              广度优先搜索              |                            To Do                             |
 | 287  | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) | 中等 |          数组;双指针;二分查找          | [Python](https://liuyang0001.github.io/287.find-the-duplicate-number.py) |
-| 288  |                     :lock:单词的唯一缩写                     | 中等 |              设计;哈希表               |                            To Do                             |
+| 288  |                    单词的唯一缩写 :lock:                     | 中等 |              设计;哈希表               |                            To Do                             |
 | 289  |  [生命游戏](https://leetcode-cn.com/problems/game-of-life)   | 中等 |                  数组                  | [Python](https://liuyang0001.github.io/289.game-of-life.py)  |
 | 290  |  [单词规律](https://leetcode-cn.com/problems/word-pattern)   | 简单 |                 哈希表                 | [Python](https://liuyang0001.github.io/290.word-pattern.py)  |
-| 291  |                      :lock:单词规律 II                       | 困难 |                回溯算法                |                            To Do                             |
+| 291  |                      单词规律 II :lock:                      | 困难 |                回溯算法                |                            To Do                             |
 | 292  |    [Nim 游戏](https://leetcode-cn.com/problems/nim-game)     | 简单 |         脑筋急转弯;极小化极大          |   [Python](https://liuyang0001.github.io/292.nim-game.py)    |
-| 293  |                        :lock:翻转游戏                        | 简单 |                 字符串                 |                            To Do                             |
-| 294  |                      :lock:翻转游戏 II                       | 中等 |          极小化极大;回溯算法           |                            To Do                             |
+| 293  |                       翻转游戏 :lock:                        | 简单 |                 字符串                 |                            To Do                             |
+| 294  |                      翻转游戏 II :lock:                      | 中等 |          极小化极大;回溯算法           |                            To Do                             |
 | 295  | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream) | 困难 |                堆;设计                 |                            To Do                             |
-| 296  |                     :lock:最佳的碰头地点                     | 困难 |               排序;数学                |                            To Do                             |
+| 296  |                    最佳的碰头地点 :lock:                     | 困难 |               排序;数学                |                            To Do                             |
 | 297  | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) | 困难 |                树;设计                 |                            To Do                             |
-| 298  |                   :lock:二叉树最长连续序列                   | 中等 |                   树                   |                            To Do                             |
+| 298  |                  二叉树最长连续序列 :lock:                   | 中等 |                   树                   |                            To Do                             |
 | 299  | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows) | 简单 |                 哈希表                 | [Python](https://liuyang0001.github.io/299.bulls-and-cows.py) |
 | 300  | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | 中等 |           二分查找;动态规划            | [Python](https://liuyang0001.github.io/300.longest-increasing-subsequence.py) |
 | 301  | [删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses) | 困难 |       深度优先搜索;广度优先搜索        |                            To Do                             |
-| 302  |               :lock:包含全部黑色像素的最小矩形               | 困难 |                二分查找                |                            To Do                             |
+| 302  |              包含全部黑色像素的最小矩形 :lock:               | 困难 |                二分查找                |                            To Do                             |
 | 303  | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) | 简单 |                动态规划                | [Python](https://liuyang0001.github.io/303.range-sum-query-immutable.py) |
 | 304  | [二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable) | 中等 |                动态规划                | [Python](https://liuyang0001.github.io/304.range-sum-query-2d-immutable.py) |
-| 305  |                      :lock:岛屿数量 II                       | 困难 |                 并查集                 |                            To Do                             |
+| 305  |                      岛屿数量 II :lock:                      | 困难 |                 并查集                 |                            To Do                             |
 | 306  |  [累加数](https://leetcode-cn.com/problems/additive-number)  | 中等 |                回溯算法                | [Python](https://liuyang0001.github.io/306.additive-number.py) |
 | 307  | [区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable) | 中等 |            树状数组;线段树             | [Python](https://liuyang0001.github.io/307.range-sum-query-mutable.py) |
-| 308  |                 :lock:二维区域和检索 - 可变                  | 困难 |            树状数组;线段树             |                            To Do                             |
+| 308  |                 二维区域和检索 - 可变 :lock:                 | 困难 |            树状数组;线段树             |                            To Do                             |
 | 309  | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | 中等 |                动态规划                | [Python](https://liuyang0001.github.io/309.best-time-to-buy-and-sell-stock-with-cooldown.py) |
 | 310  | [最小高度树](https://leetcode-cn.com/problems/minimum-height-trees) | 中等 |            广度优先搜索;图             | [Python](https://liuyang0001.github.io/310.minimum-height-trees.py) |
-| 311  |                     :lock:稀疏矩阵的乘法                     | 中等 |                 哈希表                 |                            To Do                             |
+| 311  |                    稀疏矩阵的乘法 :lock:                     | 中等 |                 哈希表                 |                            To Do                             |
 | 312  |  [戳气球](https://leetcode-cn.com/problems/burst-balloons)   | 困难 |           分治算法;动态规划            |                            To Do                             |
 | 313  | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number) | 中等 |                堆;数学                 | [Python](https://liuyang0001.github.io/313.super-ugly-number.py) |
-| 314  |                    :lock:二叉树的垂直遍历                    | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
+| 314  |                   二叉树的垂直遍历 :lock:                    | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
 | 315  | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self) | 困难 | 排序;树状数组;线段树;二分查找;分治算法 | [Python](https://liuyang0001.github.io/315.count-of-smaller-numbers-after-self.py) |
 | 316  | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters) | 困难 |              栈;贪心算法               | [Python](https://liuyang0001.github.io/316.remove-duplicate-letters.py) |
-| 317  |                   :lock:离建筑物最近的距离                   | 困难 |              广度优先搜索              |                            To Do                             |
+| 317  |                  离建筑物最近的距离 :lock:                   | 困难 |              广度优先搜索              |                            To Do                             |
 | 318  | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths) | 中等 |                 位运算                 | [Python](https://liuyang0001.github.io/318.maximum-product-of-word-lengths.py) |
 | 319  |  [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher)  | 中等 |            脑筋急转弯;数学             | [Python](https://liuyang0001.github.io/319.bulb-switcher.py) |
-| 320  |                   :lock:列举单词的全部缩写                   | 中等 |            位运算;回溯算法             |                            To Do                             |
+| 320  |                  列举单词的全部缩写 :lock:                   | 中等 |            位运算;回溯算法             |                            To Do                             |
 | 321  | [拼接最大数](https://leetcode-cn.com/problems/create-maximum-number) | 困难 |           贪心算法;动态规划            | [Python](https://liuyang0001.github.io/321.create-maximum-number.py) |
 | 322  |   [零钱兑换](https://leetcode-cn.com/problems/coin-change)   | 中等 |                动态规划                |  [Python](https://liuyang0001.github.io/322.coin-change.py)  |
-| 323  |                 :lock:无向图中连通分量的数目                 | 中等 |  深度优先搜索;广度优先搜索;并查集;图   |                            To Do                             |
+| 323  |                无向图中连通分量的数目 :lock:                 | 中等 |  深度优先搜索;广度优先搜索;并查集;图   |                            To Do                             |
 | 324  | [摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii) | 中等 |                  排序                  | [Python](https://liuyang0001.github.io/324.wiggle-sort-ii.py) |
-| 325  |               :lock:和等于 k 的最长子数组长度                | 中等 |                 哈希表                 |                            To Do                             |
+| 325  |               和等于 k 的最长子数组长度 :lock:               | 中等 |                 哈希表                 |                            To Do                             |
 | 326  |   [3的幂](https://leetcode-cn.com/problems/power-of-three)   | 简单 |                  数学                  | [Python](https://liuyang0001.github.io/326.power-of-three.py) |
 | 327  | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum) | 困难 | 排序;树状数组;线段树;二分查找;分治算法 |                            To Do                             |
 | 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list) | 中等 |                  链表                  | [Python](https://liuyang0001.github.io/328.odd-even-linked-list.py) |
@@ -358,44 +354,44 @@
 | 330  | [按要求补齐数组](https://leetcode-cn.com/problems/patching-array) | 困难 |                贪心算法                |                            To Do                             |
 | 331  | [验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree) | 中等 |                   栈                   | [Python](https://liuyang0001.github.io/331.verify-preorder-serialization-of-a-binary-tree.py) |
 | 332  | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary) | 中等 |            深度优先搜索;图             | [Python](https://liuyang0001.github.io/332.reconstruct-itinerary.py) |
-| 333  |                     :lock:最大 BST 子树                      | 中等 |                   树                   |                            To Do                             |
+| 333  |                     最大 BST 子树 :lock:                     | 中等 |                   树                   |                            To Do                             |
 | 334  | [递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence) | 中等 |                暂无标签                | [Python](https://liuyang0001.github.io/334.increasing-triplet-subsequence.py) |
 | 335  |  [路径交叉](https://leetcode-cn.com/problems/self-crossing)  | 困难 |                  数学                  |                            To Do                             |
 | 336  | [回文对](https://leetcode-cn.com/problems/palindrome-pairs)  | 困难 |          字典树;哈希表;字符串          |                            To Do                             |
 | 337  | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii) | 中等 |            树;深度优先搜索             | [Python](https://liuyang0001.github.io/337.house-robber-iii.py) |
 | 338  | [比特位计数](https://leetcode-cn.com/problems/counting-bits) | 中等 |            位运算;动态规划             | [Python](https://liuyang0001.github.io/338.counting-bits.py) |
-| 339  |                     :lock:嵌套列表权重和                     | 简单 |              深度优先搜索              |                            To Do                             |
-| 340  |            :lock:至多包含 K 个不同字符的最长子串             | 困难 |             哈希表;字符串              |                            To Do                             |
+| 339  |                    嵌套列表权重和 :lock:                     | 简单 |              深度优先搜索              |                            To Do                             |
+| 340  |            至多包含 K 个不同字符的最长子串 :lock:            | 困难 |             哈希表;字符串              |                            To Do                             |
 | 341  | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | 中等 |                栈;设计                 | [Python](https://liuyang0001.github.io/341.flatten-nested-list-iterator.py) |
 | 342  |   [4的幂](https://leetcode-cn.com/problems/power-of-four)    | 简单 |                 位运算                 | [Python](https://liuyang0001.github.io/342.power-of-four.py) |
 | 343  |  [整数拆分](https://leetcode-cn.com/problems/integer-break)  | 中等 |             数学;动态规划              | [Python](https://liuyang0001.github.io/343.integer-break.py) |
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string) | 简单 |             双指针;字符串              | [Python](https://liuyang0001.github.io/344.reverse-string.py) |
 | 345  | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string) | 简单 |             双指针;字符串              | [Python](https://liuyang0001.github.io/345.reverse-vowels-of-a-string.py) |
-| 346  |                  :lock:数据流中的移动平均值                  | 简单 |               设计;队列                |                            To Do                             |
+| 346  |                 数据流中的移动平均值 :lock:                  | 简单 |               设计;队列                |                            To Do                             |
 | 347  | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | 中等 |               堆;哈希表                | [Python](https://liuyang0001.github.io/347.top-k-frequent-elements.py) |
-| 348  |                     :lock:判定井字棋胜负                     | 中等 |                  设计                  |                            To Do                             |
+| 348  |                    判定井字棋胜负 :lock:                     | 中等 |                  设计                  |                            To Do                             |
 | 349  | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays) | 简单 |      排序;哈希表;双指针;二分查找       | [Python](https://liuyang0001.github.io/349.intersection-of-two-arrays.py) |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | 简单 |      排序;哈希表;双指针;二分查找       | [Python](https://liuyang0001.github.io/350.intersection-of-two-arrays-ii.py) |
-| 351  |                    :lock:安卓系统手势解锁                    | 中等 |           动态规划;回溯算法            |                            To Do                             |
+| 351  |                   安卓系统手势解锁 :lock:                    | 中等 |           动态规划;回溯算法            |                            To Do                             |
 | 352  | [将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals) | 困难 |                二分查找                |                            To Do                             |
-| 353  |                         :lock:贪吃蛇                         | 中等 |               设计;队列                |                            To Do                             |
+| 353  |                        贪吃蛇 :lock:                         | 中等 |               设计;队列                |                            To Do                             |
 | 354  | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) | 困难 |           二分查找;动态规划            |                            To Do                             |
 | 355  | [设计推特](https://leetcode-cn.com/problems/design-twitter)  | 中等 |             堆;设计;哈希表             | [Python](https://liuyang0001.github.io/355.design-twitter.py) |
-| 356  |                        :lock:直线镜像                        | 中等 |              哈希表;数学               |                            To Do                             |
+| 356  |                       直线镜像 :lock:                        | 中等 |              哈希表;数学               |                            To Do                             |
 | 357  | [计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits) | 中等 |         数学;动态规划;回溯算法         | [Python](https://liuyang0001.github.io/357.count-numbers-with-unique-digits.py) |
-| 358  |                  :lock:K 距离间隔重排字符串                  | 困难 |           堆;贪心算法;哈希表           |                            To Do                             |
-| 359  |                     :lock:日志速率限制器                     | 简单 |              设计;哈希表               |                            To Do                             |
-| 360  |                      :lock:有序转化数组                      | 中等 |              数学;双指针               |                            To Do                             |
-| 361  |                        :lock:轰炸敌人                        | 中等 |                动态规划                |                            To Do                             |
-| 362  |                       :lock:敲击计数器                       | 中等 |                  设计                  |                            To Do                             |
+| 358  |                 K 距离间隔重排字符串 :lock:                  | 困难 |           堆;贪心算法;哈希表           |                            To Do                             |
+| 359  |                    日志速率限制器 :lock:                     | 简单 |              设计;哈希表               |                            To Do                             |
+| 360  |                     有序转化数组 :lock:                      | 中等 |              数学;双指针               |                            To Do                             |
+| 361  |                       轰炸敌人 :lock:                        | 中等 |                动态规划                |                            To Do                             |
+| 362  |                      敲击计数器 :lock:                       | 中等 |                  设计                  |                            To Do                             |
 | 363  | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k) | 困难 |         队列;二分查找;动态规划         |                            To Do                             |
-| 364  |                   :lock:加权嵌套序列和 II                    | 中等 |              深度优先搜索              |                            To Do                             |
+| 364  |                   加权嵌套序列和 II :lock:                   | 中等 |              深度优先搜索              |                            To Do                             |
 | 365  | [水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem) | 中等 |                  数学                  | [Python](https://liuyang0001.github.io/365.water-and-jug-problem.py) |
-| 366  |                  :lock:寻找二叉树的叶子节点                  | 中等 |            树;深度优先搜索             |                            To Do                             |
+| 366  |                 寻找二叉树的叶子节点 :lock:                  | 中等 |            树;深度优先搜索             |                            To Do                             |
 | 367  | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square) | 简单 |             数学;二分查找              | [Python](https://liuyang0001.github.io/367.valid-perfect-square.py) |
 | 368  | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset) | 中等 |             数学;动态规划              | [Python](https://liuyang0001.github.io/368.largest-divisible-subset.py) |
-| 369  |                      :lock:给单链表加一                      | 中等 |                  链表                  |                            To Do                             |
-| 370  |                        :lock:区间加法                        | 中等 |                  数组                  |                            To Do                             |
+| 369  |                     给单链表加一 :lock:                      | 中等 |                  链表                  |                            To Do                             |
+| 370  |                       区间加法 :lock:                        | 中等 |                  数组                  |                            To Do                             |
 | 371  | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers) | 简单 |                 位运算                 | [Python](https://liuyang0001.github.io/371.sum-of-two-integers.py) |
 | 372  |    [超级次方](https://leetcode-cn.com/problems/super-pow)    | 中等 |                  数学                  |   [Python](https://liuyang0001.github.io/372.super-pow.py)   |
 | 373  | [查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) | 中等 |                   堆                   | [Python](https://liuyang0001.github.io/373.find-k-pairs-with-smallest-sums.py) |
@@ -404,7 +400,7 @@
 | 376  | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence) | 中等 |           贪心算法;动态规划            | [Python](https://liuyang0001.github.io/376.wiggle-subsequence.py) |
 | 377  | [组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv) | 中等 |                动态规划                | [Python](https://liuyang0001.github.io/377.combination-sum-iv.py) |
 | 378  | [有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | 中等 |              堆;二分查找               | [Python](https://liuyang0001.github.io/378.kth-smallest-element-in-a-sorted-matrix.py) |
-| 379  |                    :lock:电话目录管理系统                    | 中等 |               设计;链表                |                            To Do                             |
+| 379  |                   电话目录管理系统 :lock:                    | 中等 |               设计;链表                |                            To Do                             |
 | 380  | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) | 中等 |            设计;数组;哈希表            | [Python](https://liuyang0001.github.io/380.insert-delete-getrandom-o1.py) |
 | 381  | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | 困难 |            设计;数组;哈希表            |                            To Do                             |
 | 382  | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node) | 中等 |               蓄水池抽样               | [Python](https://liuyang0001.github.io/382.linked-list-random-node.py) |
@@ -433,24 +429,24 @@
 | 405  | [数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal) | 简单 |                 位运算                 | [Python](https://liuyang0001.github.io/405.convert-a-number-to-hexadecimal.py) |
 | 406  | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | 中等 |                贪心算法                |                            To Do                             |
 | 407  | [接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii) | 困难 |            堆;广度优先搜索             |                            To Do                             |
-| 408  |                      :lock:有效单词缩写                      | 简单 |                 字符串                 |                            To Do                             |
+| 408  |                     有效单词缩写 :lock:                      | 简单 |                 字符串                 |                            To Do                             |
 | 409  | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome) | 简单 |                 哈希表                 | [Python](https://liuyang0001.github.io/409.longest-palindrome.py) |
 | 410  | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum) | 困难 |           二分查找;动态规划            |                            To Do                             |
-| 411  |                    :lock:最短特异单词缩写                    | 困难 |            位运算;回溯算法             |                            To Do                             |
+| 411  |                   最短特异单词缩写 :lock:                    | 困难 |            位运算;回溯算法             |                            To Do                             |
 | 412  |   [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)    | 简单 |                暂无标签                |   [Python](https://liuyang0001.github.io/412.fizz-buzz.py)   |
 | 413  | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices) | 中等 |             数学;动态规划              | [Python](https://liuyang0001.github.io/413.arithmetic-slices.py) |
 | 414  | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number) | 简单 |                  数组                  | [Python](https://liuyang0001.github.io/414.third-maximum-number.py) |
 | 415  |  [字符串相加](https://leetcode-cn.com/problems/add-strings)  | 简单 |                 字符串                 |  [Python](https://liuyang0001.github.io/415.add-strings.py)  |
 | 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | 中等 |                动态规划                | [Python](https://liuyang0001.github.io/416.partition-equal-subset-sum.py) |
 | 417  | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow) | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
-| 418  |                  :lock:屏幕可显示句子的数量                  | 中等 |                动态规划                |                            To Do                             |
+| 418  |                 屏幕可显示句子的数量 :lock:                  | 中等 |                动态规划                |                            To Do                             |
 | 419  | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board) | 中等 |                暂无标签                |                            To Do                             |
 | 420  | [强密码检验器](https://leetcode-cn.com/problems/strong-password-checker) | 困难 |                暂无标签                |                            To Do                             |
 | 421  | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array) | 中等 |             位运算;字典树              |                            To Do                             |
-| 422  |                     :lock:有效的单词方块                     | 简单 |                暂无标签                |                            To Do                             |
+| 422  |                    有效的单词方块 :lock:                     | 简单 |                暂无标签                |                            To Do                             |
 | 423  | [从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english) | 中等 |                  数学                  | [Python](https://liuyang0001.github.io/423.reconstruct-original-digits-from-english.py) |
 | 424  | [替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement) | 中等 |                 双指针                 | [Python](https://liuyang0001.github.io/424.longest-repeating-character-replacement.py) |
-| 425  |                        :lock:单词方块                        | 困难 |            字典树;回溯算法             |                            To Do                             |
+| 425  |                       单词方块 :lock:                        | 困难 |            字典树;回溯算法             |                            To Do                             |
 | 432  | [全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure) | 困难 |                  设计                  |                            To Do                             |
 | 433  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation) | 中等 |                暂无标签                |                            To Do                             |
 | 434  | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string) | 简单 |                 字符串                 | [Python](https://liuyang0001.github.io/434.number-of-segments-in-a-string.py) |
@@ -458,12 +454,12 @@
 | 436  | [寻找右区间](https://leetcode-cn.com/problems/find-right-interval) | 中等 |                二分查找                |                            To Do                             |
 | 437  | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | 简单 |                   树                   |                            To Do                             |
 | 438  | [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | 中等 |                 哈希表                 |                            To Do                             |
-| 439  |                    :lock:三元表达式解析器                    | 中等 |            栈;深度优先搜索             |                            To Do                             |
+| 439  |                   三元表达式解析器 :lock:                    | 中等 |            栈;深度优先搜索             |                            To Do                             |
 | 440  | [字典序的第K小数字](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order) | 困难 |                暂无标签                |                            To Do                             |
 | 441  | [排列硬币](https://leetcode-cn.com/problems/arranging-coins) | 简单 |             数学;二分查找              |                            To Do                             |
 | 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array) | 中等 |                  数组                  |                            To Do                             |
 | 443  | [压缩字符串](https://leetcode-cn.com/problems/string-compression) | 简单 |                 字符串                 |                            To Do                             |
-| 444  |                        :lock:序列重建                        | 中等 |              图;拓扑排序               |                            To Do                             |
+| 444  |                       序列重建 :lock:                        | 中等 |              图;拓扑排序               |                            To Do                             |
 | 445  | [两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii) | 中等 |                  链表                  | [Python](https://liuyang0001.github.io/445.add-two-numbers-ii.py) |
 | 446  | [等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence) | 困难 |                动态规划                |                            To Do                             |
 | 447  | [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs) | 简单 |                 哈希表                 |                            To Do                             |
@@ -484,12 +480,12 @@
 | 462  | [最少移动次数使数组元素相等 II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii) | 中等 |                  数学                  |                            To Do                             |
 | 463  | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter) | 简单 |                 哈希表                 |                            To Do                             |
 | 464  |    [我能赢吗](https://leetcode-cn.com/problems/can-i-win)    | 中等 |          极小化极大;动态规划           |                            To Do                             |
-| 465  |                      :lock:最优账单平衡                      | 困难 |                暂无标签                |                            To Do                             |
+| 465  |                     最优账单平衡 :lock:                      | 困难 |                暂无标签                |                            To Do                             |
 | 466  | [统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions) | 困难 |                动态规划                | [Python](https://liuyang0001.github.io/466.count-the-repetitions.py) |
 | 467  | [环绕字符串中唯一的子字符串](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string) | 中等 |                动态规划                |                            To Do                             |
 | 468  | [验证IP地址](https://leetcode-cn.com/problems/validate-ip-address) | 中等 |                 字符串                 |                            To Do                             |
-| 469  |                        :lock:凸多边形                        | 中等 |                  数学                  |                            To Do                             |
-| 471  |                  :lock:编码最短长度的字符串                  | 困难 |                动态规划                |                            To Do                             |
+| 469  |                       凸多边形 :lock:                        | 中等 |                  数学                  |                            To Do                             |
+| 471  |                 编码最短长度的字符串 :lock:                  | 困难 |                动态规划                |                            To Do                             |
 | 472  | [连接词](https://leetcode-cn.com/problems/concatenated-words) | 困难 |      深度优先搜索;字典树;动态规划      |                            To Do                             |
 | 473  | [火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square) | 中等 |              深度优先搜索              |                            To Do                             |
 | 474  |  [一和零](https://leetcode-cn.com/problems/ones-and-zeroes)  | 中等 |                动态规划                |                            To Do                             |
@@ -501,12 +497,12 @@
 | 481  | [神奇字符串](https://leetcode-cn.com/problems/magical-string) | 中等 |                暂无标签                |                            To Do                             |
 | 482  | [密钥格式化](https://leetcode-cn.com/problems/license-key-formatting) | 简单 |                暂无标签                |                            To Do                             |
 | 483  | [最小好进制](https://leetcode-cn.com/problems/smallest-good-base) | 困难 |             数学;二分查找              |                            To Do                             |
-| 484  |                        :lock:寻找排列                        | 中等 |                贪心算法                |                            To Do                             |
+| 484  |                       寻找排列 :lock:                        | 中等 |                贪心算法                |                            To Do                             |
 | 485  | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | 简单 |                  数组                  |                            To Do                             |
 | 486  | [预测赢家](https://leetcode-cn.com/problems/predict-the-winner) | 中等 |          极小化极大;动态规划           |                            To Do                             |
-| 487  |                   :lock:最大连续1的个数 II                   | 中等 |                 双指针                 |                            To Do                             |
+| 487  |                  最大连续1的个数 II :lock:                   | 中等 |                 双指针                 |                            To Do                             |
 | 488  |    [祖玛游戏](https://leetcode-cn.com/problems/zuma-game)    | 困难 |              深度优先搜索              |                            To Do                             |
-| 490  |                          :lock:迷宫                          | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
+| 490  |                         迷宫 :lock:                          | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
 | 491  | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences) | 中等 |              深度优先搜索              |                            To Do                             |
 | 492  | [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle) | 简单 |                暂无标签                |                            To Do                             |
 | 493  |   [翻转对](https://leetcode-cn.com/problems/reverse-pairs)   | 困难 | 排序;树状数组;线段树;二分查找;分治算法 |                            To Do                             |
@@ -514,18 +510,18 @@
 | 495  | [提莫攻击](https://leetcode-cn.com/problems/teemo-attacking) | 中等 |                  数组                  |                            To Do                             |
 | 496  | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | 简单 |                   栈                   |                            To Do                             |
 | 498  | [对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse) | 中等 |                暂无标签                |                            To Do                             |
-| 499  |                        :lock:迷宫 III                        | 困难 |       深度优先搜索;广度优先搜索        |                            To Do                             |
+| 499  |                       迷宫 III :lock:                        | 困难 |       深度优先搜索;广度优先搜索        |                            To Do                             |
 | 500  |   [键盘行](https://leetcode-cn.com/problems/keyboard-row)    | 简单 |                 哈希表                 |                            To Do                             |
 | 501  | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) | 简单 |                   树                   |                            To Do                             |
 | 502  |         [IPO](https://leetcode-cn.com/problems/ipo)          | 困难 |              堆;贪心算法               |                            To Do                             |
 | 503  | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii) | 中等 |                   栈                   |                            To Do                             |
 | 504  |     [七进制数](https://leetcode-cn.com/problems/base-7)      | 简单 |                暂无标签                |                            To Do                             |
-| 505  |                        :lock:迷宫 II                         | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
+| 505  |                        迷宫 II :lock:                        | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
 | 506  | [相对名次](https://leetcode-cn.com/problems/relative-ranks)  | 简单 |                暂无标签                |                            To Do                             |
 | 507  |  [完美数](https://leetcode-cn.com/problems/perfect-number)   | 简单 |                  数学                  |                            To Do                             |
 | 508  | [出现次数最多的子树元素和](https://leetcode-cn.com/problems/most-frequent-subtree-sum) | 中等 |               树;哈希表                |                            To Do                             |
-| 509  |               :lock:二叉搜索树中的中序后继 II                | 中等 |                   树                   |                            To Do                             |
-| 511  |                 :lock:从始点到终点的所有路径                 | 中等 |            深度优先搜索;图             |                            To Do                             |
+| 509  |               二叉搜索树中的中序后继 II :lock:               | 中等 |                   树                   |                            To Do                             |
+| 511  |                从始点到终点的所有路径 :lock:                 | 中等 |            深度优先搜索;图             |                            To Do                             |
 | 513  | [找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value) | 中等 |      树;深度优先搜索;广度优先搜索      |                            To Do                             |
 | 514  |  [自由之路](https://leetcode-cn.com/problems/freedom-trail)  | 困难 |     深度优先搜索;分治算法;动态规划     |                            To Do                             |
 | 515  | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row) | 中等 |      树;深度优先搜索;广度优先搜索      |                            To Do                             |
@@ -539,14 +535,14 @@
 | 524  | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting) | 中等 |              排序;双指针               |                            To Do                             |
 | 525  | [连续数组](https://leetcode-cn.com/problems/contiguous-array) | 中等 |                 哈希表                 |                            To Do                             |
 | 526  | [优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement) | 中等 |                回溯算法                |                            To Do                             |
-| 527  |                        :lock:单词缩写                        | 困难 |              排序;字符串               |                            To Do                             |
+| 527  |                       单词缩写 :lock:                        | 困难 |              排序;字符串               |                            To Do                             |
 | 529  |   [扫雷游戏](https://leetcode-cn.com/problems/minesweeper)   | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
 | 530  | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) | 简单 |                   树                   |                            To Do                             |
-| 531  |                       :lock:孤独像素 I                       | 中等 |           深度优先搜索;数组            |                            To Do                             |
+| 531  |                      孤独像素 I :lock:                       | 中等 |           深度优先搜索;数组            |                            To Do                             |
 | 532  | [数组中的K-diff数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array) | 简单 |              数组;双指针               |                            To Do                             |
-| 533  |                      :lock:孤独像素 II                       | 中等 |           深度优先搜索;数组            |                            To Do                             |
+| 533  |                      孤独像素 II :lock:                      | 中等 |           深度优先搜索;数组            |                            To Do                             |
 | 535  | [TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl) | 中等 |              哈希表;数学               |                            To Do                             |
-| 536  |                   :lock:从字符串生成二叉树                   | 中等 |               树;字符串                |                            To Do                             |
+| 536  |                  从字符串生成二叉树 :lock:                   | 中等 |               树;字符串                |                            To Do                             |
 | 537  | [复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication) | 中等 |              数学;字符串               |                            To Do                             |
 | 538  | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | 简单 |                   树                   |                            To Do                             |
 | 539  | [最小时间差](https://leetcode-cn.com/problems/minimum-time-difference) | 中等 |                 字符串                 |                            To Do                             |
@@ -554,122 +550,122 @@
 | 541  | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii) | 简单 |                 字符串                 |                            To Do                             |
 | 542  |    [01 矩阵](https://leetcode-cn.com/problems/01-matrix)     | 中等 |       深度优先搜索;广度优先搜索        |   [Python](https://liuyang0001.github.io/542.01-matrix.py)   |
 | 543  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree) | 简单 |                   树                   |                            To Do                             |
-| 544  |                     :lock:输出比赛匹配对                     | 中等 |              递归;字符串               |                            To Do                             |
-| 545  |                      :lock:二叉树的边界                      | 中等 |                   树                   |                            To Do                             |
+| 544  |                    输出比赛匹配对 :lock:                     | 中等 |              递归;字符串               |                            To Do                             |
+| 545  |                     二叉树的边界 :lock:                      | 中等 |                   树                   |                            To Do                             |
 | 546  |  [移除盒子](https://leetcode-cn.com/problems/remove-boxes)   | 困难 |         深度优先搜索;动态规划          |                            To Do                             |
 | 547  |  [朋友圈](https://leetcode-cn.com/problems/friend-circles)   | 中等 |          深度优先搜索;并查集           |                            To Do                             |
-| 548  |               :lock:将数组分割成和相等的子数组               | 中等 |                  数组                  |                            To Do                             |
-| 549  |                 :lock:二叉树中最长的连续序列                 | 中等 |                   树                   |                            To Do                             |
+| 548  |              将数组分割成和相等的子数组 :lock:               | 中等 |                  数组                  |                            To Do                             |
+| 549  |                二叉树中最长的连续序列 :lock:                 | 中等 |                   树                   |                            To Do                             |
 | 551  | [学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i) | 简单 |                 字符串                 |                            To Do                             |
 | 552  | [学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii) | 困难 |                动态规划                |                            To Do                             |
 | 553  | [最优除法](https://leetcode-cn.com/problems/optimal-division) | 中等 |              数学;字符串               |                            To Do                             |
 | 554  |     [砖墙](https://leetcode-cn.com/problems/brick-wall)      | 中等 |                 哈希表                 |                            To Do                             |
-| 555  |                     :lock:分割连接字符串                     | 中等 |                 字符串                 |                            To Do                             |
+| 555  |                    分割连接字符串 :lock:                     | 中等 |                 字符串                 |                            To Do                             |
 | 556  | [下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii) | 中等 |                 字符串                 |                            To Do                             |
 | 557  | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) | 简单 |                 字符串                 |                            To Do                             |
 | 560  | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | 中等 |              数组;哈希表               | [Python](https://liuyang0001.github.io/560.subarray-sum-equals-k.py) |
 | 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i) | 简单 |                  数组                  |                            To Do                             |
-| 562  |                 :lock:矩阵中最长的连续1线段                  | 中等 |                  数组                  |                            To Do                             |
+| 562  |                 矩阵中最长的连续1线段 :lock:                 | 中等 |                  数组                  |                            To Do                             |
 | 563  | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt) | 简单 |                   树                   |                            To Do                             |
 | 564  | [寻找最近的回文数](https://leetcode-cn.com/problems/find-the-closest-palindrome) | 困难 |                 字符串                 |                            To Do                             |
 | 565  |  [数组嵌套](https://leetcode-cn.com/problems/array-nesting)  | 中等 |                  数组                  |                            To Do                             |
 | 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix) | 简单 |                  数组                  |                            To Do                             |
 | 567  | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string) | 中等 |                 双指针                 |                            To Do                             |
-| 568  |                      :lock:最大休假天数                      | 困难 |                动态规划                |                            To Do                             |
-| 569  |                     :lock:员工薪水中位数                     | 困难 |                暂无标签                |                            To Do                             |
-| 570  |                :lock:至少有5名直接下属的经理                 | 中等 |                暂无标签                |                            To Do                             |
-| 571  |                :lock:给定数字的频率查询中位数                | 困难 |                暂无标签                |                            To Do                             |
+| 568  |                     最大休假天数 :lock:                      | 困难 |                动态规划                |                            To Do                             |
+| 569  |                    员工薪水中位数 :lock:                     | 困难 |                暂无标签                |                            To Do                             |
+| 570  |                至少有5名直接下属的经理 :lock:                | 中等 |                暂无标签                |                            To Do                             |
+| 571  |               给定数字的频率查询中位数 :lock:                | 困难 |                暂无标签                |                            To Do                             |
 | 572  | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | 简单 |                   树                   | [Python](https://liuyang0001.github.io/572.subtree-of-another-tree.py) |
-| 573  |                        :lock:松鼠模拟                        | 中等 |                  数学                  |                            To Do                             |
-| 574  |                         :lock:当选者                         | 中等 |                暂无标签                |                            To Do                             |
+| 573  |                       松鼠模拟 :lock:                        | 中等 |                  数学                  |                            To Do                             |
+| 574  |                        当选者 :lock:                         | 中等 |                暂无标签                |                            To Do                             |
 | 575  | [分糖果](https://leetcode-cn.com/problems/distribute-candies) | 简单 |                 哈希表                 |                            To Do                             |
 | 576  | [出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths) | 中等 |         深度优先搜索;动态规划          |                            To Do                             |
-| 577  |                        :lock:员工奖金                        | 简单 |                暂无标签                |                            To Do                             |
-| 578  |                  :lock:查询回答率最高的问题                  | 中等 |                暂无标签                |                            To Do                             |
-| 579  |                   :lock:查询员工的累计薪水                   | 困难 |                暂无标签                |                            To Do                             |
-| 580  |                   :lock:统计各专业学生人数                   | 中等 |                暂无标签                |                            To Do                             |
+| 577  |                       员工奖金 :lock:                        | 简单 |                暂无标签                |                            To Do                             |
+| 578  |                 查询回答率最高的问题 :lock:                  | 中等 |                暂无标签                |                            To Do                             |
+| 579  |                  查询员工的累计薪水 :lock:                   | 困难 |                暂无标签                |                            To Do                             |
+| 580  |                  统计各专业学生人数 :lock:                   | 中等 |                暂无标签                |                            To Do                             |
 | 581  | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | 简单 |                  数组                  |                            To Do                             |
-| 582  |                        :lock:杀死进程                        | 中等 |                树;队列                 |                            To Do                             |
+| 582  |                       杀死进程 :lock:                        | 中等 |                树;队列                 |                            To Do                             |
 | 583  | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings) | 中等 |                 字符串                 |                            To Do                             |
-| 584  |                     :lock:寻找用户推荐人                     | 简单 |                暂无标签                |                            To Do                             |
-| 585  |                      :lock:2016年的投资                      | 中等 |                暂无标签                |                            To Do                             |
-| 586  |                     :lock:订单最多的客户                     | 简单 |                暂无标签                |                            To Do                             |
+| 584  |                    寻找用户推荐人 :lock:                     | 简单 |                暂无标签                |                            To Do                             |
+| 585  |                     2016年的投资 :lock:                      | 中等 |                暂无标签                |                            To Do                             |
+| 586  |                    订单最多的客户 :lock:                     | 简单 |                暂无标签                |                            To Do                             |
 | 587  | [安装栅栏](https://leetcode-cn.com/problems/erect-the-fence) | 困难 |                  几何                  |                            To Do                             |
-| 588  |                    :lock:设计内存文件系统                    | 困难 |                  设计                  |                            To Do                             |
+| 588  |                   设计内存文件系统 :lock:                    | 困难 |                  设计                  |                            To Do                             |
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator) | 困难 |               栈;字符串                |                            To Do                             |
 | 592  | [分数加减运算](https://leetcode-cn.com/problems/fraction-addition-and-subtraction) | 中等 |                  数学                  |                            To Do                             |
 | 593  | [有效的正方形](https://leetcode-cn.com/problems/valid-square) | 中等 |                  数学                  |                            To Do                             |
 | 594  | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence) | 简单 |                 哈希表                 |                            To Do                             |
 | 595  |  [大的国家](https://leetcode-cn.com/problems/big-countries)  | 简单 |                暂无标签                |                            To Do                             |
 | 596  | [超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students) | 简单 |                暂无标签                |                            To Do                             |
-| 597  |                :lock:好友申请 I ：总体通过率                 | 简单 |                暂无标签                |                            To Do                             |
+| 597  |                好友申请 I ：总体通过率 :lock:                | 简单 |                暂无标签                |                            To Do                             |
 | 598  | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii) | 简单 |                  数学                  |                            To Do                             |
 | 599  | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists) | 简单 |                 哈希表                 |                            To Do                             |
 | 600  | [不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones) | 困难 |                动态规划                |                            To Do                             |
 | 601  | [体育馆的人流量](https://leetcode-cn.com/problems/human-traffic-of-stadium) | 困难 |                暂无标签                |                            To Do                             |
-| 602  |              :lock:好友申请 II ：谁有最多的好友              | 中等 |                暂无标签                |                            To Do                             |
-| 603  |                      :lock:连续空余座位                      | 简单 |                暂无标签                |                            To Do                             |
-| 604  |                     :lock:迭代压缩字符串                     | 简单 |                  设计                  |                            To Do                             |
+| 602  |             好友申请 II ：谁有最多的好友 :lock:              | 中等 |                暂无标签                |                            To Do                             |
+| 603  |                     连续空余座位 :lock:                      | 简单 |                暂无标签                |                            To Do                             |
+| 604  |                    迭代压缩字符串 :lock:                     | 简单 |                  设计                  |                            To Do                             |
 | 605  | [种花问题](https://leetcode-cn.com/problems/can-place-flowers) | 简单 |                  数组                  |                            To Do                             |
 | 606  | [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree) | 简单 |               树;字符串                |                            To Do                             |
-| 607  |                         :lock:销售员                         | 简单 |                暂无标签                |                            To Do                             |
-| 608  |                         :lock:树节点                         | 中等 |                暂无标签                |                            To Do                             |
+| 607  |                        销售员 :lock:                         | 简单 |                暂无标签                |                            To Do                             |
+| 608  |                        树节点 :lock:                         | 中等 |                暂无标签                |                            To Do                             |
 | 609  | [在系统中查找重复文件](https://leetcode-cn.com/problems/find-duplicate-file-in-system) | 中等 |             哈希表;字符串              |                            To Do                             |
-| 610  |                       :lock:判断三角形                       | 简单 |                暂无标签                |                            To Do                             |
+| 610  |                      判断三角形 :lock:                       | 简单 |                暂无标签                |                            To Do                             |
 | 611  | [有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number) | 中等 |                  数组                  |                            To Do                             |
-| 612  |                    :lock:平面上的最近距离                    | 中等 |                暂无标签                |                            To Do                             |
-| 613  |                    :lock:直线上的最近距离                    | 简单 |                暂无标签                |                            To Do                             |
-| 614  |                       :lock:二级关注者                       | 中等 |                暂无标签                |                            To Do                             |
-| 615  |                :lock:平均工资：部门与公司比较                | 困难 |                暂无标签                |                            To Do                             |
-| 616  |                  :lock:给字符串添加加粗标签                  | 中等 |                 字符串                 |                            To Do                             |
+| 612  |                   平面上的最近距离 :lock:                    | 中等 |                暂无标签                |                            To Do                             |
+| 613  |                   直线上的最近距离 :lock:                    | 简单 |                暂无标签                |                            To Do                             |
+| 614  |                      二级关注者 :lock:                       | 中等 |                暂无标签                |                            To Do                             |
+| 615  |               平均工资：部门与公司比较 :lock:                | 困难 |                暂无标签                |                            To Do                             |
+| 616  |                 给字符串添加加粗标签 :lock:                  | 中等 |                 字符串                 |                            To Do                             |
 | 617  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | 简单 |                   树                   |                            To Do                             |
-| 618  |                    :lock:学生地理信息报告                    | 困难 |                暂无标签                |                            To Do                             |
-| 619  |                  :lock:只出现一次的最大数字                  | 简单 |                暂无标签                |                            To Do                             |
+| 618  |                   学生地理信息报告 :lock:                    | 困难 |                暂无标签                |                            To Do                             |
+| 619  |                 只出现一次的最大数字 :lock:                  | 简单 |                暂无标签                |                            To Do                             |
 | 620  | [有趣的电影](https://leetcode-cn.com/problems/not-boring-movies) | 简单 |                暂无标签                |                            To Do                             |
 | 621  | [任务调度器](https://leetcode-cn.com/problems/task-scheduler) | 中等 |           贪心算法;队列;数组           |                            To Do                             |
 | 623  | [在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree) | 中等 |                   树                   |                            To Do                             |
-| 624  |                  :lock:数组列表中的最大距离                  | 简单 |              数组;哈希表               |                            To Do                             |
-| 625  |                      :lock:最小因式分解                      | 中等 |               递归;数学                |                            To Do                             |
+| 624  |                 数组列表中的最大距离 :lock:                  | 简单 |              数组;哈希表               |                            To Do                             |
+| 625  |                     最小因式分解 :lock:                      | 中等 |               递归;数学                |                            To Do                             |
 | 626  |  [换座位](https://leetcode-cn.com/problems/exchange-seats)   | 中等 |                暂无标签                |                            To Do                             |
 | 627  |   [交换工资](https://leetcode-cn.com/problems/swap-salary)   | 简单 |                暂无标签                |                            To Do                             |
 | 628  | [三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers) | 简单 |               数组;数学                |                            To Do                             |
 | 629  | [K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array) | 困难 |                动态规划                |                            To Do                             |
 | 630  | [课程表 III](https://leetcode-cn.com/problems/course-schedule-iii) | 困难 |                贪心算法                |                            To Do                             |
-| 631  |                  :lock:设计 Excel 求和公式                   | 困难 |                  设计                  |                            To Do                             |
+| 631  |                  设计 Excel 求和公式 :lock:                  | 困难 |                  设计                  |                            To Do                             |
 | 632  | [最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists) | 困难 |          哈希表;双指针;字符串          |                            To Do                             |
 | 633  | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers) | 简单 |                  数学                  |                            To Do                             |
-| 634  |                   :lock:寻找数组的错位排列                   | 中等 |                  数学                  |                            To Do                             |
-| 635  |                    :lock:设计日志存储系统                    | 中等 |              设计;字符串               |                            To Do                             |
+| 634  |                  寻找数组的错位排列 :lock:                   | 中等 |                  数学                  |                            To Do                             |
+| 635  |                   设计日志存储系统 :lock:                    | 中等 |              设计;字符串               |                            To Do                             |
 | 636  | [函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions) | 中等 |                   栈                   |                            To Do                             |
 | 637  | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree) | 简单 |                   树                   |                            To Do                             |
 | 638  |  [大礼包](https://leetcode-cn.com/problems/shopping-offers)  | 中等 |         深度优先搜索;动态规划          |                            To Do                             |
 | 639  | [解码方法 2](https://leetcode-cn.com/problems/decode-ways-ii) | 困难 |                动态规划                |                            To Do                             |
 | 640  | [求解方程](https://leetcode-cn.com/problems/solve-the-equation) | 中等 |                  数学                  |                            To Do                             |
-| 642  |                  :lock:设计搜索自动补全系统                  | 困难 |              设计;字典树               |                            To Do                             |
+| 642  |                 设计搜索自动补全系统 :lock:                  | 困难 |              设计;字典树               |                            To Do                             |
 | 643  | [子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i) | 简单 |                  数组                  |                            To Do                             |
-| 644  |                   :lock:最大平均子段和 II                    | 困难 |             数组;二分查找              |                            To Do                             |
+| 644  |                   最大平均子段和 II :lock:                   | 困难 |             数组;二分查找              |                            To Do                             |
 | 645  | [错误的集合](https://leetcode-cn.com/problems/set-mismatch)  | 简单 |              哈希表;数学               |                            To Do                             |
 | 646  | [最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain) | 中等 |                动态规划                |                            To Do                             |
 | 647  | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings) | 中等 |            字符串;动态规划             |                            To Do                             |
 | 648  |  [单词替换](https://leetcode-cn.com/problems/replace-words)  | 中等 |             字典树;哈希表              |                            To Do                             |
 | 649  | [Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate) | 中等 |                贪心算法                |                            To Do                             |
 | 650  | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard) | 中等 |                动态规划                |                            To Do                             |
-| 651  |                        :lock:4键键盘                         | 中等 |         贪心算法;数学;动态规划         |                            To Do                             |
+| 651  |                        4键键盘 :lock:                        | 中等 |         贪心算法;数学;动态规划         |                            To Do                             |
 | 652  | [寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees) | 中等 |                   树                   |                            To Do                             |
 | 653  | [两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst) | 简单 |                   树                   |                            To Do                             |
 | 654  | [最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree) | 中等 |                   树                   |                            To Do                             |
 | 655  | [输出二叉树](https://leetcode-cn.com/problems/print-binary-tree) | 中等 |                   树                   |                            To Do                             |
-| 656  |                        :lock:金币路径                        | 困难 |                动态规划                |                            To Do                             |
+| 656  |                       金币路径 :lock:                        | 困难 |                动态规划                |                            To Do                             |
 | 657  | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin) | 简单 |                 字符串                 |                            To Do                             |
 | 658  | [找到 K 个最接近的元素](https://leetcode-cn.com/problems/find-k-closest-elements) | 中等 |                二分查找                |                            To Do                             |
 | 659  | [分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences) | 中等 |              堆;贪心算法               |                            To Do                             |
-| 660  |                         :lock:移除 9                         | 困难 |                  数学                  |                            To Do                             |
+| 660  |                        移除 9 :lock:                         | 困难 |                  数学                  |                            To Do                             |
 | 661  | [图片平滑器](https://leetcode-cn.com/problems/image-smoother) | 简单 |                  数组                  |                            To Do                             |
 | 662  | [二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree) | 中等 |                   树                   |                            To Do                             |
-| 663  |                       :lock:均匀树划分                       | 中等 |                   树                   |                            To Do                             |
+| 663  |                      均匀树划分 :lock:                       | 中等 |                   树                   |                            To Do                             |
 | 664  | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer) | 困难 |         深度优先搜索;动态规划          |                            To Do                             |
 | 665  | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array) | 简单 |                  数组                  |                            To Do                             |
-| 666  |                       :lock:路径和 IV                        | 中等 |                   树                   |                            To Do                             |
+| 666  |                       路径和 IV :lock:                       | 中等 |                   树                   |                            To Do                             |
 | 667  | [优美的排列 II](https://leetcode-cn.com/problems/beautiful-arrangement-ii) | 中等 |                  数组                  |                            To Do                             |
 | 668  | [乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table) | 困难 |                二分查找                |                            To Do                             |
 | 669  | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree) | 简单 |                   树                   |                            To Do                             |
@@ -684,9 +680,9 @@
 | 678  | [有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string) | 中等 |                 字符串                 |                            To Do                             |
 | 679  |    [24 点游戏](https://leetcode-cn.com/problems/24-game)     | 困难 |              深度优先搜索              |                            To Do                             |
 | 680  | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii) | 简单 |                 字符串                 | [Python](https://liuyang0001.github.io/680.valid-palindrome-ii.py) |
-| 681  |                        :lock:最近时刻                        | 中等 |                 字符串                 |                            To Do                             |
+| 681  |                       最近时刻 :lock:                        | 中等 |                 字符串                 |                            To Do                             |
 | 682  |  [棒球比赛](https://leetcode-cn.com/problems/baseball-game)  | 简单 |                   栈                   |                            To Do                             |
-| 683  |                       :lock:K 个空花盆                       | 困难 |                暂无标签                |                            To Do                             |
+| 683  |                      K 个空花盆 :lock:                       | 困难 |                暂无标签                |                            To Do                             |
 | 684  | [冗余连接](https://leetcode-cn.com/problems/redundant-connection) | 中等 |              树;并查集;图              |                            To Do                             |
 | 685  | [冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii) | 困难 |       树;深度优先搜索;并查集;图        |                            To Do                             |
 | 686  | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match) | 简单 |                 字符串                 |                            To Do                             |
@@ -697,45 +693,45 @@
 | 691  | [贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word) | 困难 |           动态规划;回溯算法            |                            To Do                             |
 | 692  | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words) | 中等 |            堆;字典树;哈希表            |                            To Do                             |
 | 693  | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits) | 简单 |                 位运算                 |                            To Do                             |
-| 694  |                     :lock:不同岛屿的数量                     | 中等 |          深度优先搜索;哈希表           |                            To Do                             |
+| 694  |                    不同岛屿的数量 :lock:                     | 中等 |          深度优先搜索;哈希表           |                            To Do                             |
 | 695  | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | 中等 |           深度优先搜索;数组            |                            To Do                             |
 | 696  | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings) | 简单 |                 字符串                 |                            To Do                             |
 | 697  | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array) | 简单 |                  数组                  |                            To Do                             |
 | 698  | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets) | 中等 |             递归;动态规划              |                            To Do                             |
 | 699  | [掉落的方块](https://leetcode-cn.com/problems/falling-squares) | 困难 |                 线段树                 |                            To Do                             |
-| 711  |                   :lock:不同岛屿的数量 II                    | 困难 |          深度优先搜索;哈希表           |                            To Do                             |
+| 711  |                   不同岛屿的数量 II :lock:                   | 困难 |          深度优先搜索;哈希表           |                            To Do                             |
 | 712  | [两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) | 中等 |                动态规划                |                            To Do                             |
 | 713  | [乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k) | 中等 |              数组;双指针               |                            To Do                             |
 | 714  | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | 中等 |         贪心算法;数组;动态规划         |                            To Do                             |
 | 715  | [Range 模块](https://leetcode-cn.com/problems/range-module)  | 困难 |                 线段树                 |                            To Do                             |
-| 716  |                         :lock:最大栈                         | 简单 |                  设计                  |                            To Do                             |
+| 716  |                        最大栈 :lock:                         | 简单 |                  设计                  |                            To Do                             |
 | 717  | [1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | 简单 |                  数组                  |                            To Do                             |
 | 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray) | 中等 |     数组;哈希表;二分查找;动态规划      |                            To Do                             |
 | 719  | [找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance) | 困难 |            堆;数组;二分查找            |                            To Do                             |
 | 720  | [词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary) | 简单 |             字典树;哈希表              |                            To Do                             |
 | 721  | [账户合并](https://leetcode-cn.com/problems/accounts-merge)  | 中等 |          深度优先搜索;并查集           |                            To Do                             |
 | 722  | [删除注释](https://leetcode-cn.com/problems/remove-comments) | 中等 |                 字符串                 |                            To Do                             |
-| 723  |                        :lock:粉碎糖果                        | 中等 |              数组;双指针               |                            To Do                             |
+| 723  |                       粉碎糖果 :lock:                        | 中等 |              数组;双指针               |                            To Do                             |
 | 724  | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index) | 简单 |                  数组                  |                            To Do                             |
 | 725  | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts) | 中等 |                  链表                  |                            To Do                             |
 | 726  | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms) | 困难 |             栈;递归;哈希表             |                            To Do                             |
-| 727  |                     :lock:最小窗口子序列                     | 困难 |                动态规划                |                            To Do                             |
+| 727  |                    最小窗口子序列 :lock:                     | 困难 |                动态规划                |                            To Do                             |
 | 728  | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers) | 简单 |                  数学                  |                            To Do                             |
 | 729  | [我的日程安排表 I](https://leetcode-cn.com/problems/my-calendar-i) | 中等 |                  数组                  |                            To Do                             |
 | 730  | [统计不同回文子序列](https://leetcode-cn.com/problems/count-different-palindromic-subsequences) | 困难 |            字符串;动态规划             |                            To Do                             |
 | 731  | [我的日程安排表 II](https://leetcode-cn.com/problems/my-calendar-ii) | 中等 |                暂无标签                |                            To Do                             |
 | 732  | [我的日程安排表 III](https://leetcode-cn.com/problems/my-calendar-iii) | 困难 |                 线段树                 |                            To Do                             |
 | 733  |   [图像渲染](https://leetcode-cn.com/problems/flood-fill)    | 简单 |              深度优先搜索              |                            To Do                             |
-| 734  |                       :lock:句子相似性                       | 简单 |                 哈希表                 |                            To Do                             |
+| 734  |                      句子相似性 :lock:                       | 简单 |                 哈希表                 |                            To Do                             |
 | 735  | [行星碰撞](https://leetcode-cn.com/problems/asteroid-collision) | 中等 |                   栈                   |                            To Do                             |
 | 736  | [Lisp 语法解析](https://leetcode-cn.com/problems/parse-lisp-expression) | 困难 |                 字符串                 |                            To Do                             |
-| 737  |                     :lock:句子相似性 II                      | 中等 |          深度优先搜索;并查集           |                            To Do                             |
+| 737  |                     句子相似性 II :lock:                     | 中等 |          深度优先搜索;并查集           |                            To Do                             |
 | 738  | [单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits) | 中等 |                贪心算法                |                            To Do                             |
 | 739  | [每日温度](https://leetcode-cn.com/problems/daily-temperatures) | 中等 |               栈;哈希表                |                            To Do                             |
 | 740  | [删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn) | 中等 |                动态规划                |                            To Do                             |
 | 741  |   [摘樱桃](https://leetcode-cn.com/problems/cherry-pickup)   | 困难 |                动态规划                |                            To Do                             |
 | 742  | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case) | 简单 |                 字符串                 |                            To Do                             |
-| 743  |                   :lock:二叉树最近的叶节点                   | 中等 |                   树                   |                            To Do                             |
+| 743  |                  二叉树最近的叶节点 :lock:                   | 中等 |                   树                   |                            To Do                             |
 | 744  | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time) | 中等 |    堆;深度优先搜索;广度优先搜索;图     |                            To Do                             |
 | 745  | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target) | 简单 |                二分查找                |                            To Do                             |
 | 746  | [前缀和后缀搜索](https://leetcode-cn.com/problems/prefix-and-suffix-search) | 困难 |                 字典树                 |                            To Do                             |
@@ -743,27 +739,27 @@
 | 748  | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | 简单 |                  数组                  |                            To Do                             |
 | 749  | [最短完整词](https://leetcode-cn.com/problems/shortest-completing-word) | 简单 |                 哈希表                 |                            To Do                             |
 | 750  |  [隔离病毒](https://leetcode-cn.com/problems/contain-virus)  | 困难 |              深度优先搜索              |                            To Do                             |
-| 751  |                      :lock:角矩形的数量                      | 中等 |                动态规划                |                            To Do                             |
-| 752  |                       :lock:IP 到 CIDR                       | 简单 |                 位运算                 |                            To Do                             |
+| 751  |                     角矩形的数量 :lock:                      | 中等 |                动态规划                |                            To Do                             |
+| 752  |                      IP 到 CIDR :lock:                       | 简单 |                 位运算                 |                            To Do                             |
 | 753  | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | 中等 |              广度优先搜索              |                            To Do                             |
 | 754  | [破解保险箱](https://leetcode-cn.com/problems/cracking-the-safe) | 困难 |           深度优先搜索;数学            |                            To Do                             |
 | 755  | [到达终点数字](https://leetcode-cn.com/problems/reach-a-number) | 中等 |                  数学                  |                            To Do                             |
-| 756  |                          :lock:倒水                          | 中等 |                  数组                  |                            To Do                             |
+| 756  |                         倒水 :lock:                          | 中等 |                  数组                  |                            To Do                             |
 | 757  | [金字塔转换矩阵](https://leetcode-cn.com/problems/pyramid-transition-matrix) | 中等 |          位运算;深度优先搜索           |                            To Do                             |
-| 758  |            :lock:将二叉搜索树转化为排序的双向链表            | 中等 |            树;链表;分治算法            |                            To Do                             |
+| 758  |           将二叉搜索树转化为排序的双向链表 :lock:            | 中等 |            树;链表;分治算法            |                            To Do                             |
 | 759  | [ 设置交集大小至少为2](https://leetcode-cn.com/problems/set-intersection-size-at-least-two) | 困难 |                贪心算法                |                            To Do                             |
-| 760  |                   :lock:字符串中的加粗单词                   | 简单 |                 字符串                 |                            To Do                             |
-| 761  |                      :lock:员工空闲时间                      | 困难 |              堆;贪心算法               |                            To Do                             |
-| 762  |                      :lock:找出变位映射                      | 简单 |                 哈希表                 |                            To Do                             |
+| 760  |                  字符串中的加粗单词 :lock:                   | 简单 |                 字符串                 |                            To Do                             |
+| 761  |                     员工空闲时间 :lock:                      | 困难 |              堆;贪心算法               |                            To Do                             |
+| 762  |                     找出变位映射 :lock:                      | 简单 |                 哈希表                 |                            To Do                             |
 | 763  | [特殊的二进制序列](https://leetcode-cn.com/problems/special-binary-string) | 困难 |              递归;字符串               |                            To Do                             |
 | 764  | [N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) | 中等 |            树;广度优先搜索             | [Python](https://liuyang0001.github.io/764.n-ary-tree-level-order-traversal.py) |
-| 765  |                :lock:序列化和反序列化 N 叉树                 | 困难 |                   树                   |                            To Do                             |
+| 765  |                序列化和反序列化 N 叉树 :lock:                | 困难 |                   树                   |                            To Do                             |
 | 766  | [扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list) | 中等 |           深度优先搜索;链表            |                            To Do                             |
 | 767  | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation) | 简单 |                 位运算                 |                            To Do                             |
 | 768  | [划分字母区间](https://leetcode-cn.com/problems/partition-labels) | 中等 |            贪心算法;双指针             |                            To Do                             |
 | 769  | [最大加号标志](https://leetcode-cn.com/problems/largest-plus-sign) | 中等 |                动态规划                |                            To Do                             |
 | 770  | [情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands) | 困难 |           贪心算法;并查集;图           |                            To Do                             |
-| 771  |                 :lock:将 N 叉树编码为二叉树                  | 困难 |                   树                   |                            To Do                             |
+| 771  |                 将 N 叉树编码为二叉树 :lock:                 | 困难 |                   树                   |                            To Do                             |
 | 772  | [建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree) | 中等 |                暂无标签                |                            To Do                             |
 | 773  | [四叉树交集](https://leetcode-cn.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees) | 中等 |                暂无标签                |                            To Do                             |
 | 774  | [N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) | 简单 |      树;深度优先搜索;广度优先搜索      |                            To Do                             |
@@ -777,13 +773,13 @@
 | 782  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones) | 简单 |                 哈希表                 |                            To Do                             |
 | 783  | [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | 简单 |                   树                   |                            To Do                             |
 | 784  | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | 中等 |                   树                   |                            To Do                             |
-| 785  |                     :lock:基本计算器 III                     | 困难 |               栈;字符串                |                            To Do                             |
-| 786  |                 :lock:搜索长度未知的有序数组                 | 中等 |                二分查找                |                            To Do                             |
+| 785  |                    基本计算器 III :lock:                     | 困难 |               栈;字符串                |                            To Do                             |
+| 786  |                搜索长度未知的有序数组 :lock:                 | 中等 |                二分查找                |                            To Do                             |
 | 787  | [滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle)  | 困难 |              广度优先搜索              |                            To Do                             |
-| 788  |                :lock:最小化去加油站的最大距离                | 困难 |                二分查找                |                            To Do                             |
+| 788  |               最小化去加油站的最大距离 :lock:                | 困难 |                二分查找                |                            To Do                             |
 | 789  | [数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) | 简单 |                   堆                   |                            To Do                             |
 | 790  | [全局倒置与局部倒置](https://leetcode-cn.com/problems/global-and-local-inversions) | 中等 |               数组;数学                |                            To Do                             |
-| 791  |                     :lock:拆分二叉搜索树                     | 中等 |                树;递归                 |                            To Do                             |
+| 791  |                    拆分二叉搜索树 :lock:                     | 中等 |                树;递归                 |                            To Do                             |
 | 792  |  [二分查找](https://leetcode-cn.com/problems/binary-search)  | 简单 |                二分查找                |                            To Do                             |
 | 793  | [在LR字符串中交换相邻字符](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string) | 中等 |               脑筋急转弯               |                            To Do                             |
 | 794  | [水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water) | 困难 |    堆;深度优先搜索;并查集;二分查找     |                            To Do                             |
@@ -810,7 +806,7 @@
 | 815  |  [香槟塔](https://leetcode-cn.com/problems/champagne-tower)  | 中等 |                暂无标签                |                            To Do                             |
 | 816  | [设计哈希集合](https://leetcode-cn.com/problems/design-hashset) | 简单 |              设计;哈希表               |                            To Do                             |
 | 817  | [设计哈希映射](https://leetcode-cn.com/problems/design-hashmap) | 简单 |              设计;哈希表               |                            To Do                             |
-| 818  |                     :lock:相似 RGB 颜色                      | 简单 |              数学;字符串               |                            To Do                             |
+| 818  |                     相似 RGB 颜色 :lock:                     | 简单 |              数学;字符串               |                            To Do                             |
 | 819  | [使序列递增的最小交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing) | 中等 |                动态规划                |                            To Do                             |
 | 820  | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states) | 中等 |            深度优先搜索;图             |                            To Do                             |
 | 821  | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit) | 困难 |                 并查集                 |                            To Do                             |
@@ -835,7 +831,7 @@
 | 841  | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character) | 简单 |                暂无标签                |                            To Do                             |
 | 842  | [翻转卡片游戏](https://leetcode-cn.com/problems/card-flipping-game) | 中等 |                暂无标签                |                            To Do                             |
 | 843  | [带因子的二叉树](https://leetcode-cn.com/problems/binary-trees-with-factors) | 中等 |                暂无标签                |                            To Do                             |
-| 850  |                   :lock:循环有序列表的插入                   | 中等 |                  链表                  |                            To Do                             |
+| 850  |                  循环有序列表的插入 :lock:                   | 中等 |                  链表                  |                            To Do                             |
 | 851  |  [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin)   | 简单 |                 字符串                 |                            To Do                             |
 | 852  | [适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages) | 中等 |                  数组                  |                            To Do                             |
 | 853  | [安排工作以达到最大收益](https://leetcode-cn.com/problems/most-profit-assigning-work) | 中等 |                 双指针                 |                            To Do                             |
@@ -850,7 +846,7 @@
 | 862  | [字符串中的查找与替换](https://leetcode-cn.com/problems/find-and-replace-in-string) | 中等 |                 字符串                 |                            To Do                             |
 | 863  | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree) | 困难 |            树;深度优先搜索             |                            To Do                             |
 | 864  |  [图像重叠](https://leetcode-cn.com/problems/image-overlap)  | 中等 |                  数组                  |                            To Do                             |
-| 865  |                       :lock:扫地机器人                       | 困难 |              深度优先搜索              |                            To Do                             |
+| 865  |                      扫地机器人 :lock:                       | 困难 |              深度优先搜索              |                            To Do                             |
 | 866  | [矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap) | 简单 |                  数学                  |                            To Do                             |
 | 867  |    [新21点](https://leetcode-cn.com/problems/new-21-game)    | 中等 |                动态规划                |  [Python](https://liuyang0001.github.io/867.new-21-game.py)  |
 | 868  |  [推多米诺](https://leetcode-cn.com/problems/push-dominoes)  | 中等 |            双指针;动态规划             |                            To Do                             |
@@ -1031,64 +1027,64 @@
 | 1048 | [笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial)  | 中等 |                  数学                  |                            To Do                             |
 | 1049 | [行相等的最少多米诺旋转](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row) | 中等 |             贪心算法;数组              |                            To Do                             |
 | 1050 | [先序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal) | 中等 |                   树                   |                            To Do                             |
-| 1051 |                  :lock:形成字符串的最短路径                  | 中等 |           贪心算法;动态规划            |                            To Do                             |
-| 1052 |                     :lock:校园自行车分配                     | 中等 |             贪心算法;排序              |                            To Do                             |
-| 1053 |                :lock:最小化舍入误差以满足目标                | 中等 |         贪心算法;数学;动态规划         |                            To Do                             |
+| 1051 |                 形成字符串的最短路径 :lock:                  | 中等 |           贪心算法;动态规划            |                            To Do                             |
+| 1052 |                    校园自行车分配 :lock:                     | 中等 |             贪心算法;排序              |                            To Do                             |
+| 1053 |               最小化舍入误差以满足目标 :lock:                | 中等 |         贪心算法;数学;动态规划         |                            To Do                             |
 | 1054 | [十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer) | 简单 |                  数学                  |                            To Do                             |
 | 1055 | [总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | 简单 |                  数组                  |                            To Do                             |
 | 1056 | [在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days) | 中等 |             数组;二分查找              |                            To Do                             |
 | 1057 | [至少有 1 位重复的数字](https://leetcode-cn.com/problems/numbers-with-repeated-digits) | 困难 |             数学;动态规划              |                            To Do                             |
-| 1058 |              :lock:按字典序排列最小的等效字符串              | 中等 |          深度优先搜索;并查集           |                            To Do                             |
-| 1059 |                  :lock:有序数组中的缺失元素                  | 中等 |                二分查找                |                            To Do                             |
-| 1060 |                      :lock:最长重复子串                      | 中等 |                 字符串                 |                            To Do                             |
-| 1061 |                    :lock:有效子数组的数目                    | 困难 |                   栈                   |                            To Do                             |
+| 1058 |             按字典序排列最小的等效字符串 :lock:              | 中等 |          深度优先搜索;并查集           |                            To Do                             |
+| 1059 |                 有序数组中的缺失元素 :lock:                  | 中等 |                二分查找                |                            To Do                             |
+| 1060 |                     最长重复子串 :lock:                      | 中等 |                 字符串                 |                            To Do                             |
+| 1061 |                   有效子数组的数目 :lock:                    | 困难 |                   栈                   |                            To Do                             |
 | 1062 | [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum) | 简单 |                  数组                  |                            To Do                             |
 | 1063 | [最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair) | 中等 |                  数组                  |                            To Do                             |
 | 1064 | [可被 K 整除的最小整数](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k) | 中等 |                  数学                  |                            To Do                             |
 | 1065 | [子串能表示从 1 到 N 数字的二进制串](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n) | 中等 |                 字符串                 |                            To Do                             |
-| 1066 |                         :lock:不动点                         | 简单 |             数组;二分查找              |                            To Do                             |
-| 1067 |                   :lock:校园自行车分配 II                    | 中等 |           动态规划;回溯算法            |                            To Do                             |
-| 1068 |                    :lock:范围内的数字计数                    | 困难 |             数学;动态规划              |                            To Do                             |
-| 1069 |                        :lock:易混淆数                        | 简单 |                  数学                  |                            To Do                             |
+| 1066 |                        不动点 :lock:                         | 简单 |             数组;二分查找              |                            To Do                             |
+| 1067 |                   校园自行车分配 II :lock:                   | 中等 |           动态规划;回溯算法            |                            To Do                             |
+| 1068 |                   范围内的数字计数 :lock:                    | 困难 |             数学;动态规划              |                            To Do                             |
+| 1069 |                       易混淆数 :lock:                        | 简单 |                  数学                  |                            To Do                             |
 | 1070 | [负二进制转换](https://leetcode-cn.com/problems/convert-to-base-2) | 中等 |                  数学                  |                            To Do                             |
 | 1071 | [可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5) | 简单 |                  数组                  |                            To Do                             |
 | 1072 | [链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list) | 中等 |                栈;链表                 |                            To Do                             |
 | 1073 | [飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves) | 中等 |              深度优先搜索              |                            To Do                             |
-| 1074 |                      :lock:前五科的均分                      | 简单 |            排序;数组;哈希表            |                            To Do                             |
-| 1075 |                     :lock:字符串的索引对                     | 简单 |             字典树;字符串              |                            To Do                             |
-| 1076 |                        :lock:字母切换                        | 中等 |                回溯算法                |                            To Do                             |
-| 1077 |                      :lock:易混淆数 II                       | 困难 |             数学;回溯算法              |                            To Do                             |
+| 1074 |                     前五科的均分 :lock:                      | 简单 |            排序;数组;哈希表            |                            To Do                             |
+| 1075 |                    字符串的索引对 :lock:                     | 简单 |             字典树;字符串              |                            To Do                             |
+| 1076 |                       字母切换 :lock:                        | 中等 |                回溯算法                |                            To Do                             |
+| 1077 |                      易混淆数 II :lock:                      | 困难 |             数学;回溯算法              |                            To Do                             |
 | 1078 | [删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses) | 简单 |                   栈                   |                            To Do                             |
 | 1079 | [从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers) | 简单 |                   树                   |                            To Do                             |
 | 1080 | [驼峰式匹配](https://leetcode-cn.com/problems/camelcase-matching) | 中等 |             字典树;字符串              |                            To Do                             |
 | 1081 | [视频拼接](https://leetcode-cn.com/problems/video-stitching) | 中等 |                动态规划                |                            To Do                             |
-| 1082 |                   :lock:最小元素各数位之和                   | 简单 |                  数组                  |                            To Do                             |
-| 1083 |                   :lock:小于 K 的两数之和                    | 简单 |                  数组                  |                            To Do                             |
-| 1084 |               :lock:长度为 K 的无重复字符子串                | 中等 |                 字符串                 |                            To Do                             |
-| 1085 |                   :lock:彼此熟识的最早时间                   | 中等 |                 并查集                 |                            To Do                             |
+| 1082 |                  最小元素各数位之和 :lock:                   | 简单 |                  数组                  |                            To Do                             |
+| 1083 |                   小于 K 的两数之和 :lock:                   | 简单 |                  数组                  |                            To Do                             |
+| 1084 |               长度为 K 的无重复字符子串 :lock:               | 中等 |                 字符串                 |                            To Do                             |
+| 1085 |                  彼此熟识的最早时间 :lock:                   | 中等 |                 并查集                 |                            To Do                             |
 | 1086 |  [除数博弈](https://leetcode-cn.com/problems/divisor-game)   | 简单 |             数学;动态规划              |                            To Do                             |
 | 1087 | [最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-sequence) | 中等 |                动态规划                |                            To Do                             |
-| 1088 |                      :lock:一月有多少天                      | 简单 |                暂无标签                |                            To Do                             |
-| 1089 |                   :lock:删去字符串中的元音                   | 简单 |                 字符串                 |                            To Do                             |
-| 1090 |                      :lock:阿姆斯特朗数                      | 简单 |                  数学                  |                            To Do                             |
-| 1091 |                    :lock:子树的最大平均值                    | 中等 |                   树                   |                            To Do                             |
+| 1088 |                     一月有多少天 :lock:                      | 简单 |                暂无标签                |                            To Do                             |
+| 1089 |                  删去字符串中的元音 :lock:                   | 简单 |                 字符串                 |                            To Do                             |
+| 1090 |                     阿姆斯特朗数 :lock:                      | 简单 |                  数学                  |                            To Do                             |
+| 1091 |                   子树的最大平均值 :lock:                    | 中等 |                   树                   |                            To Do                             |
 | 1092 | [节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor) | 中等 |            树;深度优先搜索             |                            To Do                             |
 | 1093 | [从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal) | 困难 |            树;深度优先搜索             |                            To Do                             |
 | 1094 | [距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order) | 简单 |                  排序                  |                            To Do                             |
 | 1095 | [两地调度](https://leetcode-cn.com/problems/two-city-scheduling) | 简单 |                贪心算法                |                            To Do                             |
 | 1096 | [两个非重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays) | 中等 |                  数组                  |                            To Do                             |
 | 1097 | [字符流](https://leetcode-cn.com/problems/stream-of-characters) | 困难 |                 字典树                 |                            To Do                             |
-| 1098 |                       :lock:最大唯一数                       | 简单 |              数组;哈希表               |                            To Do                             |
-| 1099 |                     :lock:得分最高的路径                     | 中等 |         深度优先搜索;并查集;图         |                            To Do                             |
-| 1100 |                  :lock:最低成本联通所有城市                  | 中等 |               并查集;图                |                            To Do                             |
-| 1101 |                        :lock:平行课程                        | 困难 |        深度优先搜索;图;动态规划        |                            To Do                             |
-| 1102 |            :lock:检查一个数是否在数组中占绝大多数            | 简单 |             数组;二分查找              |                            To Do                             |
+| 1098 |                      最大唯一数 :lock:                       | 简单 |              数组;哈希表               |                            To Do                             |
+| 1099 |                    得分最高的路径 :lock:                     | 中等 |         深度优先搜索;并查集;图         |                            To Do                             |
+| 1100 |                 最低成本联通所有城市 :lock:                  | 中等 |               并查集;图                |                            To Do                             |
+| 1101 |                       平行课程 :lock:                        | 困难 |        深度优先搜索;图;动态规划        |                            To Do                             |
+| 1102 |           检查一个数是否在数组中占绝大多数 :lock:            | 简单 |             数组;二分查找              |                            To Do                             |
 | 1103 | [移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive) | 简单 |               脑筋急转弯               |                            To Do                             |
 | 1104 | [边框着色](https://leetcode-cn.com/problems/coloring-a-border) | 中等 |              深度优先搜索              |                            To Do                             |
 | 1105 | [不相交的线](https://leetcode-cn.com/problems/uncrossed-lines) | 中等 |                  数组                  |                            To Do                             |
 | 1106 | [逃离大迷宫](https://leetcode-cn.com/problems/escape-a-large-maze) | 困难 |              广度优先搜索              |                            To Do                             |
-| 1107 |               :lock:最少交换次数来组合所有的 1               | 中等 |                  数组                  |                            To Do                             |
-| 1108 |                  :lock:用户网站访问行为分析                  | 中等 |            排序;数组;哈希表            |                            To Do                             |
+| 1107 |              最少交换次数来组合所有的 1 :lock:               | 中等 |                  数组                  |                            To Do                             |
+| 1108 |                 用户网站访问行为分析 :lock:                  | 中等 |            排序;数组;哈希表            |                            To Do                             |
 | 1111 | [多边形三角剖分的最低得分](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon) | 中等 |                动态规划                |                            To Do                             |
 | 1112 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters) | 简单 |              数组;哈希表               |                            To Do                             |
 | 1113 | [移动石子直到连续 II](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii) | 中等 |                  数组                  |                            To Do                             |
@@ -1096,102 +1092,102 @@
 | 1115 | [有效的回旋镖](https://leetcode-cn.com/problems/valid-boomerang) | 简单 |                  数学                  |                            To Do                             |
 | 1116 | [最大层内元素和](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree) | 中等 |                   图                   |                            To Do                             |
 | 1117 | [地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible) | 中等 |            广度优先搜索;图             |                            To Do                             |
-| 1118 |                 :lock:将数组分成几个递增序列                 | 困难 |                  数学                  |                            To Do                             |
+| 1118 |                将数组分成几个递增序列 :lock:                 | 困难 |                  数学                  |                            To Do                             |
 | 1119 | [困于环中的机器人](https://leetcode-cn.com/problems/robot-bounded-in-circle) | 中等 |                  数学                  |                            To Do                             |
 | 1120 | [不邻接植花](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent) | 简单 |                   图                   |                            To Do                             |
 | 1121 | [分隔数组以得到最大和](https://leetcode-cn.com/problems/partition-array-for-maximum-sum) | 中等 |                   图                   |                            To Do                             |
 | 1122 | [最长重复子串](https://leetcode-cn.com/problems/longest-duplicate-substring) | 困难 |            哈希表;二分查找             |                            To Do                             |
-| 1123 |                        :lock:单行键盘                        | 简单 |                 字符串                 |                            To Do                             |
-| 1124 |                       :lock:字符串转化                       | 困难 |                   图                   |                            To Do                             |
-| 1125 |                      :lock:设计文件系统                      | 中等 |              设计;哈希表               |                            To Do                             |
-| 1126 |                   :lock:连接棒材的最低费用                   | 中等 |                贪心算法                |                            To Do                             |
+| 1123 |                       单行键盘 :lock:                        | 简单 |                 字符串                 |                            To Do                             |
+| 1124 |                      字符串转化 :lock:                       | 困难 |                   图                   |                            To Do                             |
+| 1125 |                     设计文件系统 :lock:                      | 中等 |              设计;哈希表               |                            To Do                             |
+| 1126 |                  连接棒材的最低费用 :lock:                   | 中等 |                贪心算法                |                            To Do                             |
 | 1127 | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight) | 简单 |              堆;贪心算法               |                            To Do                             |
 | 1128 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) | 简单 |                   栈                   |                            To Do                             |
 | 1129 | [最长字符串链](https://leetcode-cn.com/problems/longest-string-chain) | 中等 |            哈希表;动态规划             |                            To Do                             |
 | 1130 | [最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii) | 中等 |                动态规划                |                            To Do                             |
-| 1131 |                 :lock:统计只含单一字母的子串                 | 简单 |              数学;字符串               |                            To Do                             |
-| 1132 |                        :lock:前后拼接                        | 中等 |                 字符串                 |                            To Do                             |
+| 1131 |                统计只含单一字母的子串 :lock:                 | 简单 |              数学;字符串               |                            To Do                             |
+| 1132 |                       前后拼接 :lock:                        | 中等 |                 字符串                 |                            To Do                             |
 | 1133 | [按字典序排在最后的子串](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order) | 困难 |                 字符串                 |                            To Do                             |
-| 1134 |                 :lock:与目标颜色间的最短距离                 | 中等 |                二分查找                |                            To Do                             |
-| 1135 |                   :lock:买下所有产品的客户                   | 中等 |                暂无标签                |                            To Do                             |
-| 1136 |               :lock:合作过至少三次的演员和导演               | 简单 |                暂无标签                |                            To Do                             |
+| 1134 |                与目标颜色间的最短距离 :lock:                 | 中等 |                二分查找                |                            To Do                             |
+| 1135 |                  买下所有产品的客户 :lock:                   | 中等 |                暂无标签                |                            To Do                             |
+| 1136 |              合作过至少三次的演员和导演 :lock:               | 简单 |                暂无标签                |                            To Do                             |
 | 1137 | [高度检查器](https://leetcode-cn.com/problems/height-checker) | 简单 |                  数组                  |                            To Do                             |
 | 1138 | [爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner) | 中等 |                  数组                  |                            To Do                             |
 | 1139 | [交换一次的先前排列](https://leetcode-cn.com/problems/previous-permutation-with-one-swap) | 中等 |             贪心算法;数组              |                            To Do                             |
 | 1140 | [距离相等的条形码](https://leetcode-cn.com/problems/distant-barcodes) | 中等 |                堆;排序                 |                            To Do                             |
-| 1141 |                 :lock:最多可以买到的苹果数量                 | 简单 |                贪心算法                |                            To Do                             |
-| 1142 |                       :lock:进击的骑士                       | 中等 |              广度优先搜索              |                            To Do                             |
-| 1143 |                :lock:找出所有行中最小公共元素                | 中等 |            哈希表;二分查找             |                            To Do                             |
-| 1144 |                     :lock:水资源分配优化                     | 困难 |               并查集;图                |                            To Do                             |
+| 1141 |                最多可以买到的苹果数量 :lock:                 | 简单 |                贪心算法                |                            To Do                             |
+| 1142 |                      进击的骑士 :lock:                       | 中等 |              广度优先搜索              |                            To Do                             |
+| 1143 |               找出所有行中最小公共元素 :lock:                | 中等 |            哈希表;二分查找             |                            To Do                             |
+| 1144 |                    水资源分配优化 :lock:                     | 困难 |               并查集;图                |                            To Do                             |
 | 1145 | [元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target) | 困难 |             数组;动态规划              |                            To Do                             |
 | 1146 | [字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings) | 简单 |                 字符串                 |                            To Do                             |
 | 1147 | [按列翻转得到最大值等行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows) | 中等 |                 哈希表                 |                            To Do                             |
 | 1148 | [负二进制数相加](https://leetcode-cn.com/problems/adding-two-negabinary-numbers) | 中等 |                  数学                  |                            To Do                             |
-| 1149 |                   :lock:三个有序数组的交集                   | 简单 |             哈希表;双指针              |                            To Do                             |
-| 1150 |                 :lock:查找两棵二叉搜索树之和                 | 中等 |               二叉搜索树               |                            To Do                             |
-| 1151 |                         :lock:步进数                         | 中等 |                回溯算法                |                            To Do                             |
-| 1152 |                  :lock:矩阵中 1 的最大数量                   | 困难 |               排序;数学                |                            To Do                             |
-| 1153 |                     :lock:产品销售分析 I                     | 简单 |                暂无标签                |                            To Do                             |
-| 1154 |                    :lock:产品销售分析 II                     | 简单 |                暂无标签                |                            To Do                             |
-| 1155 |                    :lock:产品销售分析 III                    | 中等 |                暂无标签                |                            To Do                             |
+| 1149 |                  三个有序数组的交集 :lock:                   | 简单 |             哈希表;双指针              |                            To Do                             |
+| 1150 |                查找两棵二叉搜索树之和 :lock:                 | 中等 |               二叉搜索树               |                            To Do                             |
+| 1151 |                        步进数 :lock:                         | 中等 |                回溯算法                |                            To Do                             |
+| 1152 |                  矩阵中 1 的最大数量 :lock:                  | 困难 |               排序;数学                |                            To Do                             |
+| 1153 |                    产品销售分析 I :lock:                     | 简单 |                暂无标签                |                            To Do                             |
+| 1154 |                    产品销售分析 II :lock:                    | 简单 |                暂无标签                |                            To Do                             |
+| 1155 |                   产品销售分析 III :lock:                    | 中等 |                暂无标签                |                            To Do                             |
 | 1156 | [Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram) | 简单 |                 哈希表                 |                            To Do                             |
 | 1157 | [根到叶路径上的不足节点](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths) | 中等 |              深度优先搜索              |                            To Do                             |
 | 1159 | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters) | 中等 |                 字符串                 |                            To Do                             |
 | 1160 | [活字印刷](https://leetcode-cn.com/problems/letter-tile-possibilities) | 中等 |                回溯算法                |                            To Do                             |
-| 1161 |                       :lock:项目员工 I                       | 简单 |                暂无标签                |                            To Do                             |
-| 1162 |                       :lock:项目员工II                       | 简单 |                暂无标签                |                            To Do                             |
-| 1163 |                      :lock:项目员工 III                      | 中等 |                暂无标签                |                            To Do                             |
-| 1164 |                  :lock:等差数列中缺失的数字                  | 简单 |                  数学                  |                            To Do                             |
-| 1165 |                      :lock:安排会议日程                      | 中等 |                暂无标签                |                            To Do                             |
-| 1166 |                        :lock:抛掷硬币                        | 中等 |             数学;动态规划              |                            To Do                             |
-| 1167 |                   :lock:建造街区的最短时间                   | 困难 |             数学;动态规划              |                            To Do                             |
+| 1161 |                      项目员工 I :lock:                       | 简单 |                暂无标签                |                            To Do                             |
+| 1162 |                      项目员工II :lock:                       | 简单 |                暂无标签                |                            To Do                             |
+| 1163 |                     项目员工 III :lock:                      | 中等 |                暂无标签                |                            To Do                             |
+| 1164 |                 等差数列中缺失的数字 :lock:                  | 简单 |                  数学                  |                            To Do                             |
+| 1165 |                     安排会议日程 :lock:                      | 中等 |                暂无标签                |                            To Do                             |
+| 1166 |                       抛掷硬币 :lock:                        | 中等 |             数学;动态规划              |                            To Do                             |
+| 1167 |                  建造街区的最短时间 :lock:                   | 困难 |             数学;动态规划              |                            To Do                             |
 | 1168 |  [复写零](https://leetcode-cn.com/problems/duplicate-zeros)  | 简单 |                  数组                  |                            To Do                             |
 | 1169 | [受标签影响的最大值](https://leetcode-cn.com/problems/largest-values-from-labels) | 中等 |            贪心算法;哈希表             |                            To Do                             |
 | 1170 | [最短公共超序列](https://leetcode-cn.com/problems/shortest-common-supersequence) | 困难 |                动态规划                |                            To Do                             |
 | 1171 | [二进制矩阵中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix) | 中等 |              广度优先搜索              |                            To Do                             |
-| 1172 |                       :lock:销售分析 I                       | 简单 |                暂无标签                |                            To Do                             |
-| 1173 |                      :lock:销售分析 II                       | 简单 |                暂无标签                |                            To Do                             |
-| 1174 |                      :lock:销售分析III                       | 简单 |                暂无标签                |                            To Do                             |
-| 1175 |                        :lock:数组变换                        | 简单 |                  数组                  |                            To Do                             |
-| 1176 |                       :lock:力扣排行榜                       | 中等 |            排序;设计;哈希表            |                            To Do                             |
-| 1177 |                        :lock:树的直径                        | 中等 |      树;深度优先搜索;广度优先搜索      |                            To Do                             |
-| 1178 |                   :lock:验证回文字符串 III                   | 困难 |            字符串;动态规划             |                            To Do                             |
-| 1179 |                     :lock:游戏玩法分析 I                     | 简单 |                暂无标签                |                            To Do                             |
-| 1180 |                    :lock:游戏玩法分析 II                     | 简单 |                暂无标签                |                            To Do                             |
-| 1181 |                    :lock:游戏玩法分析 III                    | 中等 |                暂无标签                |                            To Do                             |
-| 1182 |                    :lock:游戏玩法分析 IV                     | 中等 |                暂无标签                |                            To Do                             |
+| 1172 |                      销售分析 I  :lock:                      | 简单 |                暂无标签                |                            To Do                             |
+| 1173 |                      销售分析 II :lock:                      | 简单 |                暂无标签                |                            To Do                             |
+| 1174 |                      销售分析III :lock:                      | 简单 |                暂无标签                |                            To Do                             |
+| 1175 |                       数组变换 :lock:                        | 简单 |                  数组                  |                            To Do                             |
+| 1176 |                      力扣排行榜 :lock:                       | 中等 |            排序;设计;哈希表            |                            To Do                             |
+| 1177 |                       树的直径 :lock:                        | 中等 |      树;深度优先搜索;广度优先搜索      |                            To Do                             |
+| 1178 |                  验证回文字符串 III :lock:                   | 困难 |            字符串;动态规划             |                            To Do                             |
+| 1179 |                    游戏玩法分析 I :lock:                     | 简单 |                暂无标签                |                            To Do                             |
+| 1180 |                    游戏玩法分析 II :lock:                    | 简单 |                暂无标签                |                            To Do                             |
+| 1181 |                   游戏玩法分析 III :lock:                    | 中等 |                暂无标签                |                            To Do                             |
+| 1182 |                    游戏玩法分析 IV :lock:                    | 中等 |                暂无标签                |                            To Do                             |
 | 1183 | [大样本统计](https://leetcode-cn.com/problems/statistics-from-a-large-sample) | 中等 |              数学;双指针               |                            To Do                             |
 | 1184 |     [拼车](https://leetcode-cn.com/problems/car-pooling)     | 中等 |                贪心算法                |                            To Do                             |
 | 1185 | [山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array) | 困难 |                二分查找                | [Python](https://liuyang0001.github.io/1185.find-in-mountain-array.py) |
 | 1186 |  [H2O 生成](https://leetcode-cn.com/problems/building-h2o)   | 中等 |                暂无标签                |                            To Do                             |
 | 1187 | [交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately) | 中等 |                暂无标签                |                            To Do                             |
 | 1188 | [花括号展开 II](https://leetcode-cn.com/problems/brace-expansion-ii) | 困难 |                 字符串                 |                            To Do                             |
-| 1189 |                        :lock:加密数字                        | 中等 |              位运算;数学               |                            To Do                             |
-| 1190 |                      :lock:最小公共区域                      | 中等 |                   树                   |                            To Do                             |
-| 1191 |                       :lock:近义词句子                       | 中等 |                回溯算法                |                            To Do                             |
-| 1192 |                       :lock:分享巧克力                       | 困难 |           贪心算法;二分查找            |                            To Do                             |
-| 1193 |                     :lock:游戏玩法分析 V                     | 困难 |                暂无标签                |                            To Do                             |
+| 1189 |                       加密数字 :lock:                        | 中等 |              位运算;数学               |                            To Do                             |
+| 1190 |                     最小公共区域 :lock:                      | 中等 |                   树                   |                            To Do                             |
+| 1191 |                      近义词句子 :lock:                       | 中等 |                回溯算法                |                            To Do                             |
+| 1192 |                      分享巧克力 :lock:                       | 困难 |           贪心算法;二分查找            |                            To Do                             |
+| 1193 |                    游戏玩法分析 V :lock:                     | 困难 |                暂无标签                |                            To Do                             |
 | 1194 | [二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree) | 中等 |                树;数学                 |                            To Do                             |
 | 1195 | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people) | 简单 |                  数学                  |                            To Do                             |
 | 1196 | [填充书架](https://leetcode-cn.com/problems/filling-bookcase-shelves) | 中等 |                动态规划                |                            To Do                             |
 | 1197 | [解析布尔表达式](https://leetcode-cn.com/problems/parsing-a-boolean-expression) | 困难 |                 字符串                 |                            To Do                             |
-| 1198 |                        :lock:小众书籍                        | 中等 |                暂无标签                |                            To Do                             |
-| 1199 |                    :lock:十六进制魔术数字                    | 简单 |              数学;字符串               |                            To Do                             |
-| 1200 |                        :lock:删除区间                        | 中等 |                  数学                  |                            To Do                             |
-| 1201 |                       :lock:删除树节点                       | 中等 |         深度优先搜索;动态规划          |                            To Do                             |
-| 1202 |                     :lock:删除回文子数组                     | 困难 |                动态规划                |                            To Do                             |
+| 1198 |                       小众书籍 :lock:                        | 中等 |                暂无标签                |                            To Do                             |
+| 1199 |                   十六进制魔术数字 :lock:                    | 简单 |              数学;字符串               |                            To Do                             |
+| 1200 |                       删除区间 :lock:                        | 中等 |                  数学                  |                            To Do                             |
+| 1201 |                      删除树节点 :lock:                       | 中等 |         深度优先搜索;动态规划          |                            To Do                             |
+| 1202 |                    删除回文子数组 :lock:                     | 困难 |                动态规划                |                            To Do                             |
 | 1203 | [按序打印](https://leetcode-cn.com/problems/print-in-order)  | 简单 |                暂无标签                |                            To Do                             |
-| 1204 |                     :lock:每日新用户统计                     | 中等 |                暂无标签                |                            To Do                             |
+| 1204 |                    每日新用户统计 :lock:                     | 中等 |                暂无标签                |                            To Do                             |
 | 1205 | [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address) | 简单 |                 字符串                 |                            To Do                             |
 | 1206 | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings) | 中等 |               数组;数学                |                            To Do                             |
 | 1207 | [删点成林](https://leetcode-cn.com/problems/delete-nodes-and-return-forest) | 中等 |            树;深度优先搜索             |                            To Do                             |
 | 1208 | [有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 中等 |           贪心算法;二分查找            |                            To Do                             |
-| 1209 |                    :lock:设计有限阻塞队列                    | 中等 |                暂无标签                |                            To Do                             |
+| 1209 |                   设计有限阻塞队列 :lock:                    | 中等 |                暂无标签                |                            To Do                             |
 | 1211 | [字母组合迭代器](https://leetcode-cn.com/problems/iterator-for-combination) | 中等 |             设计;回溯算法              |                            To Do                             |
 | 1212 | [顺次数](https://leetcode-cn.com/problems/sequential-digits) | 中等 |                回溯算法                |                            To Do                             |
-| 1213 |                      :lock:不相交的握手                      | 困难 |             数学;动态规划              |                            To Do                             |
-| 1214 |                   :lock:每位学生的最高成绩                   | 中等 |                暂无标签                |                            To Do                             |
-| 1215 |                       :lock:报告的记录                       | 简单 |                暂无标签                |                            To Do                             |
+| 1213 |                     不相交的握手 :lock:                      | 困难 |             数学;动态规划              |                            To Do                             |
+| 1214 |                  每位学生的最高成绩 :lock:                   | 中等 |                暂无标签                |                            To Do                             |
+| 1215 |                      报告的记录 :lock:                       | 简单 |                暂无标签                |                            To Do                             |
 | 1216 | [打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd) | 中等 |                暂无标签                |                            To Do                             |
 | 1217 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array) | 简单 |               排序;数组                |                            To Do                             |
 | 1218 | [最深叶节点的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves) | 中等 |            树;深度优先搜索             |                            To Do                             |
@@ -1200,18 +1196,18 @@
 | 1221 | [有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array) | 简单 |                  数组                  |                            To Do                             |
 | 1222 | [删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals) | 中等 |                暂无标签                |                            To Do                             |
 | 1224 | [下降路径最小和  II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii) | 困难 |                动态规划                |                            To Do                             |
-| 1225 |                      :lock:查询活跃业务                      | 中等 |                暂无标签                |                            To Do                             |
-| 1226 |                      :lock:用户购买平台                      | 困难 |                暂无标签                |                            To Do                             |
+| 1225 |                     查询活跃业务 :lock:                      | 中等 |                暂无标签                |                            To Do                             |
+| 1226 |                     用户购买平台 :lock:                      | 困难 |                暂无标签                |                            To Do                             |
 | 1227 | [等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs) | 简单 |                  数组                  |                            To Do                             |
 | 1228 | [叶值的最小代价生成树](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values) | 中等 |             栈;树;动态规划             |                            To Do                             |
 | 1229 | [颜色交替的最短路径](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors) | 中等 |            广度优先搜索;图             |                            To Do                             |
 | 1230 | [绝对值表达式的最大值](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression) | 中等 |              位运算;数学               |                            To Do                             |
 | 1231 | [将每个元素替换为右侧最大元素](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side) | 简单 |                  数组                  |                            To Do                             |
 | 1232 | [转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target) | 中等 |             数组;二分查找              |                            To Do                             |
-| 1233 |                    :lock:矩形内船只的数目                    | 困难 |                分治算法                |                            To Do                             |
+| 1233 |                   矩形内船只的数目 :lock:                    | 困难 |                分治算法                |                            To Do                             |
 | 1234 | [最大得分的路径数目](https://leetcode-cn.com/problems/number-of-paths-with-max-score) | 困难 |                动态规划                |                            To Do                             |
 | 1236 | [第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number) | 简单 |                  递归                  |                            To Do                             |
-| 1237 |                     :lock:报告的记录 II                      | 中等 |                暂无标签                |                            To Do                             |
+| 1237 |                     报告的记录 II :lock:                     | 中等 |                暂无标签                |                            To Do                             |
 | 1238 | [字母板上的路径](https://leetcode-cn.com/problems/alphabet-board-path) | 中等 |             哈希表;字符串              |                            To Do                             |
 | 1239 | [最大的以 1 为边界的正方形](https://leetcode-cn.com/problems/largest-1-bordered-square) | 中等 |                动态规划                |                            To Do                             |
 | 1240 | [石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii) | 中等 |                动态规划                |                            To Do                             |
@@ -1219,8 +1215,8 @@
 | 1242 | [矩阵区域和](https://leetcode-cn.com/problems/matrix-block-sum) | 中等 |                动态规划                |                            To Do                             |
 | 1243 | [祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent) | 中等 |            树;深度优先搜索             |                            To Do                             |
 | 1244 | [不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings) | 困难 |                 字符串                 |                            To Do                             |
-| 1245 |                  :lock:查询近30天活跃用户数                  | 简单 |                暂无标签                |                            To Do                             |
-| 1246 |                 :lock:过去30天的用户活动 II                  | 简单 |                暂无标签                |                            To Do                             |
+| 1245 |                 查询近30天活跃用户数 :lock:                  | 简单 |                暂无标签                |                            To Do                             |
+| 1246 |                 过去30天的用户活动 II :lock:                 | 简单 |                暂无标签                |                            To Do                             |
 | 1247 | [递减元素使数组呈锯齿状](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag) | 中等 |                  数组                  |                            To Do                             |
 | 1248 | [二叉树着色游戏](https://leetcode-cn.com/problems/binary-tree-coloring-game) | 中等 |            树;深度优先搜索             |                            To Do                             |
 | 1249 | [快照数组](https://leetcode-cn.com/problems/snapshot-array)  | 中等 |                  数组                  |                            To Do                             |
@@ -1231,26 +1227,26 @@
 | 1254 | [层数最深叶子节点的和](https://leetcode-cn.com/problems/deepest-leaves-sum) | 中等 |            树;深度优先搜索             |                            To Do                             |
 | 1255 | [翻转子数组得到最大的数组值](https://leetcode-cn.com/problems/reverse-subarray-to-maximize-array-value) | 困难 |               数组;数学                |                            To Do                             |
 | 1256 | [数组序号转换](https://leetcode-cn.com/problems/rank-transform-of-an-array) | 简单 |                  数组                  |                            To Do                             |
-| 1258 |                       :lock:文章浏览 I                       | 简单 |                暂无标签                |                            To Do                             |
-| 1259 |                      :lock:文章浏览 II                       | 中等 |                暂无标签                |                            To Do                             |
+| 1258 |                      文章浏览 I :lock:                       | 简单 |                暂无标签                |                            To Do                             |
+| 1259 |                      文章浏览 II :lock:                      | 中等 |                暂无标签                |                            To Do                             |
 | 1260 | [一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year) | 简单 |                  数学                  |                            To Do                             |
 | 1261 | [单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring) | 中等 |                 字符串                 |                            To Do                             |
 | 1262 | [子数组中占绝大多数的元素](https://leetcode-cn.com/problems/online-majority-element-in-subarray) | 困难 |          线段树;数组;二分查找          |                            To Do                             |
 | 1263 | [掷骰子的N种方法](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum) | 中等 |                动态规划                |                            To Do                             |
 | 1267 | [从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | 中等 |                  链表                  |                            To Do                             |
-| 1268 |                       :lock:市场分析 I                       | 中等 |                暂无标签                |                            To Do                             |
-| 1269 |                      :lock:市场分析 II                       | 困难 |                暂无标签                |                            To Do                             |
+| 1268 |                      市场分析 I :lock:                       | 中等 |                暂无标签                |                            To Do                             |
+| 1269 |                      市场分析 II :lock:                      | 困难 |                暂无标签                |                            To Do                             |
 | 1270 | [餐盘栈](https://leetcode-cn.com/problems/dinner-plate-stacks) | 困难 |                  设计                  |                            To Do                             |
-| 1271 |                        :lock:网络爬虫                        | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
+| 1271 |                       网络爬虫 :lock:                        | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
 | 1272 | [查询无效交易](https://leetcode-cn.com/problems/invalid-transactions) | 中等 |              数组;字符串               |                            To Do                             |
 | 1273 | [比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character) | 简单 |              数组;字符串               |                            To Do                             |
 | 1274 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates) | 简单 |                暂无标签                |                            To Do                             |
 | 1275 | [验证二叉树](https://leetcode-cn.com/problems/validate-binary-tree-nodes) | 中等 |                   图                   |                            To Do                             |
 | 1276 | [最接近的因数](https://leetcode-cn.com/problems/closest-divisors) | 中等 |                  数学                  |                            To Do                             |
 | 1277 | [形成三的最大倍数](https://leetcode-cn.com/problems/largest-multiple-of-three) | 困难 |             数学;动态规划              |                            To Do                             |
-| 1278 |                   :lock:指定日期的产品价格                   | 中等 |                暂无标签                |                            To Do                             |
+| 1278 |                  指定日期的产品价格 :lock:                   | 中等 |                暂无标签                |                            To Do                             |
 | 1279 | [质数排列](https://leetcode-cn.com/problems/prime-arrangements) | 简单 |                  数学                  |                            To Do                             |
-| 1280 |                      :lock:健身计划评估                      | 简单 |                  数组                  |                            To Do                             |
+| 1280 |                     健身计划评估 :lock:                      | 简单 |                  数组                  |                            To Do                             |
 | 1281 | [构建回文串检测](https://leetcode-cn.com/problems/can-make-palindrome-from-substring) | 中等 |              数组;字符串               |                            To Do                             |
 | 1282 | [猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle) | 困难 |             位运算;哈希表              |                            To Do                             |
 | 1284 |   [四因数](https://leetcode-cn.com/problems/four-divisors)   | 中等 |                  数学                  |                            To Do                             |
@@ -1260,8 +1256,8 @@
 | 1288 | [删除一次得到子数组最大和](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion) | 中等 |                动态规划                |                            To Do                             |
 | 1289 | [一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week) | 简单 |                  数组                  |                            To Do                             |
 | 1290 | [使数组严格递增](https://leetcode-cn.com/problems/make-array-strictly-increasing) | 困难 |                动态规划                |                            To Do                             |
-| 1291 |                     :lock:即时食物配送 I                     | 简单 |                暂无标签                |                            To Do                             |
-| 1292 |                    :lock:即时食物配送 II                     | 中等 |                暂无标签                |                            To Do                             |
+| 1291 |                    即时食物配送 I :lock:                     | 简单 |                暂无标签                |                            To Do                             |
+| 1292 |                    即时食物配送 II :lock:                    | 中等 |                暂无标签                |                            To Do                             |
 | 1297 | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons) | 简单 |             哈希表;字符串              |                            To Do                             |
 | 1298 | [反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 中等 |                   栈                   |                            To Do                             |
 | 1299 | [K 次串联后最大子数组之和](https://leetcode-cn.com/problems/k-concatenation-maximum-sum) | 中等 |                动态规划                |                            To Do                             |
@@ -1273,45 +1269,45 @@
 | 1308 | [交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps) | 中等 |              并查集;数组               |                            To Do                             |
 | 1309 | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies) | 困难 |        深度优先搜索;图;拓扑排序        |                            To Do                             |
 | 1316 | [交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded) | 中等 |                暂无标签                |                            To Do                             |
-| 1317 |                       :lock:每月交易 I                       | 中等 |                暂无标签                |                            To Do                             |
-| 1318 |                      :lock:锦标赛优胜者                      | 困难 |                暂无标签                |                            To Do                             |
+| 1317 |                      每月交易 I :lock:                       | 中等 |                暂无标签                |                            To Do                             |
+| 1318 |                     锦标赛优胜者 :lock:                      | 困难 |                暂无标签                |                            To Do                             |
 | 1319 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences) | 简单 |                 哈希表                 |                            To Do                             |
 | 1320 | [删除字符串中的所有相邻重复项 II](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii) | 中等 |                   栈                   |                            To Do                             |
 | 1321 | [尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget) | 中等 |                  数组                  |                            To Do                             |
 | 1322 | [穿过迷宫的最少移动次数](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations) | 困难 |              广度优先搜索              |                            To Do                             |
-| 1327 |                 :lock:最后一个能进入电梯的人                 | 中等 |                暂无标签                |                            To Do                             |
-| 1328 |                       :lock:每月交易II                       | 中等 |                暂无标签                |                            To Do                             |
+| 1327 |                最后一个能进入电梯的人 :lock:                 | 中等 |                暂无标签                |                            To Do                             |
+| 1328 |                      每月交易II :lock:                       | 中等 |                暂无标签                |                            To Do                             |
 | 1329 |  [玩筹码](https://leetcode-cn.com/problems/play-with-chips)  | 简单 |           贪心算法;数组;数学           |                            To Do                             |
 | 1330 | [最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference) | 中等 |             数学;动态规划              |                            To Do                             |
 | 1331 | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold) | 中等 |                回溯算法                |                            To Do                             |
 | 1332 | [统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation) | 困难 |                动态规划                |                            To Do                             |
 | 1337 | [设计跳表](https://leetcode-cn.com/problems/design-skiplist) | 困难 |                  设计                  |                            To Do                             |
-| 1338 |                  :lock:查询结果的质量和占比                  | 简单 |                暂无标签                |                            To Do                             |
-| 1339 |                      :lock:查询球队积分                      | 中等 |                暂无标签                |                            To Do                             |
+| 1338 |                 查询结果的质量和占比 :lock:                  | 简单 |                暂无标签                |                            To Do                             |
+| 1339 |                     查询球队积分 :lock:                      | 中等 |                暂无标签                |                            To Do                             |
 | 1340 | [哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers) | 中等 |                暂无标签                |                            To Do                             |
 | 1341 | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings) | 简单 |            贪心算法;字符串             |                            To Do                             |
 | 1342 | [可以攻击国王的皇后](https://leetcode-cn.com/problems/queens-that-can-attack-the-king) | 中等 |                  数组                  |                            To Do                             |
 | 1343 | [掷骰子模拟](https://leetcode-cn.com/problems/dice-roll-simulation) | 中等 |                动态规划                |                            To Do                             |
 | 1344 | [最大相等频率](https://leetcode-cn.com/problems/maximum-equal-frequency) | 困难 |                 哈希表                 |                            To Do                             |
-| 1345 |                     :lock:字符串的左右移                     | 简单 |               数组;数学                |                            To Do                             |
+| 1345 |                    字符串的左右移 :lock:                     | 简单 |               数组;数学                |                            To Do                             |
 | 1349 | [缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line) | 简单 |             几何;数组;数学             |                            To Do                             |
 | 1350 | [删除子文件夹](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem) | 中等 |              数组;字符串               |                            To Do                             |
 | 1351 | [替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string) | 中等 |             双指针;字符串              |                            To Do                             |
 | 1352 | [规划兼职工作](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling) | 困难 |         排序;二分查找;动态规划         |                            To Do                             |
-| 1357 |                 :lock:报告系统状态的连续日期                 | 困难 |                暂无标签                |                            To Do                             |
+| 1357 |                报告系统状态的连续日期 :lock:                 | 困难 |                暂无标签                |                            To Do                             |
 | 1358 | [找出给定方程的正整数解](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation) | 简单 |             数学;二分查找              |                            To Do                             |
 | 1359 | [循环码排列](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation) | 中等 |                  数学                  |                            To Do                             |
 | 1360 | [串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | 中等 |            位运算;回溯算法             |                            To Do                             |
 | 1361 | [铺瓷砖](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares) | 困难 |           动态规划;回溯算法            |                            To Do                             |
 | 1362 | [飞机座位分配概率](https://leetcode-cn.com/problems/airplane-seat-assignment-probability) | 中等 |        脑筋急转弯;数学;动态规划        |                            To Do                             |
-| 1366 |                            :lock:                            | 中等 |              设计;哈希表               |                            To Do                             |
-| 1368 |                     :lock:多线程网页爬虫                     | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
+| 1366 |                  first-unique-number :lock:                  | 中等 |              设计;哈希表               |                            To Do                             |
+| 1368 |                    多线程网页爬虫 :lock:                     | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
 | 1369 | [交换字符使得字符串相同](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal) | 中等 |            贪心算法;字符串             |                            To Do                             |
 | 1370 | [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays) | 中等 |                 双指针                 | [Python](https://liuyang0001.github.io/1370.count-number-of-nice-subarrays.py) |
 | 1371 | [移除无效的括号](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses) | 中等 |               栈;字符串                |                            To Do                             |
 | 1372 | [检查「好数组」](https://leetcode-cn.com/problems/check-if-it-is-a-good-array) | 困难 |                  数学                  |                            To Do                             |
-| 1374 |                :lock:至少有一个 1 的最左端列                 | 中等 |                  数组                  |                            To Do                             |
-| 1377 |                    :lock:每个帖子的评论数                    | 简单 |                暂无标签                |                            To Do                             |
+| 1374 |                至少有一个 1 的最左端列 :lock:                | 中等 |                  数组                  |                            To Do                             |
+| 1377 |                   每个帖子的评论数 :lock:                    | 简单 |                暂无标签                |                            To Do                             |
 | 1378 | [奇数值单元格的数目](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix) | 简单 |                  数组                  |                            To Do                             |
 | 1379 | [重构 2 行二进制矩阵](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix) | 中等 |             贪心算法;数学              |                            To Do                             |
 | 1380 | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands) | 中等 |              深度优先搜索              |                            To Do                             |
@@ -1320,45 +1316,45 @@
 | 1387 | [在受污染的二叉树中查找元素](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree) | 中等 |               树;哈希表                |                            To Do                             |
 | 1388 | [可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three) | 中等 |                动态规划                |                            To Do                             |
 | 1389 | [推箱子](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location) | 困难 |              广度优先搜索              |                            To Do                             |
-| 1390 |                        :lock:平均售价                        | 简单 |                暂无标签                |                            To Do                             |
-| 1391 |                         :lock:数元素                         | 简单 |                  数组                  |                            To Do                             |
+| 1390 |                       平均售价 :lock:                        | 简单 |                暂无标签                |                            To Do                             |
+| 1391 |                        数元素 :lock:                         | 简单 |                  数组                  |                            To Do                             |
 | 1395 | [访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points) | 简单 |               几何;数组                |                            To Do                             |
 | 1396 | [统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate) | 中等 |                图;数组                 |                            To Do                             |
 | 1397 | [搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system) | 中等 |                 字符串                 |                            To Do                             |
 | 1398 | [停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | 困难 |                动态规划                |                            To Do                             |
-| 1399 |                        :lock:页面推荐                        | 中等 |                暂无标签                |                            To Do                             |
+| 1399 |                       页面推荐 :lock:                        | 中等 |                暂无标签                |                            To Do                             |
 | 1400 | [找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game) | 简单 |                  数组                  |                            To Do                             |
 | 1401 | [不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients) | 中等 |             贪心算法;数学              |                            To Do                             |
 | 1402 | [统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones) | 中等 |             数组;动态规划              |                            To Do                             |
 | 1403 | [分割回文串 III](https://leetcode-cn.com/problems/palindrome-partitioning-iii) | 困难 |                动态规划                |                            To Do                             |
-| 1404 |                   :lock:逆序打印不可变链表                   | 中等 |                暂无标签                |                            To Do                             |
-| 1405 |               :lock:向公司CEO汇报工作的所有人                | 中等 |                暂无标签                |                            To Do                             |
+| 1404 |                  逆序打印不可变链表 :lock:                   | 中等 |                暂无标签                |                            To Do                             |
+| 1405 |               向公司CEO汇报工作的所有人 :lock:               | 中等 |                暂无标签                |                            To Do                             |
 | 1406 | [整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | 简单 |                  数学                  |                            To Do                             |
 | 1407 | [用户分组](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to) | 中等 |                贪心算法                |                            To Do                             |
 | 1408 | [使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold) | 中等 |                二分查找                |                            To Do                             |
 | 1409 | [转化为全零矩阵的最少反转次数](https://leetcode-cn.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) | 困难 |              广度优先搜索              |                            To Do                             |
-| 1410 |                       :lock:红绿灯路口                       | 简单 |                暂无标签                |                            To Do                             |
+| 1410 |                      红绿灯路口 :lock:                       | 简单 |                暂无标签                |                            To Do                             |
 | 1411 | [二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer) | 简单 |              位运算;链表               |                            To Do                             |
 | 1413 | [元素和小于等于阈值的正方形的最大边长](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | 中等 |             数组;二分查找              |                            To Do                             |
 | 1414 | [网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) | 困难 |              广度优先搜索              |                            To Do                             |
-| 1415 |                :lock:学生们参加各科测试的次数                | 简单 |                暂无标签                |                            To Do                             |
-| 1420 |              :lock:找到连续区间的开始和结束数字              | 中等 |                暂无标签                |                            To Do                             |
+| 1415 |               学生们参加各科测试的次数 :lock:                | 简单 |                暂无标签                |                            To Do                             |
+| 1420 |             找到连续区间的开始和结束数字 :lock:              | 中等 |                暂无标签                |                            To Do                             |
 | 1421 | [统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits) | 简单 |                  数组                  |                            To Do                             |
 | 1422 | [划分数组为连续数字的集合](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers) | 中等 |             贪心算法;数组              |                            To Do                             |
 | 1423 | [子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring) | 中等 |             位运算;字符串              |                            To Do                             |
 | 1424 | [你能从盒子里获得的最大糖果数](https://leetcode-cn.com/problems/maximum-candies-you-can-get-from-boxes) | 困难 |              广度优先搜索              |                            To Do                             |
-| 1425 |                   :lock:不同国家的天气类型                   | 简单 |                暂无标签                |                            To Do                             |
+| 1425 |                  不同国家的天气类型 :lock:                   | 简单 |                暂无标签                |                            To Do                             |
 | 1426 | [和为零的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero) | 简单 |                  数组                  |                            To Do                             |
 | 1427 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees) | 中等 |                排序;树                 |                            To Do                             |
 | 1428 | [跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii) | 中等 |            广度优先搜索;图             |                            To Do                             |
 | 1429 | [口算难题](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle) | 困难 |             数学;回溯算法              |                            To Do                             |
-| 1432 |                            :lock:                            | 中等 |                   树                   |                            To Do                             |
+| 1432 | check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree :lock: | 中等 |                   树                   |                            To Do                             |
 | 1434 | [解码字母到整数映射](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | 简单 |                 字符串                 |                            To Do                             |
 | 1435 | [子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray) | 中等 |                 位运算                 |                            To Do                             |
 | 1436 | [获取你好友已观看的视频](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends) | 中等 |       广度优先搜索;哈希表;字符串       |                            To Do                             |
 | 1437 | [让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | 困难 |                动态规划                |                            To Do                             |
-| 1438 |                       :lock:求团队人数                       | 简单 |                暂无标签                |                            To Do                             |
-| 1439 |                  :lock:不同性别每日分数总计                  | 中等 |                暂无标签                |                            To Do                             |
+| 1438 |                      求团队人数 :lock:                       | 简单 |                暂无标签                |                            To Do                             |
+| 1439 |                 不同性别每日分数总计 :lock:                  | 中等 |                暂无标签                |                            To Do                             |
 | 1440 | [将整数转换为两个无零整数的和](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | 简单 |                  数学                  |                            To Do                             |
 | 1441 | [或运算的最小翻转次数](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | 中等 |                 位运算                 |                            To Do                             |
 | 1442 | [连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected) | 中等 |    深度优先搜索;广度优先搜索;并查集    |                            To Do                             |
@@ -1371,8 +1367,8 @@
 | 1449 | [竖直打印单词](https://leetcode-cn.com/problems/print-words-vertically) | 中等 |                 字符串                 |                            To Do                             |
 | 1450 | [删除给定值的叶子节点](https://leetcode-cn.com/problems/delete-leaves-with-a-given-value) | 中等 |                   树                   |                            To Do                             |
 | 1451 | [灌溉花园的最少水龙头数目](https://leetcode-cn.com/problems/minimum-number-of-taps-to-open-to-water-a-garden) | 困难 |           贪心算法;动态规划            |                            To Do                             |
-| 1452 |                   :lock:餐馆营业额变化增长                   | 中等 |                暂无标签                |                            To Do                             |
-| 1453 |                        :lock:广告效果                        | 简单 |                暂无标签                |                            To Do                             |
+| 1452 |                  餐馆营业额变化增长 :lock:                   | 中等 |                暂无标签                |                            To Do                             |
+| 1453 |                       广告效果 :lock:                        | 简单 |                暂无标签                |                            To Do                             |
 | 1454 | [删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences) | 简单 |                 字符串                 |                            To Do                             |
 | 1455 | [餐厅过滤器](https://leetcode-cn.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance) | 中等 |               排序;数组                |                            To Do                             |
 | 1456 | [阈值距离内邻居最少的城市](https://leetcode-cn.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | 中等 |                   图                   |                            To Do                             |
@@ -1381,12 +1377,12 @@
 | 1459 | [每隔 n 个顾客打折](https://leetcode-cn.com/problems/apply-discount-every-n-orders) | 中等 |                  设计                  |                            To Do                             |
 | 1460 | [包含所有三种字符的子字符串数目](https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters) | 中等 |                 字符串                 |                            To Do                             |
 | 1461 | [有效的快递序列数目](https://leetcode-cn.com/problems/count-all-valid-pickup-and-delivery-options) | 困难 |             数学;动态规划              |                            To Do                             |
-| 1462 |             :lock:列出指定时间段内所有的下单产品             | 简单 |                暂无标签                |                            To Do                             |
+| 1462 |            列出指定时间段内所有的下单产品 :lock:             | 简单 |                暂无标签                |                            To Do                             |
 | 1463 | [方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix) | 简单 |             数组;二分查找              |                            To Do                             |
 | 1464 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half) | 中等 |             贪心算法;数组              |                            To Do                             |
 | 1465 | [分裂二叉树的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree) | 中等 |              树;动态规划               |                            To Do                             |
 | 1466 |  [跳跃游戏 V](https://leetcode-cn.com/problems/jump-game-v)  | 困难 |                动态规划                |                            To Do                             |
-| 1467 |                   :lock:每次访问的交易次数                   | 困难 |                暂无标签                |                            To Do                             |
+| 1467 |                  每次访问的交易次数 :lock:                   | 困难 |                暂无标签                |                            To Do                             |
 | 1468 | [检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist) | 简单 |                  数组                  |                            To Do                             |
 | 1469 | [制造字母异位词的最小步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | 中等 |                 字符串                 |                            To Do                             |
 | 1470 | [推文计数](https://leetcode-cn.com/problems/tweet-counts-per-frequency) | 中等 |                  设计                  |                            To Do                             |
@@ -1399,8 +1395,8 @@
 | 1477 | [最后 K 个数的乘积](https://leetcode-cn.com/problems/product-of-the-last-k-numbers) | 中等 |               设计;数组                |                            To Do                             |
 | 1478 | [最多可以参加的会议数目](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended) | 中等 |          贪心算法;排序;线段树          |                            To Do                             |
 | 1479 | [多次求和构造目标数组](https://leetcode-cn.com/problems/construct-target-array-with-multiple-sums) | 困难 |                贪心算法                |                            To Do                             |
-| 1480 |                        :lock:电影评分                        | 中等 |                暂无标签                |                            To Do                             |
-| 1481 |                     :lock:院系无效的学生                     | 简单 |                暂无标签                |                            To Do                             |
+| 1480 |                       电影评分 :lock:                        | 中等 |                暂无标签                |                            To Do                             |
+| 1481 |                    院系无效的学生 :lock:                     | 简单 |                暂无标签                |                            To Do                             |
 | 1482 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number) | 简单 |              数组;哈希表               |                            To Do                             |
 | 1483 | [通过投票对团队排名](https://leetcode-cn.com/problems/rank-teams-by-votes) | 中等 |               排序;数组                |                            To Do                             |
 | 1484 | [二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree) | 中等 |            树;链表;动态规划            |                            To Do                             |
@@ -1413,8 +1409,8 @@
 | 1491 | [灯泡开关 III](https://leetcode-cn.com/problems/bulb-switcher-iii) | 中等 |                  数组                  |                            To Do                             |
 | 1492 | [通知所有员工所需的时间](https://leetcode-cn.com/problems/time-needed-to-inform-all-employees) | 中等 |              深度优先搜索              |                            To Do                             |
 | 1493 | [T 秒后青蛙的位置](https://leetcode-cn.com/problems/frog-position-after-t-seconds) | 困难 |              深度优先搜索              |                            To Do                             |
-| 1494 |                       :lock:活动参与者                       | 中等 |                暂无标签                |                            To Do                             |
-| 1495 |                  :lock:顾客的可信联系人数量                  | 中等 |                暂无标签                |                            To Do                             |
+| 1494 |                      活动参与者 :lock:                       | 中等 |                暂无标签                |                            To Do                             |
+| 1495 |                 顾客的可信联系人数量 :lock:                  | 中等 |                暂无标签                |                            To Do                             |
 | 1496 | [矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix) | 简单 |                  数组                  |                            To Do                             |
 | 1497 | [设计一个支持增量操作的栈](https://leetcode-cn.com/problems/design-a-stack-with-increment-operation) | 中等 |                栈;设计                 |                            To Do                             |
 | 1498 | [找出克隆二叉树中的相同节点](https://leetcode-cn.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | 中等 |                   树                   |                            To Do                             |
@@ -1423,11 +1419,11 @@
 | 1501 | [圆和矩形是否有重叠](https://leetcode-cn.com/problems/circle-and-rectangle-overlapping) | 中等 |                  几何                  |                            To Do                             |
 | 1502 | [构造 K 个回文字符串](https://leetcode-cn.com/problems/construct-k-palindrome-strings) | 中等 |                贪心算法                |                            To Do                             |
 | 1503 | [做菜顺序](https://leetcode-cn.com/problems/reducing-dishes) | 困难 |                动态规划                |                            To Do                             |
-| 1504 |                  :lock:获取最近第二次的活动                  | 困难 |                暂无标签                |                            To Do                             |
+| 1504 |                 获取最近第二次的活动 :lock:                  | 困难 |                暂无标签                |                            To Do                             |
 | 1505 | [按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order) | 简单 |                  数组                  |                            To Do                             |
 | 1507 | [检查网格中是否存在有效路径](https://leetcode-cn.com/problems/check-if-there-is-a-valid-path-in-a-grid) | 中等 |       深度优先搜索;广度优先搜索        |                            To Do                             |
 | 1508 | [最长快乐前缀](https://leetcode-cn.com/problems/longest-happy-prefix) | 困难 |                 字符串                 |                            To Do                             |
-| 1509 |                :lock:使用唯一标识码替换员工ID                | 简单 |                暂无标签                |                            To Do                             |
+| 1509 |               使用唯一标识码替换员工ID :lock:                | 简单 |                暂无标签                |                            To Do                             |
 | 1510 | [找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array) | 简单 |                  数组                  |                            To Do                             |
 | 1511 | [统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams) | 中等 |                  数组                  |                            To Do                             |
 | 1512 | [设计地铁系统](https://leetcode-cn.com/problems/design-underground-system) | 中等 |                  设计                  |                            To Do                             |
@@ -1436,11 +1432,11 @@
 | 1515 | [和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) | 中等 |             贪心算法;数组              | [Python](https://liuyang0001.github.io/1515.find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py) |
 | 1516 | [长度为 n 的开心字符串中字典序第 k 小的字符串](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | 中等 |                回溯算法                | [Python](https://liuyang0001.github.io/1516.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 1517 | [恢复数组](https://leetcode-cn.com/problems/restore-the-array) | 困难 |                动态规划                |                            To Do                             |
-| 1518 |                   :lock:按年度列出销售总额                   | 困难 |                暂无标签                |                            To Do                             |
+| 1518 |                  按年度列出销售总额 :lock:                   | 困难 |                暂无标签                |                            To Do                             |
 | 1519 | [非递增顺序的最小子序列](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order) | 简单 |             贪心算法;排序              |                            To Do                             |
 | 1520 | [将二进制表示减到 1 的步骤数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | 中等 |             位运算;字符串              |                            To Do                             |
 | 1522 | [石子游戏 III](https://leetcode-cn.com/problems/stone-game-iii) | 困难 |                动态规划                |                            To Do                             |
-| 1523 |                     :lock:股票的资本损益                     | 中等 |                暂无标签                |                            To Do                             |
+| 1523 |                    股票的资本损益 :lock:                     | 中等 |                暂无标签                |                            To Do                             |
 | 1524 | [数组中的字符串匹配](https://leetcode-cn.com/problems/string-matching-in-an-array) | 简单 |                 字符串                 | [Python](https://liuyang0001.github.io/1524.string-matching-in-an-array.py) |
 | 1525 | [查询带键的排列](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key) | 中等 |                  数组                  | [Python](https://liuyang0001.github.io/1525.queries-on-a-permutation-with-key.py) |
 | 1526 | [HTML 实体解析器](https://leetcode-cn.com/problems/html-entity-parser) | 中等 |               栈;字符串                | [Python](https://liuyang0001.github.io/1526.html-entity-parser.py) |
@@ -1453,21 +1449,21 @@
 | 1533 | [点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant) | 中等 |                 哈希表                 | [Python](https://liuyang0001.github.io/1533.display-table-of-food-orders-in-a-restaurant.py) |
 | 1534 | [数青蛙](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking) | 中等 |                 字符串                 | [Python](https://liuyang0001.github.io/1534.minimum-number-of-frogs-croaking.py) |
 | 1535 | [生成数组](https://leetcode-cn.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons) | 困难 |                动态规划                |                            To Do                             |
-| 1536 |        :lock:购买了产品A和产品B却没有购买产品C的顾客         | 中等 |                暂无标签                |                            To Do                             |
+| 1536 |        购买了产品A和产品B却没有购买产品C的顾客 :lock:        | 中等 |                暂无标签                |                            To Do                             |
 | 1537 | [分割字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string) | 简单 |                 字符串                 | [Python](https://liuyang0001.github.io/1537.maximum-score-after-splitting-a-string.py) |
 | 1538 | [可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards) | 中等 |             数组;动态规划              | [Python](https://liuyang0001.github.io/1538.maximum-points-you-can-obtain-from-cards.py) |
 | 1539 | [对角线遍历 II](https://leetcode-cn.com/problems/diagonal-traverse-ii) | 中等 |               排序;数组                |                            To Do                             |
-| 1541 |                    :lock:排名靠前的旅行者                    | 简单 |                暂无标签                |                            To Do                             |
+| 1541 |                   排名靠前的旅行者 :lock:                    | 简单 |                暂无标签                |                            To Do                             |
 | 1542 | [连续字符](https://leetcode-cn.com/problems/consecutive-characters) | 简单 |                 字符串                 | [Python](https://liuyang0001.github.io/1542.consecutive-characters.py) |
 | 1543 | [最简分数](https://leetcode-cn.com/problems/simplified-fractions) | 中等 |                  数学                  | [Python](https://liuyang0001.github.io/1543.simplified-fractions.py) |
 | 1544 | [统计二叉树中好节点的数目](https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree) | 中等 |            树;深度优先搜索             | [Python](https://liuyang0001.github.io/1544.count-good-nodes-in-binary-tree.py) |
 | 1545 | [数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target) | 困难 |            字符串;动态规划             |                            To Do                             |
-| 1546 |                :lock:查找成绩处于中游的的学生                | 困难 |                暂无标签                |                            To Do                             |
+| 1546 |               查找成绩处于中游的的学生 :lock:                | 困难 |                暂无标签                |                            To Do                             |
 | 1547 | [旅行终点站](https://leetcode-cn.com/problems/destination-city) | 简单 |                 字符串                 | [Python](https://liuyang0001.github.io/1547.destination-city.py) |
 | 1548 | [是否所有 1 都至少相隔 k 个元素](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | 中等 |                  数组                  | [Python](https://liuyang0001.github.io/1548.check-if-all-1s-are-at-least-length-k-places-away.py) |
 | 1549 | [绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | 中等 |                  数组                  | [Python](https://liuyang0001.github.io/1549.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
 | 1550 | [有序矩阵中的第 k 个最小数组和](https://leetcode-cn.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) | 困难 |                   堆                   |                            To Do                             |
-| 1551 |                       :lock:净现值查询                       | 中等 |                暂无标签                |                            To Do                             |
+| 1551 |                      净现值查询 :lock:                       | 中等 |                暂无标签                |                            To Do                             |
 | 1552 | [用栈操作构建数组](https://leetcode-cn.com/problems/build-an-array-with-stack-operations) | 简单 |                   栈                   | [Python](https://liuyang0001.github.io/1552.build-an-array-with-stack-operations.py) |
 | 1553 | [形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | 中等 |            位运算;数组;数学            | [Python](https://liuyang0001.github.io/1553.count-triplets-that-can-form-two-arrays-of-equal-xor.py) |
 | 1554 | [收集树上所有苹果的最少时间](https://leetcode-cn.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | 中等 |            树;深度优先搜索             |                            To Do                             |
@@ -1480,8 +1476,8 @@
 | 1561 | [重新排列句子中的单词](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence) | 中等 |              排序;字符串               | [Python](https://liuyang0001.github.io/1561.rearrange-words-in-a-sentence.py) |
 | 1562 | [收藏清单](https://leetcode-cn.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | 中等 |              排序;字符串               | [Python](https://liuyang0001.github.io/1562.people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py) |
 | 1563 | [圆形靶内的最大飞镖数量](https://leetcode-cn.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | 困难 |                  几何                  |                            To Do                             |
-| 1564 |                            :lock:                            | 简单 |                暂无标签                |                            To Do                             |
-| 1565 |                   :lock:计算布尔表达式的值                   | 中等 |                暂无标签                |                            To Do                             |
+| 1564 |              create-a-session-bar-chart :lock:               | 简单 |                暂无标签                |                            To Do                             |
+| 1565 |                  计算布尔表达式的值 :lock:                   | 中等 |                暂无标签                |                            To Do                             |
 | 1566 | [检查单词是否为句中其他单词的前缀](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | 简单 |                 字符串                 | [Python](https://liuyang0001.github.io/1566.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) |
 | 1567 | [定长子串中元音的最大数目](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | 中等 |                 字符串                 | [Python](https://liuyang0001.github.io/1567.maximum-number-of-vowels-in-a-substring-of-given-length.py) |
 | 1568 | [二叉树中的伪回文路径](https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree) | 中等 |         位运算;树;深度优先搜索         | [Python](https://liuyang0001.github.io/1568.pseudo-palindromic-paths-in-a-binary-tree.py) |
@@ -1490,13 +1486,12 @@
 | 1575 | [切割后面积最大的蛋糕](https://leetcode-cn.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | 中等 |                  数组                  | [Python](https://liuyang0001.github.io/1575.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py) |
 | 1576 | [重新规划路线](https://leetcode-cn.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) | 中等 |            树;深度优先搜索             |                            To Do                             |
 | 1577 | [两个盒子中球的颜色数相同的概率](https://leetcode-cn.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | 困难 |             数学;回溯算法              |                            To Do                             |
-| 1578 |                       :lock:苹果和桔子                       | 中等 |                暂无标签                |                            To Do                             |
-| 1579 |                       :lock: 活跃用户                        | 中等 |                暂无标签                |                            To Do                             |
+| 1578 |                      苹果和桔子 :lock:                       | 中等 |                暂无标签                |                            To Do                             |
+| 1579 |                       活跃用户 :lock:                        | 中等 |                暂无标签                |                            To Do                             |
 | 1580 | [重新排列数组](https://leetcode-cn.com/problems/shuffle-the-array) | 简单 |                  数组                  | [Python](https://liuyang0001.github.io/1580.shuffle-the-array.py) |
 | 1581 | [数组中的 k 个最强值](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array) | 中等 |               排序;数组                | [Python](https://liuyang0001.github.io/1581.the-k-strongest-values-in-an-array.py) |
 | 1582 | [设计浏览器历史记录](https://leetcode-cn.com/problems/design-browser-history) | 中等 |                  设计                  | [Python](https://liuyang0001.github.io/1582.design-browser-history.py) |
 | 1583 | [给房子涂色 III](https://leetcode-cn.com/problems/paint-house-iii) | 困难 |                动态规划                |                            To Do                             |
-| 1607 |                        :lock:矩形面积                        | 中等 |                暂无标签                |                            To Do                             |
-| 1608 |                      :lock:计算税后工资                      | 中等 |                暂无标签                |                            To Do                             |
-| 1609 |                            :lock:                            | 简单 |            树;深度优先搜索             |                            To Do                             |
-
+| 1607 |                       矩形面积 :lock:                        | 中等 |                暂无标签                |                            To Do                             |
+| 1608 |                     计算税后工资 :lock:                      | 中等 |                暂无标签                |                            To Do                             |
+| 1609 |               find-all-the-lonely-nodes :lock:               | 简单 |            树;深度优先搜索             |                            To Do                             |
