@@ -2,13 +2,13 @@
 
 <p> 
 <img src="https://img.shields.io/badge/User-Mr_Liu_-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-441/1674-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-154-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-252-green.svg?" alt="">
-<img src="https://img.shields.io/badge/Hard-35-red.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-448/1685-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-155-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-256-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Hard-37-red.svg?" alt="">
 </p> 
 
-:heart: 最近一次更新:  2020-06-12 19:40:24  
+:heart: 最近一次更新:  2020-06-19 15:03:38  
 
 :heart: 题目后带有 :lock: 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -316,7 +316,7 @@
 |294|翻转游戏 II :lock:|中等|极小化极大;回溯算法|To Do|
 |295|[数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream)|困难|堆;设计|To Do|
 |296|最佳的碰头地点 :lock:|困难|排序;数学|To Do|
-|297|[二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)|困难|树;设计|To Do|
+|297|[二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)|困难|树;设计|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/297.serialize-and-deserialize-binary-tree.py)|
 |298|二叉树最长连续序列 :lock:|中等|树|To Do|
 |299|[猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows)|简单|哈希表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/299.bulls-and-cows.py)|
 |300|[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence)|中等|二分查找;动态规划|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/300.longest-increasing-subsequence.py)|
@@ -1037,7 +1037,7 @@
 |1060|最长重复子串 :lock:|中等|字符串|To Do|
 |1061|有效子数组的数目 :lock:|困难|栈|To Do|
 |1062|[将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum)|简单|数组|To Do|
-|1063|[最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair)|中等|数组|To Do|
+|1063|[最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair)|中等|数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1063.best-sightseeing-pair.py)|
 |1064|[可被 K 整除的最小整数](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k)|中等|数学|To Do|
 |1065|[子串能表示从 1 到 N 数字的二进制串](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n)|中等|字符串|To Do|
 |1066|不动点 :lock:|简单|数组;二分查找|To Do|
@@ -1067,7 +1067,7 @@
 |1090|阿姆斯特朗数 :lock:|简单|数学|To Do|
 |1091|子树的最大平均值 :lock:|中等|树|To Do|
 |1092|[节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor)|中等|树;深度优先搜索|To Do|
-|1093|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal)|困难|树;深度优先搜索|To Do|
+|1093|[从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal)|困难|树;深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1093.recover-a-tree-from-preorder-traversal.py)|
 |1094|[距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order)|简单|排序|To Do|
 |1095|[两地调度](https://leetcode-cn.com/problems/two-city-scheduling)|简单|贪心算法|To Do|
 |1096|[两个非重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|中等|数组|To Do|
@@ -1201,7 +1201,7 @@
 |1229|[颜色交替的最短路径](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors)|中等|广度优先搜索;图|To Do|
 |1230|[绝对值表达式的最大值](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression)|中等|位运算;数学|To Do|
 |1231|[将每个元素替换为右侧最大元素](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side)|简单|数组|To Do|
-|1232|[转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target)|中等|数组;二分查找|To Do|
+|1232|[转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target)|中等|数组;二分查找|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1232.sum-of-mutated-array-closest-to-target.py)|
 |1233|矩形内船只的数目 :lock:|困难|分治算法|To Do|
 |1234|[最大得分的路径数目](https://leetcode-cn.com/problems/number-of-paths-with-max-score)|困难|动态规划|To Do|
 |1236|[第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number)|简单|递归|To Do|
@@ -1256,6 +1256,7 @@
 |1290|[使数组严格递增](https://leetcode-cn.com/problems/make-array-strictly-increasing)|困难|动态规划|To Do|
 |1291|即时食物配送 I :lock:|简单|暂无标签|To Do|
 |1292|即时食物配送 II :lock:|中等|暂无标签|To Do|
+|1296|[树节点的第 K 个祖先](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node)|困难|动态规划|To Do|
 |1297|[“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons)|简单|哈希表;字符串|To Do|
 |1298|[反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses)|中等|栈|To Do|
 |1299|[K 次串联后最大子数组之和](https://leetcode-cn.com/problems/k-concatenation-maximum-sum)|中等|动态规划|To Do|
@@ -1480,6 +1481,10 @@
 |1567|[定长子串中元音的最大数目](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|中等|字符串|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1567.maximum-number-of-vowels-in-a-substring-of-given-length.py)|
 |1568|[二叉树中的伪回文路径](https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree)|中等|位运算;树;深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1568.pseudo-palindromic-paths-in-a-binary-tree.py)|
 |1569|[两个子序列的最大点积](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences)|困难|动态规划|To Do|
+|1570|[商品折扣后的最终价格](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop)|简单|数组|To Do|
+|1571|[安排邮筒](https://leetcode-cn.com/problems/allocate-mailboxes)|困难|数学;动态规划|To Do|
+|1572|[子矩形查询](https://leetcode-cn.com/problems/subrectangle-queries)|中等|数组|To Do|
+|1573|[找两个和为目标值且不重叠的子数组](https://leetcode-cn.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|中等|动态规划|To Do|
 |1574|[数组中两元素的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array)|简单|数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1574.maximum-product-of-two-elements-in-an-array.py)|
 |1575|[切割后面积最大的蛋糕](https://leetcode-cn.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|中等|数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1575.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py)|
 |1576|[重新规划路线](https://leetcode-cn.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|中等|树;深度优先搜索|To Do|
@@ -1490,7 +1495,13 @@
 |1581|[数组中的 k 个最强值](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array)|中等|排序;数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1581.the-k-strongest-values-in-an-array.py)|
 |1582|[设计浏览器历史记录](https://leetcode-cn.com/problems/design-browser-history)|中等|设计|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1582.design-browser-history.py)|
 |1583|[给房子涂色 III](https://leetcode-cn.com/problems/paint-house-iii)|困难|动态规划|To Do|
+|1603|[一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array)|简单|数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1603.running-sum-of-1d-array.py)|
+|1604|[不同整数的最少数目](https://leetcode-cn.com/problems/least-number-of-unique-integers-after-k-removals)|中等|排序;数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1604.least-number-of-unique-integers-after-k-removals.py)|
+|1605|[制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets)|中等|数组;二分查找|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/1605.minimum-number-of-days-to-make-m-bouquets.py)|
 |1607|矩形面积 :lock:|中等|暂无标签|To Do|
 |1608|计算税后工资 :lock:|中等|暂无标签|To Do|
 |1609|害-未爬到中文名 :lock:|简单|树;深度优先搜索|To Do|
-|1618|害-未爬到中文名 :lock:|简单|链表|To Do|
+|1618|删除链表 M 个节点之后的 N 个节点 :lock:|简单|链表|To Do|
+|1623|害-未爬到中文名 :lock:|困难|暂无标签|To Do|
+|1624|害-未爬到中文名 :lock:|中等|树;深度优先搜索|To Do|
+|1625|害-未爬到中文名 :lock:|简单|暂无标签|To Do|
