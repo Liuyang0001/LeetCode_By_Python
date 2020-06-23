@@ -2,13 +2,13 @@
 
 <p> 
 <img src="https://img.shields.io/badge/User-Mr_Liu_-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-454/1689-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-156-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-455/1689-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-157-yellow.svg?" alt="">
 <img src="https://img.shields.io/badge/Medium-259-green.svg?" alt="">
 <img src="https://img.shields.io/badge/Hard-39-red.svg?" alt="">
 </p> 
 
-:heart: 最近一次更新:  2020-06-23 15:19:58  
+:heart: 最近一次更新:  2020-06-23 15:53:34  
 
 :heart: 题目后带有 :lock: 表示该题尚未解锁，需要购买力扣经典会员。
 
