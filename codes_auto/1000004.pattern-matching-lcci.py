@@ -1,5 +1,5 @@
 #
-# @lc app=leetcode.cn id=1000004 lang=nan
+# @lc app=leetcode.cn id=1000004 lang=python3
 #
 # [1000004] pattern-matching-lcci
 #
@@ -18,4 +18,4 @@ class Solution:
         # 匹配到 && (模式长度为1 || 模式长度为2 && 两个模式不相同)
         return bool(m and (len(m.groups()) == 1 or m.groups()[0] != m.groups()[1]))
 
-# @lc code=end
+{sign} @lc code=end

@@ -1,5 +1,5 @@
 #
-# @lc app=leetcode.cn id=437 lang=nan
+# @lc app=leetcode.cn id=437 lang=python3
 #
 # [437] path-sum-iii
 #

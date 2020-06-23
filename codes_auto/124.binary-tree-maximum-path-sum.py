@@ -1,5 +1,5 @@
 #
-# @lc app=leetcode.cn id=124 lang=nan
+# @lc app=leetcode.cn id=124 lang=python3
 #
 # [124] binary-tree-maximum-path-sum
 #
@@ -26,4 +26,4 @@ class Solution:
         helper(root)
         return self.res 
 
-# @lc code=end
+{sign} @lc code=end
