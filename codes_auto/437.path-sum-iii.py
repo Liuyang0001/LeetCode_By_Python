@@ -17,4 +17,4 @@ class Solution:
             sumlist = [num + root.val for num in sumlist] + [root.val]
             return sumlist.count(sum) + dfs(root.left, sumlist) + dfs(root.right, sumlist)
         return dfs(root, [])
-{sign} @lc code=end
+# @lc code=end

@@ -18,4 +18,4 @@ class Solution:
         # 匹配到 && (模式长度为1 || 模式长度为2 && 两个模式不相同)
         return bool(m and (len(m.groups()) == 1 or m.groups()[0] != m.groups()[1]))
 
-{sign} @lc code=end
+# @lc code=end

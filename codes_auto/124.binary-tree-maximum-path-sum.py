@@ -26,4 +26,4 @@ class Solution:
         helper(root)
         return self.res 
 
-{sign} @lc code=end
+# @lc code=end
