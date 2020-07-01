@@ -2,13 +2,13 @@
 
 <p> 
 <img src="https://img.shields.io/badge/User-Mr_Liu_-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-456/1690-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-157-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-260-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-463/1699-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-160-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-264-green.svg?" alt="">
 <img src="https://img.shields.io/badge/Hard-39-red.svg?" alt="">
 </p> 
 
-:heart: 最近一次更新:  2020-06-25 12:36:25  
+:heart: 最近一次更新:  2020-07-01 16:18:56  
 
 :heart: 题目后带有 :lock: 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -704,7 +704,7 @@
 |715|[Range 模块](https://leetcode-cn.com/problems/range-module)|困难|线段树|To Do|
 |716|最大栈 :lock:|简单|设计|To Do|
 |717|[1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)|简单|数组|To Do|
-|718|[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray)|中等|数组;哈希表;二分查找;动态规划|To Do|
+|718|[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray)|中等|数组;哈希表;二分查找;动态规划|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/718.maximum-length-of-repeated-subarray.py)|
 |719|[找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance)|困难|堆;数组;二分查找|To Do|
 |720|[词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary)|简单|字典树;哈希表|To Do|
 |721|[账户合并](https://leetcode-cn.com/problems/accounts-merge)|中等|深度优先搜索;并查集|To Do|
