@@ -1,0 +1,13 @@
+#
+# @lc app=leetcode.cn id=167 lang=Python3
+#
+# [167] two-sum-ii-input-array-is-sorted
+#
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        r = bisect.bisect(numbers, target)
+        for i,num in enumerate(numbers):
+            ind = bisect.bisect(numbers[i+1:r+1], target-num)+i
+            # print(ind,numbers[ind])
+            if numbers[ind]==(target-num): return [i+1,ind+1]
+# @lc code=end

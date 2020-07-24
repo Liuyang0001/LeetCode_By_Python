@@ -1,0 +1,9 @@
+#
+# @lc app=leetcode.cn id=1086 lang=Python3
+#
+# [1086] divisor-game
+#
+class Solution:
+    def divisorGame(self, N: int) -> bool:
+        return N%2==0
+# @lc code=end

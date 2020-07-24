@@ -1,0 +1,29 @@
+#
+# @lc app=leetcode.cn id=312 lang=Python3
+#
+# [312] burst-balloons
+#
+class Solution:
+    def maxCoins(self, nums: List[int]) -> int:
+        n = len(nums)
+        if n == 0: return 0
+        if n == 1: return nums[0]
+
+        # 在两端加上边界，数组长度也应＋2
+        nums = [1] + nums + [1]
+        n += 2
+        dp = [[0 for _ in range(n)] for _ in range(n)]
+        # 状态转移方程的理解：
+        # 以两个数作为左右端点，找出最优解中它们中间那个戳破的气球，
+        # 中间这个气球把整个队列分为了2部分，
+        # 要想让中间这个气球和2个端点靠在一起，就需要先把分开的2部分的气球戳破。
+        # dp[i][j]表示i~j最大值，i，j不戳破。 
+        # 比如k气球在i,j之间时(i,k,j)被戳破，那么要先戳破i,k、k,j之间的气球，
+        # 所以dp[i][j]=dp[i][k]+dp[k][j]+nums[i]*nums[k]*nums[j]
+        for i in range(n-2, -1, -1):
+            for j in range(i+1, n):
+                for k in range(i+1, j):
+                    dp[i][j] = max(dp[i][j], dp[i][k] + nums[i]*nums[k]*nums[j] + dp[k][j])
+        return dp[0][-1]
+
+# @lc code=end

@@ -1,0 +1,9 @@
+#
+# @lc app=leetcode.cn id=35 lang=Python3
+#
+# [35] search-insert-position
+#
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        return bisect.bisect_left(nums, target)
+# @lc code=end
