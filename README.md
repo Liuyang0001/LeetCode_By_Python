@@ -2,13 +2,13 @@
 
 <p> 
 <img src="https://img.shields.io/badge/User-Mr_Liu_-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-477/1722-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-165-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-270-green.svg?" alt="">
-<img src="https://img.shields.io/badge/Hard-42-red.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-478/1727-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-164-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-271-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Hard-43-red.svg?" alt="">
 </p> 
 
-:heart: 最近一次更新:  2020-07-25 00:32:19  
+:heart: 最近一次更新:  2020-07-26 12:39:15  
 
 :heart: 题目后带有 :lock: 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -348,7 +348,7 @@
 |326|[3的幂](https://leetcode-cn.com/problems/power-of-three)|简单|数学|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/326.power-of-three.py)|
 |327|[区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum)|困难|排序、树状数组、线段树、二分查找、分治算法|To Do|
 |328|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list)|中等|链表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/328.odd-even-linked-list.py)|
-|329|[矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix)|困难|深度优先搜索、拓扑排序、记忆化|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/329.longest-increasing-path-in-a-matrix.py)|
+|329|[矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix)|困难|深度优先搜索、拓扑排序、记忆化|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/329.longest-increasing-path-in-a-matrix)|
 |330|[按要求补齐数组](https://leetcode-cn.com/problems/patching-array)|困难|贪心算法|To Do|
 |331|[验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree)|中等|栈|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/331.verify-preorder-serialization-of-a-binary-tree.py)|
 |332|[重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary)|中等|深度优先搜索、图|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/332.reconstruct-itinerary.py)|
@@ -429,7 +429,7 @@
 |407|[接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii)|困难|堆、广度优先搜索|To Do|
 |408|有效单词缩写 :lock:|简单|字符串|To Do|
 |409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome)|简单|哈希表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/409.longest-palindrome.py)|
-|410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum)|困难|二分查找、动态规划|To Do|
+|410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum)|困难|二分查找、动态规划|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/410.split-array-largest-sum)|
 |411|最短特异单词缩写 :lock:|困难|位运算、回溯算法|To Do|
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)|简单|暂无标签|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/412.fizz-buzz.py)|
 |413|[等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices)|中等|数学、动态规划|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/413.arithmetic-slices.py)|
