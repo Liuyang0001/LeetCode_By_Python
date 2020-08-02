@@ -1,0 +1,15 @@
+#
+# @lc app=leetcode.cn id=392 lang=Python3
+#
+# [392] is-subsequence
+#
+class Solution:
+    def isSubsequence(self, s: str, t: str) -> bool:
+        point = 0
+        for char in t:
+            if point < len(s):
+                tmp = s[point]
+                if char == tmp:
+                    point += 1
+        return point == len(s)
+# @lc code=end

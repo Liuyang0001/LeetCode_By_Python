@@ -2,13 +2,13 @@
 
 <p> 
 <img src="https://img.shields.io/badge/User-Mr_Liu_-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-478/1727-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-164-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-271-green.svg?" alt="">
-<img src="https://img.shields.io/badge/Hard-43-red.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-486/1737-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-166-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-275-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Hard-45-red.svg?" alt="">
 </p> 
 
-:heart: 最近一次更新:  2020-07-26 12:39:15  
+:heart: 最近一次更新:  2020-08-02 12:08:01  
 
 :heart: 题目后带有 :lock: 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -123,7 +123,7 @@
 |101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)|简单|树、深度优先搜索、广度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/101.symmetric-tree.py)|
 |102|[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)|中等|树、广度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/102.binary-tree-level-order-traversal.py)|
 |103|[二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)|中等|栈、树、广度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/103.binary-tree-zigzag-level-order-traversal.py)|
-|104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)|简单|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/104.maximum-depth-of-binary-tree.py)|
+|104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)|简单|树、深度优先搜索|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/104.maximum-depth-of-binary-tree)|
 |105|[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|中等|树、深度优先搜索、数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/105.construct-binary-tree-from-preorder-and-inorder-traversal.py)|
 |106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|中等|树、深度优先搜索、数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)|
 |107|[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii)|简单|树、广度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/107.binary-tree-level-order-traversal-ii.py)|
@@ -133,7 +133,7 @@
 |111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)|简单|树、深度优先搜索、广度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/111.minimum-depth-of-binary-tree.py)|
 |112|[路径总和](https://leetcode-cn.com/problems/path-sum)|简单|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/112.path-sum.py)|
 |113|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii)|中等|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/113.path-sum-ii.py)|
-|114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list)|中等|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/114.flatten-binary-tree-to-linked-list.py)|
+|114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list)|中等|树、深度优先搜索|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/114.flatten-binary-tree-to-linked-list)|
 |115|[不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences)|困难|字符串、动态规划|To Do|
 |116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|中等|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/116.populating-next-right-pointers-in-each-node.py)|
 |117|[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)|中等|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/117.populating-next-right-pointers-in-each-node-ii.py)|
@@ -362,7 +362,7 @@
 |340|至多包含 K 个不同字符的最长子串 :lock:|困难|哈希表、字符串|To Do|
 |341|[扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator)|中等|栈、设计|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/341.flatten-nested-list-iterator.py)|
 |342|[4的幂](https://leetcode-cn.com/problems/power-of-four)|简单|位运算|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/342.power-of-four.py)|
-|343|[整数拆分](https://leetcode-cn.com/problems/integer-break)|中等|数学、动态规划|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/343.integer-break.py)|
+|343|[整数拆分](https://leetcode-cn.com/problems/integer-break)|中等|数学、动态规划|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/343.integer-break)|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string)|简单|双指针、字符串|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/344.reverse-string.py)|
 |345|[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)|简单|双指针、字符串|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/345.reverse-vowels-of-a-string.py)|
 |346|数据流中的移动平均值 :lock:|简单|设计、队列|To Do|
@@ -411,7 +411,7 @@
 |389|[找不同](https://leetcode-cn.com/problems/find-the-difference)|简单|位运算、哈希表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/389.find-the-difference.py)|
 |390|[消除游戏](https://leetcode-cn.com/problems/elimination-game)|中等|暂无标签|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/390.elimination-game.py)|
 |391|[完美矩形](https://leetcode-cn.com/problems/perfect-rectangle)|困难|暂无标签|To Do|
-|392|[判断子序列](https://leetcode-cn.com/problems/is-subsequence)|简单|贪心算法、二分查找、动态规划|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/392.is-subsequence.py)|
+|392|[判断子序列](https://leetcode-cn.com/problems/is-subsequence)|简单|贪心算法、二分查找、动态规划|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/392.is-subsequence)|
 |393|[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation)|中等|位运算|To Do|
 |394|[字符串解码](https://leetcode-cn.com/problems/decode-string)|中等|栈、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/394.decode-string.py)|
 |395|[至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters)|中等|暂无标签|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/395.longest-substring-with-at-least-k-repeating-characters.py)|
@@ -630,7 +630,7 @@
 |629|[K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array)|困难|动态规划|To Do|
 |630|[课程表 III](https://leetcode-cn.com/problems/course-schedule-iii)|困难|贪心算法|To Do|
 |631|设计 Excel 求和公式 :lock:|困难|设计|To Do|
-|632|[最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists)|困难|哈希表、双指针、字符串|To Do|
+|632|[最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists)|困难|哈希表、双指针、字符串|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/632.smallest-range-covering-elements-from-k-lists)|
 |633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers)|简单|数学|To Do|
 |634|寻找数组的错位排列 :lock:|中等|数学|To Do|
 |635|设计日志存储系统 :lock:|中等|设计、字符串|To Do|
@@ -750,7 +750,7 @@
 |761|员工空闲时间 :lock:|困难|堆、贪心算法|To Do|
 |762|找出变位映射 :lock:|简单|哈希表|To Do|
 |763|[特殊的二进制序列](https://leetcode-cn.com/problems/special-binary-string)|困难|递归、字符串|To Do|
-|764|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)|中等|树、广度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/764.n-ary-tree-level-order-traversal.py)|
+|764|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)|中等|树、广度优先搜索|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/764.n-ary-tree-level-order-traversal)|
 |765|序列化和反序列化 N 叉树 :lock:|困难|树|To Do|
 |766|[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list)|中等|深度优先搜索、链表|To Do|
 |767|[二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation)|简单|位运算|To Do|
