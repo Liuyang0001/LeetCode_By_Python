@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Hard-45-red.svg?" alt="">
 </p> 
 
-:heart: 最近一次更新:  2020-08-02 12:08:01  
+:heart: 最近一次更新:  2020-08-04 23:05:51  
 
 :heart: 题目后带有 :lock: 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -226,7 +226,7 @@
 |204|[计数质数](https://leetcode-cn.com/problems/count-primes)|简单|哈希表、数学|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/204.count-primes.py)|
 |205|[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings)|简单|哈希表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/205.isomorphic-strings.py)|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list)|简单|链表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/206.reverse-linked-list.py)|
-|207|[课程表](https://leetcode-cn.com/problems/course-schedule)|中等|深度优先搜索、广度优先搜索、图、拓扑排序|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/207.course-schedule.py)|
+|207|[课程表](https://leetcode-cn.com/problems/course-schedule)|中等|深度优先搜索、广度优先搜索、图、拓扑排序|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/207.course-schedule)|
 |208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)|中等|设计、字典树|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/208.implement-trie-prefix-tree.py)|
 |209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum)|中等|数组、双指针、二分查找|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/209.minimum-size-subarray-sum.py)|
 |210|[课程表 II](https://leetcode-cn.com/problems/course-schedule-ii)|中等|深度优先搜索、广度优先搜索、图、拓扑排序|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/210.course-schedule-ii.py)|
@@ -434,7 +434,7 @@
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)|简单|暂无标签|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/412.fizz-buzz.py)|
 |413|[等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices)|中等|数学、动态规划|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/413.arithmetic-slices.py)|
 |414|[第三大的数](https://leetcode-cn.com/problems/third-maximum-number)|简单|数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/414.third-maximum-number.py)|
-|415|[字符串相加](https://leetcode-cn.com/problems/add-strings)|简单|字符串|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/415.add-strings.py)|
+|415|[字符串相加](https://leetcode-cn.com/problems/add-strings)|简单|字符串|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/415.add-strings)|
 |416|[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum)|中等|动态规划|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/416.partition-equal-subset-sum.py)|
 |417|[太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow)|中等|深度优先搜索、广度优先搜索|To Do|
 |418|屏幕可显示句子的数量 :lock:|中等|动态规划|To Do|
