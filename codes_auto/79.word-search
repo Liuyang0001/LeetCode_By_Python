@@ -1,0 +1,29 @@
+#
+# @lc app=leetcode.cn id=79 lang=Python3
+#
+# [79] word-search
+#
+class Solution:
+    def exist(self, board: List[List[str]], word: str) -> bool:
+        row = len(board)
+        col = len(board[0])
+
+        def dfs(i, j, wd_len, visited):
+            # 匹配到了足够的长度
+            if wd_len == len(word): return True
+            for tem_i, tem_j in [(-1, 0), (1, 0), (0, 1), (0, -1)]:
+                x = tem_i + i
+                y = tem_j + j
+                if 0 <= x < row and 0 <= y < col and board[x][y] == word[wd_len] and (x, y) not in visited:
+                    visited.add((x, y))
+                    if dfs(x, y, wd_len+1, visited): return True
+                    # 回溯上一步
+                    visited.remove((x, y))
+            return False
+        
+        for i in range(row):
+            for j in range(col):
+                if board[i][j] == word[0] and dfs(i, j, 1, {(i, j)}):
+                    return True
+        return False
+# @lc code=end

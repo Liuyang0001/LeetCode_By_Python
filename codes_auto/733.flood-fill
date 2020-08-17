@@ -1,0 +1,24 @@
+#
+# @lc app=leetcode.cn id=733 lang=Python3
+#
+# [733] flood-fill
+#
+class Solution:
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
+        R, old, n, m = [], image[sr][sc], len(image), len(image[0])
+        def bfs(Q, visited):
+            if not Q: return 
+            nQ = []
+            for x, y in Q:
+                R.append((x, y))
+                for dx, dy in [[1, 0], [-1, 0], [0, 1], [0, -1]]:
+                    nx, ny = x + dx, y + dy
+                    if 0 <= nx < n and 0 <= ny < m and image[nx][ny] == old and (nx,ny) not in visited:
+                        visited.add((nx,ny))
+                        nQ.append((nx, ny))
+            return bfs(nQ, visited)
+        bfs([(sr, sc)], set())
+        for x, y in R:
+            image[x][y] = newColor
+        return image  
+# @lc code=end

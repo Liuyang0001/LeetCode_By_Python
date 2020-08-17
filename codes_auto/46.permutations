@@ -1,0 +1,22 @@
+#
+# @lc app=leetcode.cn id=46 lang=Python3
+#
+# [46] permutations
+#
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        if  not nums: return []
+        n = len(nums)
+
+        def backtrack(last, tem):
+            if not last:
+                res.append(tem)
+                return
+            
+            for i in range(len(last)):
+                backtrack(last[:i]+last[i+1:], tem+[last[i]])
+        
+        backtrack(nums, [])
+        return res
+# @lc code=end

@@ -1,0 +1,33 @@
+#
+# @lc app=leetcode.cn id=546 lang=Python3
+#
+# [546] remove-boxes
+#
+class Solution:
+    def removeBoxes(self, boxes: List[int]) -> int:
+        memo = {}
+
+        def f(i, j, k):
+            if (i, j, k) in memo:
+                return memo[i, j, k]
+            # 基线条件一：无盒可消
+            if i > j:
+                return 0
+            # 基线条件二：仅有一个盒子
+            if i == j:
+                return (k + 1) ** 2
+
+            # 消除方式一：
+            # 直接把 boxes[i] 消除，boxes[i + 1:] 另算
+            res = (k + 1) ** 2 + f(i + 1, j, 0)
+            # 消除方式二：
+            # 遍历寻找 boxes[i + 1:j] 中与当前盒子颜色相同的盒子
+            # 先把 boxes[i + 1:m - 1] 消除，然后把当前盒子放到 boxes[m:j] 左边消除
+            for m in range(i + 1, j + 1):
+                if boxes[m] == boxes[i]:
+                    res = max(res, f(i + 1, m - 1, 0) + f(m, j, k + 1))
+            memo[i, j, k] = res
+            return res
+
+        return f(0, len(boxes) - 1, 0)
+# @lc code=end

@@ -1,0 +1,22 @@
+#
+# @lc app=leetcode.cn id=22 lang=Python3
+#
+# [22] generate-parentheses
+#
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
+        res = []
+
+        @lru_cache(None)
+        def backtrack(l,r,tem):
+            if l==r==n:
+                res.append(tem)
+                return
+            if l<n:
+                backtrack(l+1,r,tem+'(')
+            if r<l:
+                backtrack(l,r+1,tem+')')
+        
+        backtrack(0,0,'')
+        return res
+# @lc code=end

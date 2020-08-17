@@ -2,13 +2,13 @@
 
 <p> 
 <img src="https://img.shields.io/badge/User-Mr_Liu_-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-490/1747-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-167-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-276-green.svg?" alt="">
-<img src="https://img.shields.io/badge/Hard-47-red.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-496/1753-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-170-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-278-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Hard-48-red.svg?" alt="">
 </p> 
 
-:heart: 最近一次更新:  2020-08-09 16:05:14  
+:heart: 最近一次更新:  2020-08-17 10:29:22  
 
 :heart: 题目后带有 :lock: 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -36,12 +36,12 @@
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)|简单|字符串|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/14.longest-common-prefix.py)|
 |15|[三数之和](https://leetcode-cn.com/problems/3sum)|中等|数组、双指针|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/15.3sum.py)|
 |16|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest)|中等|数组、双指针|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/16.3sum-closest.py)|
-|17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)|中等|字符串、回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/17.letter-combinations-of-a-phone-number.py)|
+|17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)|中等|字符串、回溯算法|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/17.letter-combinations-of-a-phone-number)|
 |18|[四数之和](https://leetcode-cn.com/problems/4sum)|中等|数组、哈希表、双指针|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/18.4sum.py)|
 |19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|中等|链表、双指针|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/19.remove-nth-node-from-end-of-list.py)|
-|20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses)|简单|栈、字符串|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/20.valid-parentheses.py)|
+|20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses)|简单|栈、字符串|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/20.valid-parentheses)|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)|简单|链表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/21.merge-two-sorted-lists.py)|
-|22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses)|中等|字符串、回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/22.generate-parentheses.py)|
+|22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses)|中等|字符串、回溯算法|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/22.generate-parentheses)|
 |23|[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)|困难|堆、链表、分治算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/23.merge-k-sorted-lists.py)|
 |24|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)|中等|链表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/24.swap-nodes-in-pairs.py)|
 |25|[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)|困难|链表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/25.reverse-nodes-in-k-group.py)|
@@ -62,10 +62,10 @@
 |40|[组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii)|中等|数组、回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/40.combination-sum-ii.py)|
 |41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive)|困难|数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/41.first-missing-positive.py)|
 |42|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water)|困难|栈、数组、双指针|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/42.trapping-rain-water.py)|
-|43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings)|中等|数学、字符串|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/43.multiply-strings.py)|
+|43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings)|中等|数学、字符串|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/43.multiply-strings)|
 |44|[通配符匹配](https://leetcode-cn.com/problems/wildcard-matching)|困难|贪心算法、字符串、动态规划、回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/44.wildcard-matching.py)|
 |45|[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)|困难|贪心算法、数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/45.jump-game-ii.py)|
-|46|[全排列](https://leetcode-cn.com/problems/permutations)|中等|回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/46.permutations.py)|
+|46|[全排列](https://leetcode-cn.com/problems/permutations)|中等|回溯算法|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/46.permutations)|
 |47|[全排列 II](https://leetcode-cn.com/problems/permutations-ii)|中等|回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/47.permutations-ii.py)|
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image)|中等|数组|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/48.rotate-image.py)|
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams)|中等|哈希表、字符串|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/49.group-anagrams.py)|
@@ -97,8 +97,8 @@
 |75|[颜色分类](https://leetcode-cn.com/problems/sort-colors)|中等|排序、数组、双指针|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/75.sort-colors.py)|
 |76|[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring)|困难|哈希表、双指针、字符串|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/76.minimum-window-substring.py)|
 |77|[组合](https://leetcode-cn.com/problems/combinations)|中等|回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/77.combinations.py)|
-|78|[子集](https://leetcode-cn.com/problems/subsets)|中等|位运算、数组、回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/78.subsets.py)|
-|79|[单词搜索](https://leetcode-cn.com/problems/word-search)|中等|数组、回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/79.word-search.py)|
+|78|[子集](https://leetcode-cn.com/problems/subsets)|中等|位运算、数组、回溯算法|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/78.subsets)|
+|79|[单词搜索](https://leetcode-cn.com/problems/word-search)|中等|数组、回溯算法|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/79.word-search)|
 |80|[删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)|中等|数组、双指针|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/80.remove-duplicates-from-sorted-array-ii.py)|
 |81|[搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii)|中等|数组、二分查找|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/81.search-in-rotated-sorted-array-ii.py)|
 |82|[删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|中等|链表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/82.remove-duplicates-from-sorted-list-ii.py)|
@@ -129,7 +129,7 @@
 |107|[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii)|简单|树、广度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/107.binary-tree-level-order-traversal-ii.py)|
 |108|[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree)|简单|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/108.convert-sorted-array-to-binary-search-tree.py)|
 |109|[有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree)|中等|深度优先搜索、链表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/109.convert-sorted-list-to-binary-search-tree.py)|
-|110|[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree)|简单|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/110.balanced-binary-tree.py)|
+|110|[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree)|简单|树、深度优先搜索|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/110.balanced-binary-tree)|
 |111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)|简单|树、深度优先搜索、广度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/111.minimum-depth-of-binary-tree.py)|
 |112|[路径总和](https://leetcode-cn.com/problems/path-sum)|简单|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/112.path-sum.py)|
 |113|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii)|中等|树、深度优先搜索|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/113.path-sum-ii.py)|
@@ -152,7 +152,7 @@
 |130|[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions)|中等|深度优先搜索、广度优先搜索、并查集|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/130.surrounded-regions.py)|
 |131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning)|中等|回溯算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/131.palindrome-partitioning.py)|
 |132|[分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii)|困难|动态规划|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/132.palindrome-partitioning-ii.py)|
-|133|[克隆图](https://leetcode-cn.com/problems/clone-graph)|中等|深度优先搜索、广度优先搜索、图|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/133.clone-graph.py)|
+|133|[克隆图](https://leetcode-cn.com/problems/clone-graph)|中等|深度优先搜索、广度优先搜索、图|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/133.clone-graph)|
 |134|[加油站](https://leetcode-cn.com/problems/gas-station)|中等|贪心算法|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/134.gas-station.py)|
 |135|[分发糖果](https://leetcode-cn.com/problems/candy)|困难|贪心算法|To Do|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number)|简单|位运算、哈希表|[Python](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/136.single-number.py)|
@@ -550,7 +550,7 @@
 |543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree)|简单|树|To Do|
 |544|输出比赛匹配对 :lock:|中等|递归、字符串|To Do|
 |545|二叉树的边界 :lock:|中等|树|To Do|
-|546|[移除盒子](https://leetcode-cn.com/problems/remove-boxes)|困难|深度优先搜索、动态规划|To Do|
+|546|[移除盒子](https://leetcode-cn.com/problems/remove-boxes)|困难|深度优先搜索、动态规划|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/546.remove-boxes)|
 |547|[朋友圈](https://leetcode-cn.com/problems/friend-circles)|中等|深度优先搜索、并查集|To Do|
 |548|将数组分割成和相等的子数组 :lock:|中等|数组|To Do|
 |549|二叉树中最长的连续序列 :lock:|中等|树|To Do|
@@ -719,7 +719,7 @@
 |730|[统计不同回文子序列](https://leetcode-cn.com/problems/count-different-palindromic-subsequences)|困难|字符串、动态规划|To Do|
 |731|[我的日程安排表 II](https://leetcode-cn.com/problems/my-calendar-ii)|中等|暂无标签|To Do|
 |732|[我的日程安排表 III](https://leetcode-cn.com/problems/my-calendar-iii)|困难|线段树|To Do|
-|733|[图像渲染](https://leetcode-cn.com/problems/flood-fill)|简单|深度优先搜索|To Do|
+|733|[图像渲染](https://leetcode-cn.com/problems/flood-fill)|简单|深度优先搜索|[Python3](https://github.com/Liuyang0001/LeetCode_By_Python/tree/master/codes_auto/733.flood-fill)|
 |734|句子相似性 :lock:|简单|哈希表|To Do|
 |735|[行星碰撞](https://leetcode-cn.com/problems/asteroid-collision)|中等|栈|To Do|
 |736|[Lisp 语法解析](https://leetcode-cn.com/problems/parse-lisp-expression)|困难|字符串|To Do|
